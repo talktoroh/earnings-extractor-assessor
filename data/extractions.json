@@ -1,1 +1,303 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 24% and Google Cloud growth accelerated.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income was a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and the results outstanding, and describes momentum across the board."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T18:15:53+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026, Amazon expects net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS grew 36.7%, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income includes a large non-operating gain, mainly from Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Advertising grew 26% year over year.",
+        "quote": "Advertising had another strong quarter with 26% year-over-year growth."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming, advertising was strong and there is much more coming for customers."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T18:15:53+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs and expenses include a charge for the agreement with state attorneys general.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Full-year 2026 expenses are now expected at $175-179 billion.",
+        "quote": "We now expect full year 2026 total expenses to be in the range of $175-179 billion."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the core business strong and the CFO expects strong revenue growth throughout 2027."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T18:15:53+08:00"
+  },
+  {
+    "cik": "100885",
+    "company": "UNION PACIFIC CORP",
+    "accession": "0000100885-26-000319",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 7197,
+        "unit": "USD millions",
+        "quote": "Total operating revenues | 7,197 | 6,244"
+      },
+      "operating_income": {
+        "value": 2943,
+        "unit": "USD millions",
+        "quote": "Operating income | 2,943 | 2,549"
+      },
+      "net_income": {
+        "value": 2076,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 2,076 | $ | 1,788"
+      },
+      "diluted_eps": {
+        "value": 3.49,
+        "unit": "USD per share",
+        "quote": "Earnings per share - diluted | $ | 3.49 | $ | 3.01"
+      }
+    },
+    "guidance": {
+      "text": "Union Pacific affirms reported EPS growth of high-single digit for 2026 and a capital plan of $3.5 billion.",
+      "quote": "Reported earnings per share growth of high-single digit; consistent with attaining 3-year CAGR target of high-single to low-double digit through 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO describes record financial results driven by volume growth.",
+        "quote": "We executed at a consistently high level, enabling record financial results and further reinforcing our position as the industry leader."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Operating revenue grew 15%, helped by fuel surcharge and volume.",
+        "quote": "Operating revenue of $7.2 billion grew 15% driven by higher fuel surcharge, 6% volume growth, core pricing gains and increased other revenue partially offset by business mix."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Reported operating ratio improved 10 basis points to 59.1%.",
+        "quote": "Reported operating ratio improved 10 basis points to 59.1%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes record results and a consistently high level of execution."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/100885-0000100885-26-000319.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000319/a2026-10x228xkex991earning.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000319/0000100885-26-000319-index.htm",
+    "saved_at": "2026-10-25T18:15:53+08:00"
+  },
+  {
+    "cik": "861842",
+    "company": "CATHAY GENERAL BANCORP",
+    "accession": "0001437749-26-033125",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 95.174,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 95,174 | $ | 92,209"
+      },
+      "diluted_eps": {
+        "value": 1.43,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.43 | $ | 1.37"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says net interest income grew, loans and deposits increased and margin expanded.",
+        "quote": "Net interest income grew, loans and deposits increased meaningfully, and net interest margin continued to expand,"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net interest income reached a record $211.9 million.",
+        "quote": "Record net interest income of $211.9 million, an increase of $11.0 million, or 5.5%, from the second quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The provision for credit losses was $28.6 million, driven by loan growth.",
+        "quote": "The provision for credit losses was $28.6 million, primarily reflecting strong loan growth and updated loss assumptions incorporating recent charge-off experience."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes strong performance across the franchise with record net interest income."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/861842-0001437749-26-033125.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/ex_1028728.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/0001437749-26-033125-index.htm",
+    "saved_at": "2026-10-25T18:15:53+08:00"
+  }
+]

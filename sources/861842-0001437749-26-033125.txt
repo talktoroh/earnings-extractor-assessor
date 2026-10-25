@@ -1,0 +1,410 @@
+Company: CATHAY GENERAL BANCORP (CIK 861842)
+Accession: 0001437749-26-033125
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/ex_1028728.htm
+Filing: https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/0001437749-26-033125-index.htm
+Saved: 2026-10-25T18:15:53+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1028728.htm EXHIBIT 99.1
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+For: | Cathay General Bancorp | Contact: | Albert J. Wang
+777 N. Broadway | (626) 279-3695
+Los Angeles, CA 90012
+Cathay General Bancorp Announces Third Quarter 2026 Results
+Los Angeles, Calif., October 21, 2026: Cathay General Bancorp (the “Company”, “we”, “us”, or “our”) (Nasdaq: CATY), the holding company for Cathay Bank, today announced its unaudited financial results for the quarter ended September 30, 2026. The Company reported net income of $95.2 million, or $1.43 per diluted share, for the third quarter of 2026 compared to $92.2 million, or $1.37 per diluted share for the second quarter of 2026.
+“Our third quarter results reflected strong performance across the franchise. Net interest income grew, loans and deposits increased meaningfully, and net interest margin continued to expand,” said Chang M. Liu, President and Chief Executive Officer of the Company. “We remain focused on disciplined execution and prudent balance sheet management to build on this progress and continue delivering long-term value for our shareholders.”
+THIRD QUARTER HIGHLIGHTS
+Three months ended
+(unaudited) | September 30, 2026 | June 30, 2026 | September 30, 2025
+Net income | $95.2 million | $92.2 million | $77.7 million
+Basic earnings per common share | $ | 1.43 | $ | 1.38 | $ | 1.13
+Diluted earnings per common share | $ | 1.43 | $ | 1.37 | $ | 1.13
+Return on average assets | 1.51 | % | 1.52 | % | 1.29 | %
+Return on average total stockholders' equity | 12.28 | % | 12.21 | % | 10.60 | %
+Efficiency ratio | 40.60 | % | 41.53 | % | 41.84 | %
+● | Record net interest income of $211.9 million, an increase of $11.0 million, or 5.5%, from the second quarter of 2026.
+● | Net interest margin expanded four basis points to 3.52% from 3.48% in the second quarter of 2026.
+● | Total loans, excluding loans held for sale, increased $574.5 million, or 2.79% sequentially to $21.20 billion, representing approximately 11.4% annualized growth.
+● | Total deposits increased $773.3 million, or 3.67%, sequentially to $21.83 billion, supporting strong loan growth and strategic balance sheet positioning.
+● | Nonperforming assets declined $26.2 million, or 18.0%, and the ratio of nonperforming assets to total assets improved to 0.47% from 0.59%.
+● | The provision for credit losses was $28.6 million, primarily reflecting strong loan growth and updated loss assumptions incorporating recent charge-off experience.
+● | The Company completed the redemption of $54.1 million of Trust Preferred Securities (“TruPS”), representing approximately 45% of the Company's $119.1 million of outstanding TruPS.
+INCOME STATEMENT REVIEW
+THIRD QUARTER 2026 COMPARED TO THE SECOND QUARTER 2026
+Net income for the quarter ended September 30, 2026, was $95.2 million, an increase of $3.0 million, or 3.3%, compared to net income of $92.2 million for the second quarter of 2026. Diluted earnings per share for the third quarter of 2026 was $1.43 per share compared to $1.37 per share for the second quarter of 2026.
+Return on average stockholders’ equity was 12.28% and return on average assets was 1.51% for the quarter ended September 30, 2026, compared to a return on average stockholders’ equity of 12.21% and a return on average assets of 1.52% in the second quarter of 2026.
+Net interest income before provision for credit losses
+Net interest income before provision for credit losses increased $11.0 million, or 5.5%, to $211.9 million during the third quarter of 2026, compared to $200.9 million in the second quarter of 2026. The increase was due primarily to an increase in interest income from loans and deposits with banks and partially offset by an increase in deposit interest expense.
+The net interest margin was 3.52% for the third quarter of 2026 compared to 3.48% for the second quarter of 2026.
+For the third quarter of 2026, the yield on average interest-earning assets was 5.74%, the cost of funds on average interest-bearing liabilities was 2.93%, and the cost of average interest-bearing deposits was 2.91%. In comparison, for the second quarter of 2026, the yield on average interest-earning assets was 5.66%, the cost of funds on average interest-bearing liabilities was 2.89%, and the cost of average interest-bearing deposits was 2.86%. The increase in the cost of funds on average interest-bearing liabilities resulted mainly from higher interest rates on deposits, driven by the higher repricing of maturing time deposits in the third quarter. The increase in the yield on average interest-earning assets resulted mainly from higher interest rates on loans. The net interest spread, defined as the difference between the yield on average interest-earning assets and the cost of funds on average interest-bearing liabilities, was 2.81% for the third quarter of 2026, compared to 2.77% for the second quarter of 2026.
+Provision for credit losses
+The Company recorded a provision for credit losses of $28.6 million in the third quarter of 2026 compared to $11.2 million in the second quarter of 2026. The higher provision primarily reflected strong loan growth and updated loss assumptions incorporating recent charge-off experience. Nonperforming assets declined $26.2 million, or 18.0%, during the quarter, and the ratio of nonperforming assets to total assets improved to 0.47% from 0.59%. As of September 30, 2026, the allowance for loan losses increased by $5.3 million to $224.2 million, or 1.06% of gross loans, compared to $218.9 million, or 1.06% of gross loans as of June 30, 2026.
+Net charge-offs of $25.3 million, or 0.48% of average loans on an annualized basis, were concentrated in three borrower-specific credits, including one construction loan and two movie theater CRE loans acquired from Far East National Bank.
+- 2 -
+The following table sets forth the charge-offs and recoveries for the periods indicated:
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+(In thousands) (Unaudited)
+Charge-offs:
+Commercial loans | $ | 261 | $ | 2,743 | $ | 16,173 | $ | 10,975 | $ | 27,634
+Construction loans | 8,810 | — | — | 8,810 | —
+Real estate loans (1) | 17,876 | — | 314 | 19,261 | 4,227
+Total charge-offs | 26,947 | 2,743 | 16,487 | 39,046 | 31,861
+Recoveries:
+Commercial loans | 1,660 | 853 | 547 | 7,444 | 1,012
+Construction loans | — | — | 5 | — | 6
+Real estate loans (1) | — | 42 | 289 | 2,344 | 479
+Total recoveries | 1,660 | 895 | 841 | 9,788 | 1,497
+Net charge-offs | $ | 25,287 | $ | 1,848 | $ | 15,646 | $ | 29,258 | $ | 30,364
+(1) Real estate loans include commercial real estate loans, residential mortgage loans and equity lines.
+Non-interest income
+Non-interest income, which includes revenues from depository service fees, letters of credit commissions, securities gains (losses), wealth management fees, and other sources of fee income, was $42.8 million for the third quarter of 2026, an increase of $21.4 million, or 99.8%, compared to $21.4 million for the second quarter of 2026. The increase was primarily driven by a $24.4 million increase in net gains from equity securities and a $3.1 million benefit from the redemption of TruPS, partially offset by a $4.5 million increase in losses related to investment securities repositioning activities and a $1.3 million decrease in wealth management fees.
+Non-interest expense
+Non-interest expense increased $11.1 million, or 12.0%, to $103.4 million in the third quarter of 2026 compared to $92.3 million in the second quarter of 2026. The increase was primarily attributable to an $8.0 million charitable contribution to the Cathay Bank Foundation, a $5.4 million contract termination fee, and a $1.5 million increase in salaries and employee benefits, partially offset by a $3.4 million decrease in the amortization of investments in low-income housing and alternative energy partnerships. The efficiency ratio, defined as non-interest expense divided by the sum of net interest income before provision for credit losses plus non-interest income, was 40.60% in the third quarter of 2026 compared to 41.53% for the second quarter of 2026.
+Income taxes
+The effective tax rate for the third quarter of 2026 was 22.42% compared to 22.35% for the second quarter of 2026, primarily due to the higher pre-tax income in the third quarter of 2026. The effective tax rate for the third quarter of 2026 and second quarter of 2026 includes the impact of low-income housing tax credits.
+BALANCE SHEET REVIEW
+Gross loans, excluding loans held for sale, increased $574.5 million, or 2.79%, to $21.20 billion as of September 30, 2026, from $20.62 billion as of June 30, 2026. The increase was primarily due to increases of $420.4 million, or 11.9%, in commercial loans; $73.3 million, or 1.3%, in residential real estate loans; $65.5 million, or 0.6%, in commercial real estate loans; and $17.5 million, or 7.0%, in construction loans, partially offset by a decrease of $6.4 million, or 2.7%, in equity lines.
+- 3 -
+The loan balances and composition as of September 30, 2026, compared to June 30, 2026, and September 30, 2025, are presented below:
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(In thousands) (Unaudited)
+Commercial loans | $ | 3,945,390 | $ | 3,524,945 | $ | 3,212,907
+Construction loans | 265,880 | 248,375 | 356,215
+Commercial real estate loans | 10,844,794 | 10,779,326 | 10,484,939
+Residential mortgage loans | 5,905,416 | 5,832,159 | 5,815,140
+Equity lines | 227,831 | 234,265 | 232,254
+Installment and other loans | 6,550 | 2,262 | 3,261
+Gross loans | $ | 21,195,861 | $ | 20,621,332 | $ | 20,104,716
+Allowance for loan losses | (224,190 | ) | (218,896 | ) | (186,647 | )
+Unamortized deferred loan fees | (15,523 | ) | (14,606 | ) | (14,987 | )
+Total loans held for investment, net | $ | 20,956,148 | $ | 20,387,830 | $ | 19,903,082
+Loans held for sale | $ | 13,597 | $ | — | $ | —
+Total deposits were $21.83 billion as of September 30, 2026, an increase of $773.3 million, or 3.67%, from $21.06 billion as of June 30, 2026.
+The deposit balances and composition as of September 30, 2026, compared to June 30, 2026, and September 30, 2025, are presented below:
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(In thousands) (Unaudited)
+Non-interest-bearing demand deposits | $ | 3,950,436 | $ | 3,567,527 | $ | 3,574,567
+NOW deposits | 2,634,247 | 2,612,011 | 2,226,182
+Money market deposits | 4,284,484 | 3,894,594 | 3,586,301
+Savings deposits | 1,517,383 | 1,421,969 | 1,424,243
+Time deposits | 9,448,438 | 9,565,547 | 9,709,856
+Total deposits | $ | 21,834,988 | $ | 21,061,648 | $ | 20,521,149
+ASSET QUALITY REVIEW
+As of September 30, 2026, total non-accrual loans were $87.3 million, a decrease of $24.4 million, or 21.8%, from $111.7 million as of June 30, 2026.
+The allowance for loan losses was $224.2 million and the allowance for off-balance sheet unfunded credit commitments was $12.9 million as of September 30, 2026. Together, these allowances represent the amount estimated by management to be appropriate to absorb expected credit losses inherent in the loan portfolio, including unfunded credit commitments. The allowance for loan losses represented 1.06% of period-end gross loans, and 242.97% of non-performing loans as of September 30, 2026. The comparable ratios were 1.06% of period-end gross loans, and 195.97% of non-performing loans as of June 30, 2026.
+- 4 -
+The changes in non-performing assets as of September 30, 2026, compared to June 30, 2026, and September 30, 2025, are presented below:
+(In thousands) (Unaudited) | September 30, 2026 | June 30, 2026 | % Change | September 30, 2025 | % Change
+Non-performing assets
+Accruing loans past due 90 days or more | $ | 4,994 | $ | — | 100 | $ | 110 | 4,440
+Non-accrual loans:
+Commercial real estate loans | 47,246 | 70,157 | (33 | ) | 103,158 | (54 | )
+Commercial loans | 7,188 | 8,448 | (15 | ) | 33,690 | (79 | )
+Residential mortgage loans | 32,844 | 33,091 | (1 | ) | 28,784 | 14
+Total non-accrual loans: | $ | 87,278 | $ | 111,696 | (22 | ) | $ | 165,632 | (47 | )
+Total non-performing loans | 92,272 | 111,696 | (17 | ) | 165,742 | (44 | )
+Other real estate owned | 26,910 | 33,659 | (20 | ) | 32,983 | (18 | )
+Total non-performing assets | $ | 119,182 | $ | 145,355 | (18 | ) | $ | 198,725 | (40 | )
+—
+Allowance for loan losses | $ | 224,190 | $ | 218,896 | 2 | $ | 186,647 | 20
+Allowance for off-balance sheet credit commitments | $ | 12,938 | $ | 14,918 | (13 | ) | $ | 9,860 | 31
+—
+Total gross loans outstanding, at period-end | $ | 21,195,861 | $ | 20,621,332 | 3 | $ | 20,104,716 | 5
+Allowance for loan losses to non-performing loans, at period-end | 242.97 | % | 195.97 | % | 112.61 | %
+Allowance for loan losses to gross loans, at period-end | 1.06 | % | 1.06 | % | 0.93 | %
+The ratio of non-performing assets to total assets decreased to 0.47% as of September 30, 2026, from 0.59% as of June 30, 2026. Total non-performing assets decreased $26.2 million, or 18.0%, to $119.2 million as of September 30, 2026, from $145.4 million as of June 30, 2026. The decrease was primarily due to decreases of $24.4 million, or 21.8%, in non-accrual loans and $6.7 million, or 20.1%, in other real estate owned, partially offset by an increase of $5.0 million, or 100.0%, in accruing loans past due 90 days or more.
+CAPITAL ADEQUACY REVIEW
+As of September 30, 2026, the Company’s Common Equity Tier 1 risk-based capital ratio of 13.51%, Tier 1 risk-based capital ratio of 13.51%,total risk-based capital ratio of 15.00%, and Tier 1 leverage capital ratio of 11.06%, calculated under the Basel III capital rules, exceeded applicable minimum regulatory capital requirements, including the fully phased-in 2.5% capital conservation buffer applicable to the risk-based capital ratios. As of June 30, 2026, the Company’s Common Equity Tier 1 risk-based capital ratio was 13.70%, Tier 1 risk-based capital ratio was 13.70%,total risk-based capital ratio was 15.47%, and Tier 1 leverage capital ratio was 11.28%.
+YEAR-TO-DATE REVIEW
+Net income for the nine months ending September 30, 2026, was $274.3 million, an increase of $49.7 million, or 22.1%, compared to net income of $224.6 million for the same period a year ago. Diluted earnings per share for the nine months ending September 30, 2026 was $4.09 per share compared to $3.21 per share for the same period a year ago. The net interest margin for the nine months ended September 30, 2026, was 3.48% compared to 3.28% for the same period a year ago.
+Return on average stockholders’ equity was 12.13% and return on average assets was 1.50% for the nine months ended September 30, 2026, compared to a return on average stockholders’ equity of 10.39% and a return on average assets of 1.28% for the same period a year ago. The efficiency ratio for the nine months ended September 30, 2026, was 40.82% compared to 44.18% for the same period a year ago.
+- 5 -
+CONFERENCE CALL
+Cathay General Bancorp will host a conference call to discuss its third quarter 2026 financial results this afternoon, Wednesday, October 21, 2026, at 3:00 p.m., Pacific Time. Analysts and investors may dial in and participate in the question-and-answer session. To access the call, please dial 1-833-816-1377 and enter Conference ID 10212696. The presentation accompanying this call and access to the live webcast is available on our site at www.cathaygeneralbancorp.com and a replay of the webcast will be archived for one year within 24 hours after the event.
+ABOUT CATHAY GENERAL BANCORP
+Cathay General Bancorp is a publicly traded company (Nasdaq: CATY) and is the holding company for Cathay Bank, a California state-chartered bank. Founded in 1962, Cathay Bank offers a wide range of financial services and currently operates over 60 branches across the United States in California, New York, Washington, Texas, Illinois, Massachusetts, Maryland, Nevada, and New Jersey. Overseas, it has a branch outlet in Hong Kong, and representative offices in Beijing, Shanghai, Taipei and Ho Chi Minh City. To learn more about Cathay Bank, please visit www.cathaybank.com. Cathay General Bancorp’s website is at www.cathaygeneralbancorp.com. Information set forth on such websites is not incorporated into this press release.
+- 6 -
+FORWARD-LOOKING STATEMENTS
+Statements made in this press release, other than statements of historical fact, are forward-looking statements within the meaning of the applicable provisions of the Private Securities Litigation Reform Act of 1995 regarding management’s beliefs, projections, and assumptions concerning future results and events. These forward-looking statements may include, but are not limited to, such words as “aims,” “anticipates,” “believes,” “can,” “continue,” “could,” “estimates,” “expects,” “hopes,” “intends,” “may,” “plans,” “projects,” “predicts,” “potential,” “possible,” “optimistic,” “seeks,” “shall,” “should,” “will,” and variations of these words and similar expressions. Forward-looking statements are based on estimates, beliefs, projections, and assumptions of management and are not guarantees of future performance. These forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from our historical experience and our present expectations or projections. Such risks and uncertainties and other factors include, but are not limited to, adverse developments or conditions related to or arising from local, regional, national and international business, market and economic conditions and events, the potential for new or increased tariffs, trade restrictions or geopolitical tensions that could affect economic activity or specific industry sectors and the impact they may have on us, our customers and our operations, assets and liabilities; possible additional provisions for credit losses and charge-offs; credit risks of lending activities and deterioration in asset or credit quality; extensive laws and regulations and supervision that we are subject to including potential future supervisory action by bank supervisory authorities; increased costs of compliance and other risks associated with changes in regulation; higher capital requirements from the implementation of the Basel III capital standards; compliance with the Bank Secrecy Act and other money laundering statutes and regulations; potential goodwill impairment; liquidity risk; fluctuations in interest rates; risks associated with acquisitions and the expansion of our business into new markets; inflation and deflation; real estate market conditions and the value of real estate collateral; our ability to generate anticipated returns on our investments and financings, including in tax-advantaged projects; environmental liabilities; our ability to compete with larger competitors; our ability to retain key personnel; successful management of reputational risk; natural disasters, public health crises and geopolitical events; including wars and armed conflicts, and their resulting economic impacts; general economic or business conditions in Asia, and other regions where Cathay Bank has operations; failures, interruptions, or security breaches of our information systems; our ability to adapt our systems to technological changes; risk management processes and strategies; adverse results in legal proceedings; certain provisions in our charter and bylaws that may affect acquisition of the Company; changes in accounting standards or tax laws and regulations; market disruption and volatility; restrictions on dividends and other distributions by laws and regulations and by our regulators and our capital structure; issuance of preferred stock; successfully raising additional capital, if needed, and the resulting dilution of interests of holders of our common stock; the soundness of other financial institutions; and general competitive, economic, political, and market conditions and fluctuations.
+These and other factors are further described in Cathay General Bancorp’s Annual Report on Form 10-K for the year ended December 31, 2025 (Item 1A in particular), other reports filed with the Securities and Exchange Commission (“SEC”), and other filings Cathay General Bancorp makes with the SEC from time to time. Actual results in any future period may also vary from the past results discussed in this press release. Given these risks and uncertainties, readers are cautioned not to place undue reliance on any forward-looking statements. Any forward-looking statement speaks only as of the date on which it is made, and, except as required by law, we undertake no obligation to update or review any forward-looking statement to reflect circumstances, developments or events occurring after the date on which the statement is made or to reflect the occurrence of unanticipated events.
+- 7 -
+CATHAY GENERAL BANCORP
+CONSOLIDATED FINANCIAL HIGHLIGHTS
+(Unaudited)
+Three months ended | Nine months ended September 30,
+(In thousands, except per share data) | September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Financial performance
+Net interest income before provision for credit losses | $ | 211,878 | $ | 200,897 | $ | 189,587 | $ | 606,943 | $ | 547,447
+Provision for credit losses | 28,600 | 11,240 | 28,731 | 58,033 | 55,431
+Net interest income after provision for credit losses | 183,278 | 189,657 | 160,856 | 548,910 | 492,016
+Non-interest income | 42,770 | 21,405 | 21,021 | 84,834 | 47,616
+Non-interest expense | 103,376 | 92,316 | 88,117 | 282,372 | 262,907
+Income before income tax expense | 122,672 | 118,746 | 93,760 | 351,372 | 276,725
+Income tax expense | 27,498 | 26,537 | 16,109 | 77,103 | 52,118
+Net income | $ | 95,174 | $ | 92,209 | $ | 77,651 | $ | 274,269 | $ | 224,607
+Net income per common share:
+Basic | $ | 1.43 | $ | 1.38 | $ | 1.13 | $ | 4.10 | $ | 3.22
+Diluted | $ | 1.43 | $ | 1.37 | $ | 1.13 | $ | 4.09 | $ | 3.21
+Cash dividends paid per common share | $ | 0.38 | $ | 0.38 | $ | 0.34 | $ | 1.14 | $ | 1.02
+Selected ratios
+Return on average assets | 1.51 | % | 1.52 | % | 1.29 | % | 1.50 | % | 1.28 | %
+Return on average total stockholders’ equity | 12.28 | % | 12.21 | % | 10.60 | % | 12.13 | % | 10.39 | %
+Efficiency ratio | 40.60 | % | 41.53 | % | 41.84 | % | 40.82 | % | 44.18 | %
+Dividend payout ratio | 26.49 | % | 27.59 | % | 29.93 | % | 27.74 | % | 31.59 | %
+Yield analysis (Fully taxable equivalent)
+Total interest-earning assets | 5.74 | % | 5.66 | % | 5.84 | % | 5.70 | % | 5.85 | %
+Total interest-bearing liabilities | 2.93 | % | 2.89 | % | 3.32 | % | 2.94 | % | 3.38 | %
+Net interest spread | 2.81 | % | 2.77 | % | 2.52 | % | 2.76 | % | 2.47 | %
+Net interest margin | 3.52 | % | 3.48 | % | 3.31 | % | 3.48 | % | 3.28 | %
+Capital ratios | September 30, 2026 | June 30, 2026 | September 30, 2025
+Common equity tier 1 capital ratio | 13.51 | % | 13.70 | % | 13.15 | %
+Tier 1 risk-based capital ratio | 13.51 | % | 13.70 | % | 13.15 | %
+Total risk-based capital ratio | 15.00 | % | 15.47 | % | 14.76 | %
+Tier 1 leverage capital ratio | 11.06 | % | 11.28 | % | 10.88 | %
+- 8 -
+CATHAY GENERAL BANCORP
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(In thousands, except share and per share data) | September 30, 2026 | June 30, 2026 | September 30, 2025
+Assets
+Cash and due from banks | $ | 131,044 | $ | 163,976 | $ | 166,167
+Short-term investments and interest bearing deposits | 1,576,961 | 1,163,120 | 1,141,886
+Securities available-for-sale (amortized cost of $1,657,883 at September 30, 2026 $1,737,212 at June 30, 2026 and $1,728,199 at September 30, 2025) | 1,589,036 | 1,682,820 | 1,643,450
+Loans held for sale | 13,597 | — | —
+Loans | 21,195,861 | 20,621,332 | 20,104,716
+Less: Allowance for loan losses | (224,190 | ) | (218,896 | ) | (186,647 | )
+Unamortized deferred loan fees, net | (15,523 | ) | (14,606 | ) | (14,987 | )
+Loans, net | 20,956,148 | 20,387,830 | 19,903,082
+Equity securities | 116,907 | 80,854 | 32,111
+Federal Home Loan Bank stock | 17,250 | 17,250 | 17,250
+Other real estate owned, net | 26,910 | 33,659 | 32,983
+Affordable housing investments and alternative energy partnerships, net | 295,407 | 293,553 | 292,672
+Premises and equipment, net | 90,346 | 90,613 | 88,552
+Customers’ liability on acceptances | 6,393 | 11,214 | 7,730
+Accrued interest receivable | 97,206 | 94,676 | 96,055
+Goodwill | 375,696 | 375,696 | 375,696
+Other intangible assets, net | 2,095 | 2,341 | 2,667
+Right-of-use assets- operating leases | 35,493 | 33,269 | 31,086
+Other assets | 242,012 | 221,948 | 244,257
+Total assets | $ | 25,572,501 | $ | 24,652,819 | $ | 24,075,644
+Liabilities and Stockholders’ Equity
+Deposits:
+Non-interest-bearing demand deposits | $ | 3,950,436 | $ | 3,567,527 | $ | 3,574,567
+Interest-bearing deposits:
+NOW deposits | 2,634,247 | 2,612,011 | 2,226,182
+Money market deposits | 4,284,484 | 3,894,594 | 3,586,301
+Savings deposits | 1,517,383 | 1,421,969 | 1,424,243
+Time deposits | 9,448,438 | 9,565,547 | 9,709,856
+Total deposits | 21,834,988 | 21,061,648 | 20,521,149
+Advances from the Federal Home Loan Bank | 200,000 | — | 190,000
+Long-term debt | 65,011 | 119,136 | 119,136
+Acceptances outstanding | 6,393 | 11,214 | 7,730
+Lease liabilities - operating leases | 37,370 | 35,114 | 33,079
+Other liabilities | 371,994 | 379,093 | 302,274
+Total liabilities | 22,515,756 | 21,606,205 | 21,173,368
+Stockholders' equity | 3,056,745 | 3,046,614 | 2,902,276
+Total liabilities and equity | $ | 25,572,501 | $ | 24,652,819 | $ | 24,075,644
+Book value per common share | $ | 46.26 | $ | 45.59 | $ | 42.50
+Number of common shares outstanding | 66,083,728 | 66,825,367 | 68,286,591
+- 9 -
+CATHAY GENERAL BANCORP
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+(In thousands, except share and per share data)
+Interest and Dividend Income
+Loan receivable, including loan fees | $ | 317,189 | $ | 302,170 | $ | 308,945 | $ | 918,294 | $ | 899,786
+Investment securities | 15,086 | 14,420 | 12,690 | 42,489 | 38,459
+Federal Home Loan Bank stock | 658 | 253 | 376 | 1,785 | 1,128
+Deposits with banks | 12,219 | 10,610 | 12,184 | 32,947 | 37,135
+Total interest and dividend income | 345,152 | 327,453 | 334,195 | 995,515 | 976,508
+Interest Expense
+Time deposits | 83,001 | 80,207 | 93,087 | 248,054 | 283,517
+Other deposits | 47,869 | 42,930 | 46,300 | 131,805 | 133,104
+Advances from Federal Home Loan Bank | 384 | 1,457 | 3,075 | 2,851 | 5,721
+Long-term debt | 1,808 | 1,841 | 2,043 | 5,478 | 6,092
+Short-term borrowings | 212 | 121 | 103 | 384 | 627
+Total interest expense | 133,274 | 126,556 | 144,608 | 388,572 | 429,061
+Net interest income before provision for credit losses | 211,878 | 200,897 | 189,587 | 606,943 | 547,447
+Provision for credit losses | 28,600 | 11,240 | 28,731 | 58,033 | 55,431
+Net interest income after provision for credit losses | 183,278 | 189,657 | 160,856 | 548,910 | 492,016
+Non-Interest Income
+Net gains/(losses) from equity securities | 36,053 | 11,652 | 3,263 | 65,021 | (2,318 | )
+Net loss on investment securities | (15,084 | ) | (10,554 | ) | — | (41,323 | ) | —
+Letters of credit commissions | 2,093 | 2,331 | 2,256 | 6,830 | 6,467
+Depository service fees | 2,106 | 1,971 | 2,011 | 6,091 | 5,688
+Wealth management fees | 6,623 | 7,920 | 6,219 | 21,645 | 17,324
+Other operating income | 10,979 | 8,085 | 7,272 | 26,570 | 20,455
+Total non-interest income | 42,770 | 21,405 | 21,021 | 84,834 | 47,616
+Non-Interest Expense
+Salaries and employee benefits | 48,233 | 46,733 | 43,462 | 140,477 | 129,012
+Occupancy expense | 6,171 | 5,812 | 6,104 | 17,799 | 17,791
+Computer and equipment expense | 7,211 | 6,594 | 5,760 | 19,432 | 16,974
+Professional services expense | 7,842 | 7,438 | 7,360 | 23,062 | 23,696
+Data processing service expense | 4,136 | 3,651 | 3,991 | 11,802 | 13,028
+FDIC and State assessments | 2,896 | 2,992 | 2,783 | 8,335 | 9,359
+Marketing expense | 1,683 | 1,472 | 1,494 | 5,018 | 4,485
+Other real estate owned expense/(income) | 442 | 339 | (1,078 | ) | 2,370 | (1,211 | )
+Amortization of investments in low income housing and alternative energy partnerships | 6,467 | 9,873 | 12,149 | 23,080 | 32,382
+Amortization of core deposit intangibles | 218 | 217 | 229 | 653 | 729
+Other operating expense | 18,077 | 7,195 | 5,863 | 30,344 | 16,662
+Total non-interest expense | 103,376 | 92,316 | 88,117 | 282,372 | 262,907
+Income before income tax expense | 122,672 | 118,746 | 93,760 | 351,372 | 276,725
+Income tax expense | 27,498 | 26,537 | 16,109 | 77,103 | 52,118
+Net income | $ | 95,174 | $ | 92,209 | $ | 77,651 | $ | 274,269 | $ | 224,607
+Net income per common share:
+Basic | $ | 1.43 | $ | 1.38 | $ | 1.13 | $ | 4.10 | $ | 3.22
+Diluted | $ | 1.43 | $ | 1.37 | $ | 1.13 | $ | 4.09 | $ | 3.21
+Cash dividends paid per common share | $ | 0.38 | $ | 0.38 | $ | 0.34 | $ | 1.14 | $ | 1.02
+Basic average common shares outstanding | 66,499,705 | 67,014,700 | 68,727,390 | 66,832,009 | 69,692,964
+Diluted average common shares outstanding | 66,761,397 | 67,304,846 | 68,990,648 | 67,131,370 | 69,946,877
+- 10 -
+CATHAY GENERAL BANCORP
+AVERAGE BALANCES – SELECTED CONSOLIDATED FINANCIAL INFORMATION
+(Unaudited)
+Three months ended
+(In thousands)(Unaudited) | September 30, 2026 | June 30, 2026 | September 30, 2025
+Interest-earning assets: | Average Balance | Average Yield/Rate (1) | Average Balance | Average Yield/Rate (1) | Average Balance | Average Yield/Rate (1)
+Loans (1) | $ | 20,891,868 | 6.02 | % | $ | 20,297,364 | 5.97 | % | $ | 19,951,853 | 6.14 | %
+Taxable investment securities | 1,651,113 | 3.62 | % | 1,704,008 | 3.39 | % | 1,634,248 | 3.08 | %
+FHLB stock | 17,250 | 15.13 | % | 17,250 | 5.87 | % | 17,250 | 8.65 | %
+Deposits with banks | 1,310,565 | 3.70 | % | 1,168,077 | 3.64 | % | 1,113,274 | 4.34 | %
+Total interest-earning assets | $ | 23,870,796 | 5.74 | % | $ | 23,186,699 | 5.66 | % | $ | 22,716,625 | 5.84 | %
+Interest-bearing liabilities:
+Interest-bearing demand deposits | $ | 2,608,725 | 1.66 | % | $ | 2,493,275 | 1.48 | % | $ | 2,189,376 | 1.70 | %
+Money market deposits | 4,065,916 | 3.08 | % | 3,734,347 | 3.02 | % | 3,556,374 | 3.44 | %
+Savings deposits | 1,503,628 | 1.44 | % | 1,511,915 | 1.49 | % | 1,419,953 | 1.72 | %
+Time deposits | 9,660,600 | 3.41 | % | 9,501,517 | 3.39 | % | 9,698,744 | 3.81 | %
+Total interest-bearing deposits | $ | 17,838,869 | 2.91 | % | $ | 17,241,054 | 2.86 | % | $ | 16,864,447 | 3.28 | %
+Other borrowed funds | 71,414 | 3.32 | % | 174,147 | 3.63 | % | 295,892 | 4.26 | %
+Long-term debt | 115,634 | 6.20 | % | 119,136 | 6.20 | % | 119,136 | 6.80 | %
+Total interest-bearing liabilities | $ | 18,025,917 | 2.93 | % | $ | 17,534,337 | 2.89 | % | 17,279,475 | 3.32 | %
+Non-interest-bearing demand deposits | 3,569,978 | 3,454,633 | 3,384,141
+Total deposits and other borrowed funds | $ | 21,595,895 | $ | 20,988,970 | $ | 20,663,616
+Total average assets | $ | 24,945,244 | $ | 24,269,814 | $ | 23,843,380
+Total average equity | $ | 3,074,263 | $ | 3,029,993 | $ | 2,907,596
+Net interest spread | 2.81 | % | 2.77 | % | 2.52 | %
+Net interest margin | 3.52 | % | 3.48 | % | 3.31 | %
+(1) Yields and interest earned include net loan fees. Non-accrual loans are included in the average balance.
+Nine months ended
+(In thousands)(Unaudited) | September 30, 2026 | September 30, 2025
+Interest-earning assets: | Average Balance | Average Yield/Rate (1) | Average Balance | Average Yield/Rate (1)
+Loans (1) | $ | 20,453,313 | 6.00 | % | $ | 19,593,553 | 6.14 | %
+Taxable investment securities | 1,675,273 | 3.39 | % | 1,572,074 | 3.27 | %
+FHLB stock | 17,250 | 13.83 | % | 17,250 | 8.74 | %
+Deposits with banks | 1,202,938 | 3.66 | % | 1,139,060 | 4.36 | %
+Total interest-earning assets | $ | 23,348,774 | 5.70 | % | $ | 22,321,937 | 5.85 | %
+Interest-bearing liabilities:
+Interest-bearing demand deposits | $ | 2,482,097 | 1.53 | % | $ | 2,155,336 | 1.69 | %
+Money market deposits | 3,825,022 | 3.03 | % | 3,468,421 | 3.43 | %
+Savings deposits | 1,509,852 | 1.48 | % | 1,351,352 | 1.65 | %
+Time deposits | 9,616,901 | 3.45 | % | 9,658,300 | 3.92 | %
+Total interest-bearing deposits | $ | 17,433,872 | 2.91 | % | $ | 16,633,409 | 3.35 | %
+Other borrowed funds | 124,401 | 3.48 | % | 204,953 | 4.14 | %
+Long-term debt | 117,956 | 6.21 | % | 119,136 | 6.84 | %
+Total interest-bearing liabilities | 17,676,229 | 2.94 | % | 16,957,498 | 3.38 | %
+Non-interest-bearing demand deposits | 3,459,809 | 3,340,530
+Total deposits and other borrowed funds | $ | 21,136,038 | $ | 20,298,028
+Total average assets | $ | 24,421,642 | $ | 23,462,799
+Total average equity | $ | 3,023,608 | $ | 2,890,581
+Net interest spread | 2.76 | % | 2.47 | %
+Net interest margin | 3.48 | % | 3.28 | %
+(1) Yields and interest earned include net loan fees. Non-accrual loans are included in the average balance.
+- 11 -
+CATHAY GENERAL BANCORP
+GAAP to NON-GAAP RECONCILIATION
+SELECTED CONSOLIDATED FINANCIAL INFORMATION
+(Unaudited)
+The Company uses certain non-GAAP financial measures including tangible book value (“TBV”), tangible book value per share (“TBV/Share”), tangible assets, tangible common equity (“TCE”) ratio, the return on average tangible common stockholders’ equity (“ROATCE”), adjusted total revenue, adjusted non-interest expense, and the adjusted efficiency ratio. We believe these non-GAAP financial measures provide investors with information useful in understanding its financial position, results of operations, the strength of its capital position, and overall business performance. These non-GAAP financial measures are used for performance measurement purposes, as well as for internal planning and forecasting, and by securities analysts, investors, and other interested parties to assess peer company operating performance. These non-GAAP financial measures should not be considered a substitute for GAAP-basis financial measures. Because non-GAAP financial measures are not standardized, it may not be possible to compare these with other companies that present financial measures having the same or similar names. The Company strongly encourages investors to review its consolidated financial statements in their entirety and to not rely on any single financial measure.
+TBV represents stockholders’ equity less goodwill and other intangible assets. TBV/share represents TBV divided by the number of common shares outstanding at the end of the reporting period. The TCE ratio represents TBV divided by tangible assets. Tangible assets is equal to total assets less goodwill and other intangible assets. ROATCE is calculated using net income adjusted for the tax-effected amortization of intangible assets, as a percentage of average stockholders’ equity less average goodwill and other intangible assets.
+- 12 -
+As of
+($ In thousands, except share and per share data) | September 30, 2026 | June 30, 2026 | September 30, 2025
+(Unaudited)
+Stockholders' equity | (a) | $ | 3,056,745 | $ | 3,046,614 | $ | 2,902,276
+Less: Goodwill | (375,696 | ) | (375,696 | ) | (375,696 | )
+Other intangible assets (1) | (2,095 | ) | (2,341 | ) | (2,667 | )
+Tangible book value | (b) | $ | 2,678,954 | $ | 2,668,577 | $ | 2,523,913
+Total assets | (c) | $ | 25,572,501 | $ | 24,652,819 | $ | 24,075,644
+Less: Goodwill | (375,696 | ) | (375,696 | ) | (375,696 | )
+Other intangible assets (1) | (2,095 | ) | (2,341 | ) | (2,667 | )
+Tangible assets | (d) | $ | 25,194,710 | $ | 24,274,782 | $ | 23,697,281
+Average stockholders' equity | $ | 3,074,263 | $ | 3,029,993 | $ | 2,907,596
+Less: Average goodwill and other intangible assets, net | (377,960 | ) | (378,072 | ) | (378,510 | )
+Average tangible stockholders' equity | (e) | $ | 2,696,303 | $ | 2,651,921 | $ | 2,529,086
+Number of common shares outstanding | (f) | 66,083,728 | 66,825,367 | 68,286,591
+Common equity to assets ratio | g=(a)/(c) | 11.95 | % | 12.36 | % | 12.05 | %
+Tangible common equity ratio | h=(b)/(d) | 10.63 | % | 10.99 | % | 10.65 | %
+Book value per share | $ | 46.26 | $ | 45.59 | $ | 42.50
+Tangible book value per share | i=(b)/(f) | $ | 40.54 | $ | 39.93 | $ | 36.96
+Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(Unaudited)
+Net Income | $ | 95,174 | $ | 92,209 | $ | 77,651
+Add: Amortization of other intangibles (1) | 210 | 278 | 249
+Tax effect of amortization adjustments (2) | (62 | ) | (82 | ) | (74 | )
+Tangible net income | (j) | $ | 95,322 | $ | 92,405 | $ | 77,826
+Return on average stockholders' equity (3) | 12.28 | % | 12.21 | % | 10.60 | %
+Return on average tangible common equity (3) | k=(j)/(e) | 14.03 | % | 13.98 | % | 12.21 | %
+(1) Includes core deposit intangibles and servicing rights
+(2) Applied the statutory rate of 29.65%.
+(3) Annualized
+- 13 -
+As of
+($ In thousands, except share and per share data) | September 30, 2026 | September 30, 2025
+(Unaudited)
+Stockholders' equity | (a) | $ | 3,056,745 | $ | 2,902,276
+Less: Goodwill | (375,696 | ) | (375,696 | )
+Other intangible assets (1) | (2,095 | ) | (2,667 | )
+Tangible book value | (b) | $ | 2,678,954 | $ | 2,523,913
+Total assets | (c) | $ | 25,572,501 | $ | 24,075,644
+Less: Goodwill | (375,696 | ) | (375,696 | )
+Other intangible assets (1) | (2,095 | ) | (2,667 | )
+Tangible assets | (d) | $ | 25,194,710 | $ | 23,697,281
+Average stockholders' equity | $ | 3,023,608 | $ | 2,890,581
+Less: Average goodwill and other intangible assets, net | (378,110 | ) | (378,718 | )
+Average tangible stockholders' equity | (e) | $ | 2,645,498 | $ | 2,511,863
+Number of common shares outstanding | (f) | 66,083,728 | 68,286,591
+Common equity to assets ratio | g=(a)/(c) | 11.95 | % | 12.05 | %
+Tangible common equity ratio | h=(b)/(d) | 10.63 | % | 10.65 | %
+Book value per share | $ | 46.26 | $ | 42.50
+Tangible book value per share | i=(b)/(f) | $ | 40.54 | $ | 36.96
+Nine months ended
+September 30, 2026 | September 30, 2025
+Net Income | $ | 274,269 | $ | 224,607
+Add: Amortization of other intangibles (1) | 720 | 796
+Tax effect of amortization adjustments (2) | (213 | ) | (236 | )
+Tangible net income | (j) | $ | 274,776 | $ | 225,167
+Return on average stockholders' equity (3) | 12.13 | % | 10.39 | %
+Return on average tangible common equity (3) | k=(j)/(e) | 13.89 | % | 11.99 | %
+(1) Includes core deposit intangibles and servicing rights
+(2) Applied the statutory rate of 29.65%.
+(3) Annualized
+- 14 -
+Adjusted total revenue is calculated by adding net interest income before provision for credit losses and non-interest income excluding net gains and losses from equity and investment securities and TruPS redemption benefit. Adjusted non-interest expense is non-interest expense excluding amortization of investments in low-income housing and alternative energy partnerships, other real estate owned expenses, amortization of core deposit intangibles, the FDIC special assessment, charitable contribution to Cathay Bank Foundation and contract termination costs. The Adjusted efficiency ratio is calculated by dividing the Company’s adjusted non‑interest expense by adjusted total revenue. It represents the costs expended to generate a dollar of revenue. The adjusted components exclude items that are non‑operational as well as the amortization of investments in low‑income housing partnerships and alternative energy partnerships. Although this amortization is operational in nature, it is removed to enhance comparability with peers that report these costs within income tax expense under proportional amortization accounting, which the Company has not yet adopted.
+Three months ended | Nine months ended
+($ In thousands) (Unaudited) | September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Net interest income before provision for credit losses | a | $ | 211,878 | $ | 200,897 | $ | 189,587 | $ | 606,943 | $ | 547,447
+Non-interest income | $ | 42,770 | $ | 21,405 | $ | 21,021 | $ | 84,834 | $ | 47,616
+Adjustments:
+Net unrealized (gains)/losses from equity securities | (36,053 | ) | (11,652 | ) | (3,263 | ) | (65,021 | ) | 2,318
+Net loss on investment securities | 15,084 | 10,554 | — | 41,323 | —
+TruPS redemption benefit | (3,134 | ) | — | — | (3,134 | ) | —
+Adjusted non-interest income | b | $ | 18,667 | $ | 20,307 | $ | 17,758 | $ | 58,002 | $ | 49,934
+Adjusted total revenue | c=a+b | $ | 230,545 | $ | 221,204 | $ | 207,345 | $ | 664,945 | $ | 597,381
+Non-interest expense | d | $ | 103,376 | $ | 92,316 | $ | 88,117 | $ | 282,372 | $ | 262,907
+Adjustments:
+Amortization of investments in low income housing and alternative energy partnerships | (6,467 | ) | (9,873 | ) | (12,149 | ) | (23,080 | ) | (32,382 | )
+Other real estate owned | (442 | ) | (339 | ) | 1,078 | (2,370 | ) | 1,211
+Amortization of core deposit intangible | (218 | ) | (217 | ) | (229 | ) | (653 | ) | (729 | )
+FDIC special assessment | — | — | 327 | 585 | 188
+Charitable contribution to Cathay Bank Foundation | (8,000 | ) | — | — | (8,000 | ) | —
+Contract termination costs | (5,383 | ) | — | — | (5,383 | ) | —
+Adjusted non-interest expense | e | $ | 82,866 | $ | 81,887 | $ | 77,144 | $ | 243,471 | $ | 231,195
+Efficiency ratio | 40.6 | % | 41.5 | % | 41.8 | % | 40.8 | % | 44.2 | %
+Adjusted efficiency ratio | f=e/c | 35.9 | % | 37.0 | % | 37.2 | % | 36.6 | % | 38.7 | %
+- 15 -
