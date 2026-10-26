@@ -1,0 +1,550 @@
+Company: Business First Bancshares, Inc. (CIK 1624322)
+Accession: 0001624322-26-000040
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/exhibit991_earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/0001624322-26-000040-index.htm
+Saved: 2026-10-27T06:10:58+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991_earningsrelease.htm EX-99.1
+500 Laurel Street
+Baton Rouge, LA 70801
+Phone: 877.614.7600
+FOR IMMEDIATE RELEASE
+October 26, 2026
+Media Contact: Misty Albrecht
+b1BANK
+225.286.7879
+media@b1BANK.com
+Business First Bancshares, Inc. Announces Financial Results for Q3 2026
+Baton Rouge, La. (October 26, 2026) – Business First Bancshares, Inc. (NASDAQ: BFST) (Business First), parent company of b1BANK, today announced its unaudited results for the quarter ended September 30, 2026. Business First reported net income available to common shareholders of $23.2 million or $0.71 per diluted common share, increases of $0.4 million and $0.01, respectively, compared to the linked quarter. On a non-GAAP basis, core net income available to common shareholders for the quarter ended September 30, 2026, which excludes certain income and expenses, was $26.0 million or $0.79 per diluted common share, increases of $2.7 million and $0.08 from the linked quarter.
+“Our third quarter showed what disciplined execution can deliver,” said Jude Melville, chairman, president, and CEO of Business First. “We completed the conversion of Progressive Bank, and I’m grateful to our North Louisiana teammates and clients for helping make it a seamless transition. We grew loans and deposits at a balanced pace appropriate to our level of capital strength, and we did so while expanding our net interest margin by 12 basis points and keeping non-interest expenses in check. The result was higher earnings and stronger returns. Our team earned these results through disciplined execution, and we’ll keep that same focus as we continue to invest in the growing number of opportunities we’re seeing across our diversified footprint.”
+On Thursday, October 22, 2026, Business First’s board of directors declared a quarterly preferred dividend in the amount of $18.75 per share, which is the full quarterly dividend of 1.875% based on the per annum rate of 7.50%. Additionally, the board of directors declared a quarterly common dividend based upon financial performance for the third quarter in the amount of $0.15 per share of common stock. The preferred and common dividends will be paid on November 30, 2026, or as soon thereafter as practicable, to the shareholders of record as of November 15, 2026.
+b1BANK.com
+2
+Quarterly Highlights
+• Improving Core Performance. Return to common shareholders on average assets, on an annualized basis, was 1.04% for the quarter ended September 30, 2026, or 1.17% on a non-GAAP basis, compared to 1.03% or 1.05% on a non-GAAP basis for the linked quarter. Return to common shareholders on average equity on an annualized basis, was 9.75% for the quarter ended September 30, 2026, or 10.93% on a non-GAAP basis, compared to 9.83%, or 10.05% on a non-GAAP basis for the linked quarter.
+• Margin Expansion. Net interest margin expanded 13 basis points (bps) to 3.86% for the quarter ended September 30, 2026, or 12 bps to 3.80% on a non-GAAP basis, respectively, compared to 3.73% or 3.68%, respectively, for the linked quarter. The expansion was driven by improvement in book yield on loans and a reduction in the overall cost of funding. The reduction in overall cost of funding was driven by decreases of $65.9 million in brokered deposits and $107.8 million in borrowings while core deposit costs remained flat.
+• Loan and Deposit Growth. Loans grew by $121.4 million or 7.23%, annualized and deposits grew by $141.2 million or 7.74% annualized, led by our Houston, Texas and Southwest Louisiana markets.
+• Capital and Share Repurchases. During the third quarter, as part of a previously announced stock repurchase program, Business First repurchased 204,160 shares, with a market value of $6.3 million, at a weighted average price of $30.81 per share. Common equity to total assets decreased from 10.52% to 10.39%. Business First has repurchased a total of 630,618 common shares under the existing stock repurchase program, since October 2025, or $17.6 million at a weighted average repurchase price per share of $27.88.
+• Progressive Conversion. In August 2026, Business First successfully converted Progressive Bank’s core systems onto its platform.
+Statement of Financial Condition
+Loans
+Loans held for investment increased $121.4 million or 1.82%, 7.23% annualized, compared to the linked quarter. The commercial real estate and construction portfolios increased $72.7 million and $80.7 million, respectively, compared to the linked quarter. The residential real estate portfolio decreased $30.6 million compared to the linked quarter.
+b1BANK.com
+3
+Credit Quality
+Loans over 30 days past due at September 30, 2026 were $32.5 million or 0.48% of total loans, which was generally stable from the linked quarter. The ratio of nonperforming loans compared to loans held for investment decreased 2 bps to 1.24% at September 30, 2026, while the ratio of nonperforming assets compared to total assets also decreased by 1 bps to 1.22% compared to the linked quarter. Net charge-offs to average quarterly total loans increased to 8 bps for the quarter ended September 30, 2026, up from 4 bps in the linked quarter mainly attributable to one previously fully reserved commercial relationship.
+Securities
+The securities portfolio decreased $54.4 million or 5.23%, from the linked quarter, impacted by $24.2 million in negative pre-tax fair value adjustments and the remainder of the decrease attributed to maturities and paydowns. The securities portfolio, based on estimated fair value, represented 11.02% of total assets as of September 30, 2026.
+Deposits
+Deposits as of September 30, 2026 increased by $141.2 million or 1.95%, 7.74% annualized, compared to the linked quarter. During the third quarter, interest-bearing deposits increased $119.1 million or 2.11% and noninterest-bearing deposits increased $22.1 million or 1.40%. The increase in interest-bearing deposits was attributable to $180.1 million in commercial money market accounts, partially offset by a decrease of $65.9 million in brokered deposits. Average interest-bearing deposits decreased $9.5 million or 0.16%, and noninterest-bearing deposits increased $54.9 million or 3.62% from the linked quarter.
+Borrowings
+Borrowings decreased $107.8 million or 18.25%, from the linked quarter due primarily to decreases in short-term Federal Home Loan Bank advances.
+Shareholders’ Equity
+On a non-GAAP basis, tangible book value per common share increased from $23.61 at the linked quarter to $23.71 at September 30, 2026, 0.42% or 1.66% annualized, despite the negative pre-tax fair value adjustments. Shareholders' equity decreased $6.1 million or 0.60% compared to the linked quarter. Accumulated other comprehensive loss increased from $35.8 million to $54.9 million or 53.29%, during the quarter due to after-tax fair value adjustments in the securities portfolio. Book value per common share decreased to $28.77 at September 30, 2026, compared to $28.79 from the linked quarter.
+b1BANK.com
+4
+Results of Operations
+Net Interest Income
+For the quarter ended September 30, 2026, net interest income totaled $80.7 million, compared to $77.8 million from the linked quarter. Loan yields increased 11 bps to 6.74% compared to 6.63% from the linked quarter and interest-bearing asset yields increased 8 bps to 6.10% compared to 6.02% from the linked quarter. Net interest margin and net interest spread were 3.86% and 3.09% compared to 3.73% and 2.99% for the linked quarter. The overall cost of funds, which included noninterest-bearing deposits, decreased 4 bps from 2.44% to 2.40% for the quarter ended September 30, 2026.
+Non-GAAP net interest income (excluding loan discount accretion of $1.2 million) totaled $79.4 million for the quarter ended September 30, 2026, compared to $76.8 million (excluding loan discount accretion of $1.0 million) for the linked quarter. Non-GAAP net interest margin and net interest spread (excluding loan discount accretion of $1.2 million) were 3.80% and 3.04%, respectively, for the quarter ended September 30, 2026, compared to 3.68% and 2.94% (excluding loan discount accretion of $1.0 million) for the linked quarter.
+Provision for Credit Losses
+During the quarter ended September 30, 2026, Business First recorded a provision for credit losses of $1.9 million, compared to $2.0 million from the linked quarter. At September 30, 2026, the ratio of allowance for credit losses to loans held for investment was 0.95%, compared to 1.02% for the linked quarter.
+Other Income
+For the quarter ended September 30, 2026, other income decreased $1.5 million or 10.42%, compared to the linked quarter. The decrease was largely attributable to a $0.8 million decrease in gain on sales of loans and the linked quarter’s $0.5 million gain on the redemption of debt.
+Other Expenses
+For the quarter ended September 30, 2026, other expenses increased $0.9 million or 1.58% compared to the linked quarter. The increase was largely attributable to increases of $1.8 million in occupancy and equipment expense and $1.1 million in merger and conversion-related expenses, partially offset by decreases of $0.5 million in each in advertising and promotions expense and salaries and employee benefits, $0.4 million in legal and other professional fees and $0.3 million in regulatory assessments. The increase in occupancy and equipment expense was largely attributable to a lease termination fee associated with better alignment of legacy b1BANK and Progressive corporate facilities.
+b1BANK.com
+5
+Return on Assets and Common Equity
+Return to common shareholders on average assets and common equity, each on an annualized basis, were 1.04% and 9.75% for the quarter ended September 30, 2026, compared to 1.03% and 9.83%, respectively, for the linked quarter. Non-GAAP return to common shareholders on average assets and common equity, each on an annualized basis, were 1.17% and 10.93% for the quarter ended September 30, 2026, compared to 1.05% and 10.05% for the linked quarter.
+b1BANK.com
+6
+Conference Call and Webcast
+Executive management will host a conference call and webcast to discuss results on Monday, October 26, 2026, at 9:00 a.m. Central Time. Interested parties may attend the call by dialing toll-free 1-800-715-9871 (North America only), conference ID 8846141, or asking for the Business First Bancshares conference call. The live webcast can be found at https://edge.media-server.com/mmc/p/uhshyz4m. On the day of the presentation, the corresponding slide presentation will be available to view on the b1BANK website at https://www.b1bank.com/shareholder-info.
+About Business First Bancshares, Inc.
+Business First Bancshares, Inc. (Nasdaq: BFST), through its banking subsidiary b1BANK, has $8.9 billion in assets, $5.5 billion in assets under management through b1BANK’s affiliate Smith Shellnut Wilson, LLC (SSW) (not including $1.0 billion of b1BANK assets managed by SSW) and operates Banking Centers and Loan Production Offices in markets across Louisiana and Texas, providing commercial and personal banking products and services. b1BANK is a 2024 Mastercard “Innovation Award” winner and multiyear winner of American Banker Magazine’s “Best Banks to Work For.” Visit b1BANK.com for more information.
+Non-GAAP Financial Measures
+This press release includes certain non-GAAP financial measures (e.g., referenced as “core” or “tangible”) intended to supplement, not substitute for, comparable GAAP measures. “Core” measures typically adjust income available to common shareholders for certain significant activities or transactions that, in management’s opinion, can distort period-to-period comparisons of Business First’s performance. Transactions that are typically excluded from non-GAAP “core” measures include realized and unrealized gains/losses on former bank premises and equipment, investment sales, acquisition- related expenses (including, but not limited to, legal costs, system conversion costs, severance and retention payments, etc.). “Tangible” measures adjust common equity by subtracting goodwill, core deposit intangibles, and customer intangibles, net of accumulated amortization. Management believes presentations of these non-GAAP financial measures provide useful supplemental information that is essential to a proper understanding of the operating results of Business First’s core business. These non- GAAP disclosures are not necessarily comparable to non-GAAP measures that may be presented by other companies. Reconciliations of non-GAAP financial measures to GAAP financial measures are provided at the end of the tables below.
+Special Note Regarding Forward-Looking Statements
+Certain statements contained in this release may not be based on historical facts and are “forward-looking statements” within the meaning of Section 27A of the Securities Act
+b1BANK.com
+7
+of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements may be identified by their reference to a future period or periods or by the use of forward-looking terminology such as “anticipate,” “believe,” “estimate,” “expect,” “may,” “might,” “will,” “would,” “could,” or “intend.” We caution you not to place undue reliance on the forward-looking statements contained in this news release, in that actual results could differ materially from those indicated in such forward-looking statements as a result of a variety of factors, including those factors specified in our Annual Report on Form 10-K and other public filings. We undertake no obligation to update these forward-looking statements to reflect events or circumstances that occur after the date of this news release.
+Additional Information
+For additional information about Business First, you may obtain Business First’s reports that are filed with the Securities and Exchange Commission (SEC) free of charge by using the SEC’s EDGAR service on the SEC’s website at www.SEC.gov or by contacting the SEC for further information at 1-800-SEC-0330. Alternatively, these documents can be obtained free of charge from Business First by directing a request to: Business First Bancshares, Inc., 500 Laurel Street, Suite 101, Baton Rouge, Louisiana 70801, Attention: Corporate Secretary.
+No Offer or Solicitation
+This release does not constitute or form part of any offer to sell, or a solicitation of an offer to purchase, any securities of Business First. There will be no sale of securities in any jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of such jurisdiction.
+Investor Relations Contacts:
+Gregory Robertson
+337.721.2701
+Gregory.Robertson@b1bank.com
+Matt Sealy
+225.388.6116
+Matt.Sealy@b1bank.com
+b1BANK.com
+8
+Business First Bancshares, Inc.
+Selected Financial Information
+(Unaudited)
+Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(Dollars in thousands)
+Balance Sheet Ratios
+Loans (HFI) to Deposits | 91.92 | % | 92.04 | % | 92.53 | %
+Shareholders' Equity to Assets Ratio | 11.19 | 11.33 | 11.04
+Loans Receivable Held for Investment (HFI)
+Commercial | $ | 1,990,998 | $ | 1,988,696 | $ | 1,920,813
+Real Estate:
+Commercial | 2,896,707 | 2,824,015 | 2,462,617
+Construction | 774,170 | 693,477 | 638,907
+Residential | 1,048,400 | 1,079,018 | 927,456
+Total Real Estate | 4,719,277 | 4,596,510 | 4,028,980
+Consumer and Other | 70,612 | 74,241 | 71,262
+Total Loans (Held for Investment) | $ | 6,780,887 | $ | 6,659,447 | $ | 6,021,055
+Allowance for Loan Losses
+Balance, Beginning of Period | $ | 62,458 | $ | 63,655 | $ | 58,496
+Charge-offs – Quarterly | (5,787) | (3,208) | (3,415)
+Recoveries – Quarterly | 284 | 293 | 348
+Provision for Loan Losses – Quarterly | 2,640 | 1,718 | 1,633
+Balance, End of Period | $ | 59,595 | $ | 62,458 | $ | 57,062
+Allowance for Loan Losses to Total Loans (HFI) | 0.88 | % | 0.94 | % | 0.95 | %
+Allowance for Credit Losses to Total Loans (HFI) (1) | 0.95 | 1.02 | 1.03
+Net Charge-offs to Average Quarterly Total Loans | 0.08 | 0.04 | 0.05
+Remaining Loan Purchase Discount | $ | 6,119 | $ | 7,341 | $ | 8,943
+Nonperforming Assets
+Nonperforming Loans:
+Nonaccrual Loans | $ | 80,363 | $ | 80,124 | $ | 45,362
+Loans Past Due 90 Days or More | 3,701 | 4,011 | 3,929
+Total Nonperforming Loans | 84,064 | 84,135 | 49,291
+Other Nonperforming Assets:
+Other Real Estate Owned | 24,761 | 25,109 | 16,766
+Other Nonperforming Assets | — | — | —
+Total Other Nonperforming Assets | 24,761 | 25,109 | 16,766
+Total Nonperforming Assets | $ | 108,825 | $ | 109,244 | $ | 66,057
+Nonperforming Loans to Total Loans (HFI) | 1.24 | % | 1.26 | % | 0.82 | %
+Nonperforming Assets to Total Assets | 1.22 | 1.23 | 0.83
+(1) Allowance for Credit Losses includes the Allowance for Loan Loss and Reserve for Unfunded Commitments.
+b1BANK.com
+9
+Business First Bancshares, Inc.
+Selected Financial Information
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Per Share Data
+Basic Earnings per Common Share | $ | 0.71 | $ | 0.70 | $ | 0.73 | $ | 2.10 | $ | 2.09
+Diluted Earnings per Common Share | 0.71 | 0.70 | 0.73 | 2.08 | 2.08
+Dividends per Common Share | 0.15 | 0.15 | 0.14 | 0.45 | 0.42
+Book Value per Common Share | 28.77 | 28.79 | 27.23 | 28.77 | 27.23
+Average Common Shares Outstanding | 32,504,217 | 32,589,951 | 29,544,425 | 32,558,017 | 29,363,138
+Average Diluted Common Shares Outstanding | 32,730,923 | 32,763,608 | 29,656,639 | 32,766,628 | 29,495,049
+End of Period Common Shares Outstanding | 32,345,723 | 32,535,659 | 29,615,370 | 32,345,723 | 29,615,370
+Annualized Performance Ratios
+Return to Common Shareholders on Average Assets (1) | 1.04 | % | 1.03 | % | 1.08 | % | 1.03 | % | 1.05 | %
+Return to Common Shareholders on Average Common Equity (1) | 9.75 | 9.83 | 10.80 | 9.78 | 10.74
+Net Interest Margin (1) | 3.86 | 3.73 | 3.68 | 3.75 | 3.68
+Net Interest Spread (1) | 3.09 | 2.99 | 2.85 | 3.00 | 2.88
+Efficiency Ratio (2) | 64.88 | 64.83 | 60.45 | 64.72 | 62.37
+Total Quarterly/Year-to-Date Average Assets | $ | 8,845,047 | $ | 8,916,954 | $ | 7,921,159 | $ | 8,886,084 | $ | 7,825,828
+Total Quarterly/Year-to-Date Average Common Equity | 944,333 | 931,020 | 790,148 | 932,545 | 764,959
+Other Expenses
+Salaries and Employee Benefits | $ | 32,582 | $ | 33,120 | $ | 27,613 | $ | 98,741 | $ | 85,427
+Occupancy and Equipment Expense | 10,078 | 8,279 | 7,284 | 26,479 | 21,802
+Advertising and Promotions | 2,064 | 2,606 | 1,205 | 6,178 | 3,584
+Communications | 773 | 638 | 582 | 2,063 | 1,763
+Ad Valorem Shares Tax | 978 | 977 | 1,125 | 2,933 | 3,375
+Data Processing Fees | 3,084 | 3,317 | 3,972 | 10,113 | 12,529
+Directors' Fees | 308 | 247 | 261 | 815 | 733
+Insurance | 188 | 432 | 420 | 424 | 1,031 | 1,248
+Legal and Other Professional Fees | 1,236 | 1,661 | 1,024 | 3,982 | 3,130
+Office Supplies and Printing | 268 | 278 | 286 | 859 | 897
+Regulatory Assessments | 1,209 | 1,534 | 1,142 | 3,727 | 3,332
+Merger and Conversion-Related Expenses | 1,395 | 303 | 477 | 3,075 | 937
+Other | 6,302 | 6,133 | 3,491 | 17,465 | 11,909
+Total Other Expenses | $ | 60,465 | $ | 59,525 | $ | 48,882 | $ | 177,461 | $ | 150,666
+b1BANK.com
+10
+Business First Bancshares, Inc.
+Selected Financial Information
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Other Income
+Service Charges on Deposit Accounts | $ | 3,340 | $ | 3,197 | $ | 2,565 | $ | 9,679 | $ | 8,058
+(Loss) Gain on Sales of Securities | (21) | (6) | 77 | 53 | 29
+Gain on Sales of Loans | 814 | 1,583 | 624 | 3,738 | 2,661
+Debit Card and ATM Fee Income | 2,380 | 2,415 | 1,915 | 7,101 | 5,731
+Cash Value of Life Insurance Income | 979 | 902 | 802 | 2,712 | 2,368
+Fees and Brokerage Commission | 2,458 | 2,387 | 1,880 | 7,106 | 6,008
+Pass-Through (Loss) Income from Other Investments | (135) | 14 | 133 | 14 | 638
+Gain on Extinguishment/Redemption of Debt | — | 545 | — | 545 | 630
+Gain on Branch Sale | — | — | — | — | 3,360
+Swap Fee Income | 626 | 385 | 1,065 | 2,548 | 2,612
+Other | 2,071 | 2,545 | 2,610 | 7,033 | 7,217
+Total Other Income | $ | 12,512 | $ | 13,967 | $ | 11,671 | $ | 40,529 | $ | 39,312
+(1) Average outstanding balances are determined utilizing daily averages and average yield/rate is calculated utilizing an actual day count convention.
+(2) Noninterest expense (excluding provision for loan losses) divided by noninterest income plus net interest income less gain/loss on sales of securities.
+b1BANK.com
+11
+Business First Bancshares, Inc.
+Consolidated Balance Sheets
+(Unaudited)
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(Dollars in thousands)
+Assets
+Cash and Due From Banks | $ | 490,037 | $ | 575,604 | $ | 399,079
+Federal Funds Sold | 110,738 | 95,535 | 101,103
+Securities Purchased under Agreements to Resell | 79,214 | 30,702 | 25,518
+Securities Available for Sale, at Fair Values | 986,704 | 1,041,133 | 985,938
+Mortgage Loans Held for Sale | 254 | 2,838 | 433
+Loans and Lease Receivable | 6,780,887 | 6,659,447 | 6,021,055
+Allowance for Loan Losses | (59,595) | (62,458) | (57,062)
+Net Loans and Lease Receivable | 6,721,292 | 6,596,989 | 5,963,993
+Premises and Equipment, Net | 95,456 | 88,925 | 77,944
+Accrued Interest Receivable | 39,321 | 38,969 | 37,171
+Other Equity Securities | 39,984 | 51,302 | 44,313
+Other Real Estate Owned | 24,761 | 25,109 | 16,766
+Cash Value of Life Insurance | 140,148 | 139,169 | 119,509
+Deferred Taxes, Net | 24,853 | 21,561 | 21,433
+Goodwill | 131,743 | 135,222 | 121,146
+Core Deposit and Customer Intangibles | 31,983 | 33,267 | 15,136
+Other Assets | 39,474 | 27,181 | 24,380
+Total Assets | $ | 8,955,962 | $ | 8,903,506 | $ | 7,953,862
+Liabilities
+Deposits
+Noninterest-Bearing | $ | 1,605,682 | $ | 1,583,562 | $ | 1,366,558
+Interest-Bearing | 5,771,116 | 5,651,994 | 5,140,304
+Total Deposits | 7,376,798 | 7,235,556 | 6,506,862
+Securities Sold Under Agreements to Repurchase | 24,896 | 24,442 | 29,896
+Federal Home Loan Bank Borrowings | 334,189 | 442,494 | 367,408
+Subordinated Debt | 114,250 | 114,250 | 92,587
+Subordinated Debt - Trust Preferred Securities | 9,689 | 9,678 | 5,000
+Accrued Interest Payable | 3,126 | 3,774 | 4,064
+Other Liabilities | 90,498 | 64,735 | 69,605
+Total Liabilities | 7,953,446 | 7,894,929 | 7,075,422
+Shareholders' Equity
+Preferred Stock | 71,930 | 71,930 | 71,930
+Common Stock | 32,346 | 32,536 | 29,615
+Additional Paid-In Capital | 572,968 | 578,087 | 503,325
+Retained Earnings | 380,182 | 361,846 | 309,999
+Accumulated Other Comprehensive Loss | (54,910) | (35,822) | (36,429)
+Total Shareholders' Equity | 1,002,516 | 1,008,577 | 878,440
+Total Liabilities and Shareholders' Equity | $ | 8,955,962 | $ | 8,903,506 | $ | 7,953,862
+b1BANK.com
+12
+Business First Bancshares, Inc.
+Consolidated Statements of Income
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Interest Income:
+Interest and Fees on Loans | $ | 113,263 | $ | 111,780 | $ | 106,662 | $ | 334,189 | $ | 313,682
+Interest and Dividends on Securities | 9,207 | 9,104 | 7,554 | 26,773 | 21,074
+Interest on Federal Funds Sold and Due From Banks | 5,047 | 4,766 | 4,472 | 14,699 | 12,475
+Total Interest Income | 127,517 | 125,650 | 118,688 | 375,661 | 347,231
+Interest Expense:
+Interest on Deposits | 41,511 | 41,251 | 43,358 | 125,520 | 127,343
+Interest on Borrowings | 5,342 | 6,555 | 6,054 | 16,438 | 17,587
+Total Interest Expense | 46,853 | 47,806 | 49,412 | 141,958 | 144,930
+Net Interest Income | 80,664 | 77,844 | 69,276 | 233,703 | 202,301
+Provision for Credit Losses | 1,938 | 1,991 | 3,183 | 6,207 | 8,220
+Net Interest Income After Provision for Credit Losses | 78,726 | 75,853 | 66,093 | 227,496 | 194,081
+Other Income:
+Service Charges on Deposit Accounts | 3,340 | 3,197 | 2,565 | 9,679 | 8,058
+(Loss) Gain on Sales of Securities | (21) | (6) | 77 | 53 | 29
+Gain on Sales of Loans | 814 | 1,583 | 624 | 3,738 | 2,661
+Other Income | 8,379 | 9,193 | 8,405 | 27,059 | 28,564
+Total Other Income | 12,512 | 13,967 | 11,671 | 40,529 | 39,312
+Other Expenses:
+Salaries and Employee Benefits | 32,582 | 33,120 | 27,613 | 98,741 | 85,427
+Occupancy and Equipment Expense | 10,078 | 8,279 | 7,284 | 26,479 | 21,802
+Merger and Conversion-Related Expense | 1,395 | 303 | 477 | 3,075 | 937
+Other Expenses | 16,410 | 17,823 | 13,508 | 49,166 | 42,500
+Total Other Expenses | 60,465 | 59,525 | 48,882 | 177,461 | 150,666
+Income Before Income Taxes | 30,773 | 30,295 | 28,882 | 90,564 | 82,727
+Provision for Income Taxes | 6,221 | 6,120 | 6,026 | 18,273 | 17,225
+Net Income | 24,552 | 24,175 | 22,856 | 72,291 | 65,502
+Preferred Stock Dividends | 1,351 | 1,350 | 1,351 | 4,051 | 4,051
+Net Income Available to Common Shareholders | $ | 23,201 | $ | 22,825 | $ | 21,505 | $ | 68,240 | $ | 61,451
+b1BANK.com
+13
+Business First Bancshares, Inc.
+Consolidated Net Interest Margin
+(Unaudited)
+Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(Dollars in thousands) | Average Outstanding Balance | Interest Earned / Interest Paid | Average Yield / Rate | Average Outstanding Balance | Interest Earned / Interest Paid | Average Yield / Rate | Average Outstanding Balance | Interest Earned / Interest Paid | Average Yield / Rate
+Assets
+Interest-Earning Assets:
+Total Loans | $ | 6,670,021 | $ | 113,263 | 6.74 | % | $ | 6,757,776 | $ | 111,780 | 6.63 | % | $ | 6,036,622 | $ | 106,662 | 7.01 | %
+Securities | 1,054,664 | 9,207 | 3.46 | 1,068,191 | 9,104 | 3.42 | 978,502 | 7,554 | 3.06
+Securities Purchased under Agreements to Resell | 32,316 | 359 | 4.41 | 30,683 | 335 | 4.38 | 25,490 | 330 | 5.14
+Interest-Bearing Deposit in Other Banks | 533,251 | 4,688 | 3.49 | 509,177 | 4,431 | 3.49 | 419,413 | 4,142 | 3.92
+Total Interest-Earning Assets | $ | 8,290,252 | $ | 127,517 | 6.10 | % | $ | 8,365,827 | $ | 125,650 | 6.02 | % | $ | 7,460,027 | $ | 118,688 | 6.31 | %
+Allowance for Loan Losses | (62,716) | (63,280) | (58,468)
+Noninterest-Earning Assets | 617,511 | 614,407 | 519,600
+Total Assets | $ | 8,845,047 | $ | 127,517 | $ | 8,916,954 | $ | 125,650 | $ | 7,921,159 | $ | 118,688
+Liabilities and Shareholders' Equity
+Interest-Bearing Liabilities:
+Interest-Bearing Deposits | $ | 5,729,786 | $ | 41,511 | 2.87 | % | $ | 5,739,241 | $ | 41,251 | 2.88 | % | $ | 5,122,136 | $ | 43,358 | 3.36 | %
+Subordinated Debt | 114,250 | 1,874 | 6.51 | 112,252 | 1,778 | 6.35 | 92,624 | 1,235 | 5.29
+Subordinated Debt - Trust Preferred Securities | 9,682 | 185 | 7.56 | 9,670 | 178 | 7.40 | 5,000 | 100 | 7.93
+Advances from Federal Home Loan Bank (FHLB) | 300,381 | 3,120 | 4.12 | 441,012 | 4,457 | 4.05 | 424,287 | 4,547 | 4.25
+Other Borrowings | 24,958 | 163 | 2.59 | 22,206 | 142 | 2.58 | 26,176 | 172 | 2.61
+Total Interest-Bearing Liabilities | $ | 6,179,057 | $ | 46,853 | 3.01 | % | $ | 6,324,381 | $ | 47,806 | 3.03 | % | $ | 5,670,223 | $ | 49,412 | 3.46 | %
+Noninterest-Bearing Liabilities:
+Noninterest-Bearing Deposits | $ | 1,573,300 | $ | 1,518,400 | $ | 1,315,064
+Other Liabilities | 76,427 | 71,223 | 73,794
+Total Noninterest-Bearing Liabilities | 1,649,727 | 1,589,623 | 1,388,858
+Shareholders' Equity:
+Common Shareholders' Equity | 944,333 | 931,020 | 790,148
+Preferred Equity | 71,930 | 71,930 | 71,930
+Total Shareholders' Equity | 1,016,263 | 1,002,950 | 862,078
+Total Liabilities and Shareholders' Equity | $ | 8,845,047 | $ | 8,916,954 | $ | 7,921,159
+Net Interest Spread | 3.09 | % | 2.99 | % | 2.85 | %
+Net Interest Income | $ | 80,664 | $ | 77,844 | $ | 69,276
+Net Interest Margin | 3.86 | % | 3.73 | % | 3.68 | %
+Overall Cost of Funds | 2.40 | % | 2.44 | % | 2.81 | %
+NOTE: Average outstanding balances are determined utilizing daily averages and an actual day count convention.
+b1BANK.com
+14
+Business First Bancshares, Inc.
+Consolidated Net Interest Margin
+(Unaudited)
+Nine Months Ended
+September 30, 2026 | September 30, 2025
+(Dollars in thousands) | Average Outstanding Balance | Interest Earned / Interest Paid | Average Yield / Rate | Average Outstanding Balance | Interest Earned / Interest Paid | Average Yield / Rate
+Assets
+Interest-Earning Assets:
+Total Loans | $ | 6,708,583 | $ | 334,189 | 6.66 | % | $ | 6,001,647 | $ | 313,682 | 6.99 | %
+Securities | 1,062,728 | 26,773 | 3.37 | 946,961 | 21,074 | 2.98
+Securities Purchased under Agreements to Resell | 29,906 | 996 | 4.45 | 35,740 | 1,382 | 5.17
+Interest-Bearing Deposit in Other Banks | 533,540 | 13,703 | 3.43 | 361,760 | 11,093 | 4.10
+Total Interest-Earning Assets | $ | 8,334,757 | $ | 375,661 | 6.03 | % | $ | 7,346,108 | $ | 347,231 | 6.32 | %
+Allowance for Loan Losses | (62,191) | (56,718)
+Noninterest-Earning Assets | 613,518 | 536,438
+Total Assets | $ | 8,886,084 | $ | 375,661 | $ | 7,825,828 | $ | 347,231
+Liabilities and Shareholders' Equity
+Interest-Bearing Liabilities:
+Interest-Bearing Deposits | $ | 5,783,862 | $ | 125,520 | 2.90 | % | $ | 5,103,928 | $ | 127,343 | 3.34 | %
+Subordinated Debt | 106,303 | 4,872 | 6.13 | 94,169 | 3,732 | 5.30
+Subordinated Debt - Trust Preferred Securities | 10,334 | 516 | 6.68 | 5,000 | 299 | 8.03
+Advances from Federal Home Loan Bank (FHLB) | 346,337 | 10,615 | 4.10 | 411,444 | 13,136 | 4.27
+Other Borrowings | 22,416 | 435 | 2.59 | 21,699 | 420 | 2.59
+Total Interest-Bearing Liabilities | $ | 6,269,252 | $ | 141,958 | 3.03 | % | $ | 5,636,240 | $ | 144,930 | 3.44 | %
+Noninterest-Bearing Liabilities:
+Noninterest-Bearing Deposits | $ | 1,537,842 | $ | 1,284,745
+Other Liabilities | 74,515 | 67,954
+Total Noninterest-Bearing Liabilities | 1,612,357 | 1,352,699
+Shareholders' Equity:
+Common Shareholders' Equity | 932,545 | 764,959
+Preferred Equity | 71,930 | 71,930
+Total Shareholders' Equity | 1,004,475 | 836,889
+Total Liabilities and Shareholders' Equity | $ | 8,886,084 | $ | 7,825,828
+Net Interest Spread | 3.00 | % | 2.88 | %
+Net Interest Income | $ | 233,703 | $ | 202,301
+Net Interest Margin | 3.75 | % | 3.68 | %
+Overall Cost of Funds | 2.43 | % | 2.80 | %
+NOTE: Average outstanding balances are determined utilizing daily averages and an actual day count convention.
+b1BANK.com
+15
+Business First Bancshares, Inc.
+Non-GAAP Measures
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Interest Income:
+Interest income | $ | 127,517 | $ | 125,650 | $ | 118,688 | $ | 375,661 | $ | 347,231
+Core interest income | 127,517 | 125,650 | 118,688 | 375,661 | 347,231
+Interest Expense:
+Interest expense | 46,853 | 47,806 | 49,412 | 141,958 | 144,930
+Core interest expense | 46,853 | 47,806 | 49,412 | 141,958 | 144,930
+Provision for Credit Losses: (b)
+Provision for credit losses | 1,938 | 1,991 | 3,183 | 6,207 | 8,220
+Core provision expense | 1,938 | 1,991 | 3,183 | 6,207 | 8,220
+Other Income:
+Other income | 12,512 | 13,967 | 11,671 | 40,529 | 39,312
+Gain on former bank premises and equipment | — | — | — | (28) | (155)
+Loss (gain) on sale of securities | 21 | 6 | (77) | (53) | (29)
+Gain on extinguishment/redemption of debt | — | (545) | — | (545) | (630)
+Gain on branch sale | — | — | — | — | (3,360)
+Core other income | 12,533 | 13,428 | 11,594 | 39,903 | 35,138
+Other Expense:
+Other expense | 60,465 | 59,525 | 48,882 | 177,461 | 150,666
+Acquisition-related expenses (2) | (3,538) | (1,169) | (1,157) | (6,934) | (2,406)
+Core conversion expenses | — | — | (439) | — | (1,663)
+Tax credit - ERC | — | — | 1,997 | — | 1,997
+Core other expense | 56,927 | 58,356 | 49,283 | 170,527 | 148,594
+Pre-Tax Income: (a)
+Pre-tax income | 30,773 | 30,295 | 28,882 | 90,564 | 82,727
+Gain on former bank premises and equipment | — | — | — | (28) | (155)
+Loss (gain) on sale of securities | 21 | 6 | (77) | (53) | (29)
+Gain on extinguishment/redemption of debt | — | (545) | — | (545) | (630)
+Gain on branch sale | — | — | — | — | (3,360)
+Acquisition-related expenses (2) | 3,538 | 1,169 | 1,157 | 6,934 | 2,406
+Core conversion expenses | — | — | 439 | — | 1,663
+Tax credit - ERC | — | — | (1,997) | — | (1,997)
+Core pre-tax income | 34,332 | 30,925 | 28,404 | 96,872 | 80,625
+Provision for Income Taxes: (1)
+Provision for income taxes | 6,221 | 6,120 | 6,026 | 18,273 | 17,225
+Tax on gain on former bank premises and equipment | — | — | — | (6) | (33)
+Tax on loss (gain) on sale of securities | 5 | 1 | (16) | (11) | (6)
+Tax on gain on extinguishment/redemption of debt | — | (115) | — | (115) | (133)
+Tax on gain on branch sale | — | — | — | — | (833)
+Tax on acquisition-related expenses (2) | 743 | 239 | 157 | 1,301 | 403
+Tax on core conversion expenses | — | — | 93 | — | 352
+Tax on tax credit - ERC | — | — | (422) | — | (422)
+Core provision for income taxes | 6,969 | 6,245 | 5,838 | 19,442 | 16,553
+Preferred Dividends:
+Preferred dividends | 1,351 | 1,350 | 1,351 | 4,051 | 4,051
+Core preferred dividends | $ | 1,351 | $ | 1,350 | $ | 1,351 | $ | 4,051 | $ | 4,051
+b1BANK.com
+16
+Business First Bancshares, Inc.
+Non-GAAP Measures
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Net Income Available to Common Shareholders:
+Net income available to common shareholders | $ | 23,201 | $ | 22,825 | $ | 21,505 | $ | 68,240 | $ | 61,451
+Gain on former bank premises and equipment, net of tax | — | — | — | (22) | (122)
+Loss (gain) on sale of securities, net of tax | 16 | 5 | (61) | (42) | (23)
+Gain on extinguishment/redemption of debt, net of tax | — | (430) | — | (430) | (497)
+Gain on branch sale, net of tax | — | — | — | — | (2,527)
+Acquisition-related expenses (2), net of tax | 2,795 | 930 | 1,000 | 5,633 | 2,003
+Core conversion expenses, net of tax | — | — | 346 | — | 1,311
+Tax Credit - ERC, net of tax | — | — | (1,575) | — | (1,575)
+Core net income available to common shareholders | 26,012 | 23,330 | 21,215 | 73,379 | 60,021
+Pre-tax, pre-provision earnings available to common shareholders (a+b)(3) | 32,711 | 32,286 | 32,065 | 96,771 | 90,947
+Gain on former bank premises and equipment | — | — | — | (28) | (155)
+Loss (gain) on sale of securities | 21 | 6 | (77) | (53) | (29)
+Gain on extinguishment/redemption of debt | — | (545) | — | (545) | (630)
+Gain on branch sale | — | — | — | — | (3,360)
+Acquisition-related expenses (2) | 3,538 | 1,169 | 1,157 | 6,934 | 2,406
+Core conversion expenses | — | — | 439 | — | 1,663
+Tax credit - ERC | — | — | (1,997) | — | (1,997)
+Core pre-tax, pre-provision earnings | $ | 36,270 | $ | 32,916 | $ | 31,587 | $ | 103,079 | $ | 88,845
+Average Diluted Common Shares Outstanding | 32,730,923 | 32,763,608 | 29,656,639 | 32,766,628 | 29,495,049
+Diluted Earnings Per Common Share:
+Diluted earnings per common share | $ | 0.71 | $ | 0.70 | $ | 0.73 | $ | 2.08 | $ | 2.08
+Gain on former bank premises and equipment, net of tax | — | — | — | — | —
+Loss (gain) on sale of securities, net of tax | — | — | — | — | —
+Gain on extinguishment/redemption of debt, net of tax | — | (0.01) | — | (0.01) | (0.02)
+Gain on branch sale, net of tax | — | — | — | — | (0.09)
+Acquisition-related expenses (2), net of tax | 0.08 | 0.02 | 0.03 | 0.17 | 0.07
+Core conversion expenses, net of tax | — | — | 0.01 | — | 0.04
+Tax credit - ERC, net of taxes | — | — | (0.05) | — | (0.05)
+Core diluted earnings per common share | $ | 0.79 | $ | 0.71 | $ | 0.72 | $ | 2.24 | $ | 2.03
+Pre-tax, pre-provision profit diluted earnings per common share | $ | 1.00 | $ | 0.99 | $ | 1.08 | $ | 2.95 | $ | 3.08
+Gain on former bank premises and equipment | — | — | — | — | (0.01)
+Loss (gain) on sale of securities | — | — | — | — | —
+Gain on extinguishment/redemption of debt | — | (0.02) | — | (0.02) | (0.02)
+Gain on branch sale | — | — | — | — | (0.11)
+Acquisition-related expenses (2) | 0.11 | 0.04 | 0.04 | 0.21 | 0.08
+Core conversion expenses | — | — | 0.02 | — | 0.06
+Tax credit - ERC | — | — | (0.07) | — | (0.07)
+Core pre-tax, pre-provision diluted earnings per common share | $ | 1.11 | $ | 1.01 | $ | 1.07 | $ | 3.14 | $ | 3.01
+(1) Tax rates, exclusive of certain nondeductible merger-related expenses and goodwill, utilized were 21.129% for 2026 and 2025. These rates approximated the marginal tax rates.
+(2) Includes merger and conversion-related expenses, salary and other incremental merger-related expense.
+(3) Before preferred dividends.
+b1BANK.com
+17
+Business First Bancshares, Inc.
+Non-GAAP Measures
+(Unaudited)
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Total Shareholders' (Common) Equity:
+Total shareholders' equity | $ | 1,002,516 | $ | 1,008,577 | $ | 878,440
+Preferred stock | (71,930) | (71,930) | (71,930)
+Total common shareholders' equity | 930,586 | 936,647 | 806,510
+Goodwill | (131,743) | (135,222) | (121,146)
+Core deposit and customer intangible | (31,983) | (33,267) | (15,136)
+Total tangible common equity | $ | 766,860 | $ | 768,158 | $ | 670,228
+Total Assets:
+Total assets | $ | 8,955,962 | $ | 8,903,506 | $ | 7,953,862
+Goodwill | (131,743) | (135,222) | (121,146)
+Core deposit and customer intangible | (31,983) | (33,267) | (15,136)
+Total tangible assets | $ | 8,792,236 | $ | 8,735,017 | $ | 7,817,580
+Common shares outstanding | 32,345,723 | 32,535,659 | 29,615,370
+Book value per common share | $ | 28.77 | $ | 28.79 | $ | 27.23
+Tangible book value per common share | $ | 23.71 | $ | 23.61 | $ | 22.63
+Common equity to total assets | 10.39 | % | 10.52 | % | 10.14 | %
+Tangible common equity to tangible assets | 8.72 | % | 8.79 | % | 8.57 | %
+b1BANK.com
+18
+Business First Bancshares, Inc.
+Non-GAAP Measures
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Total Quarterly Average Assets | $ | 8,845,047 | $ | 8,916,954 | $ | 7,921,159 | $ | 8,886,084 | $ | 7,825,828
+Total Quarterly Average Common Equity | 944,333 | 931,020 | 790,148 | 932,545 | 764,959
+Net Income Available to Common Shareholders:
+Net income available to common shareholders | $ | 23,201 | $ | 22,825 | $ | 21,505 | $ | 68,240 | $ | 61,451
+Gain on former bank premises and equipment, net of tax | — | — | — | (22) | (122)
+Loss (gain) on sale of securities, net of tax | 16 | 5 | (61) | (42) | (23)
+Gain on extinguishment/redemption of debt, net of tax | — | (430) | — | (430) | (497)
+Gain on branch sale, net of tax | — | — | — | — | (2,527)
+Acquisition-related expenses, net of tax | 2,795 | 930 | 1,000 | 5,633 | 2,003
+Core conversion expenses, net of tax | — | — | 346 | — | 1,311
+Tax credit - ERC, net of tax | — | — | (1,575) | — | (1,575)
+Core net income available to common shareholders | $ | 26,012 | $ | 23,330 | $ | 21,215 | $ | 73,379 | $ | 60,021
+Return to common shareholders on average assets (annualized) (2) | 1.04 | % | 1.03 | % | 1.08 | % | 1.03 | % | 1.05 | %
+Core return on average assets (annualized) (2) | 1.17 | 1.05 | 1.06 | 1.10 | 1.03
+Return to common shareholders on average common equity (annualized) (2) | 9.75 | 9.83 | 10.80 | 9.78 | 10.74
+Core return on average common equity (annualized) (2) | 10.93 | 10.05 | 10.65 | 10.52 | 10.49
+Interest Income:
+Interest income | $ | 127,517 | $ | 125,650 | $ | 118,688 | $ | 375,661 | $ | 347,231
+Core interest income | 127,517 | 125,650 | 118,688 | 375,661 | 347,231
+Interest Expense:
+Interest expense | 46,853 | 47,806 | 49,412 | 141,958 | 144,930
+Core interest expense | 46,853 | 47,806 | 49,412 | 141,958 | 144,930
+Other Income:
+Other income | 12,512 | 13,967 | 11,671 | 40,529 | 39,312
+Gain on former bank premises and equipment | — | — | — | (28) | (155)
+Loss (gain) on sale of securities | 21 | 6 | (77) | (53) | (29)
+Gain on extinguishment/redemption of debt | — | (545) | — | (545) | (630)
+Gain on branch sale | — | — | — | — | (3,360)
+Core other income | 12,533 | 13,428 | 11,594 | 39,903 | 35,138
+Other Expense:
+Other expense | 60,465 | 59,525 | 48,882 | 177,461 | 150,666
+Acquisition-related expenses | (3,538) | (1,169) | (1,157) | (6,934) | (2,406)
+Core conversion expenses | — | — | (439) | — | (1,663)
+Tax credit - ERC | — | — | 1,997 | — | 1,997
+Core other expense | $ | 56,927 | $ | 58,356 | $ | 49,283 | $ | 170,527 | $ | 148,594
+Efficiency Ratio:
+Other expense (a) | $ | 60,465 | $ | 59,525 | $ | 48,882 | $ | 177,461 | $ | 150,666
+Core other expense (c) | 56,927 | 58,356 | 49,283 | 170,527 | 148,594
+Net interest and other income (1) (b) | 93,197 | 91,817 | 80,870 | 274,179 | 241,584
+Core net interest and other income (1) (d) | 93,197 | 91,272 | 80,870 | 273,606 | 237,439
+Efficiency ratio (a/b) | 64.88 | % | 64.83 | % | 60.45 | % | 64.72 | % | 62.37 | %
+Core efficiency ratio (c/d) | 61.08 | 63.94 | 60.94 | 62.33 | 62.58
+Total Average Interest-Earning Assets | $ | 8,290,252 | $ | 8,365,827 | $ | 7,460,027 | $ | 8,334,757 | $ | 7,346,108
+b1BANK.com
+19
+Business First Bancshares, Inc.
+Non-GAAP Measures
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(Dollars in thousands, except per share data)
+Net Interest Income:
+Net interest income | $ | 80,664 | $ | 77,844 | $ | 69,276 | $ | 233,703 | $ | 202,301
+Loan discount accretion | (1,221) | (995) | (1,111) | (3,355) | (2,671)
+Net interest income excluding loan discount accretion | $ | 79,443 | $ | 76,849 | $ | 68,165 | $ | 230,348 | $ | 199,630
+Net interest margin (2) | 3.86 | % | 3.73 | % | 3.68 | % | 3.75 | % | 3.68 | %
+Net interest margin excluding loan discount accretion (2) | 3.80 | 3.68 | 3.63 | 3.70 | 3.63
+Net interest spread (2) | 3.09 | 2.99 | 2.85 | 3.00 | 2.88
+Net interest spread excluding loan discount accretion (2) | 3.04 | 2.94 | 2.80 | 2.94 | 2.83
+(1) Excludes gains/losses on sales of securities.
+(2) Calculated utilizing an actual day count convention.
+b1BANK.com

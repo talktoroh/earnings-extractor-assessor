@@ -299,5 +299,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/ex_1028728.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/0001437749-26-033125-index.htm",
     "saved_at": "2026-10-25T18:15:53+08:00"
+  },
+  {
+    "cik": "1624322",
+    "company": "Business First Bancshares, Inc.",
+    "accession": "0001624322-26-000040",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 24.552,
+        "unit": "USD millions",
+        "quote": "Net Income | 24,552"
+      },
+      "diluted_eps": {
+        "value": 0.71,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share | $ | 0.71"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income available to common shareholders rose slightly on the linked quarter.",
+        "quote": "Business First reported net income available to common shareholders of $23.2 million or $0.71 per diluted common share, increases of $0.4 million and $0.01, respectively, compared to the linked quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest margin widened, helped by better loan yields and lower funding costs.",
+        "quote": "Net interest margin expanded 13 basis points (bps) to 3.86% for the quarter ended September 30, 2026"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says non-interest expenses were kept in check.",
+        "quote": "expanding our net interest margin by 12 basis points and keeping non-interest expenses in check"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of disciplined execution, higher earnings and stronger returns."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1624322-0001624322-26-000040.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/exhibit991_earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/0001624322-26-000040-index.htm",
+    "saved_at": "2026-10-27T06:10:58+08:00"
+  },
+  {
+    "cik": "1895262",
+    "company": "Noble Corp plc",
+    "accession": "0001895262-26-000147",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 729,
+        "unit": "USD millions",
+        "quote": "Total Revenue | $ | 729 | $ | 798 | $ | 720"
+      },
+      "operating_income": {
+        "value": 60.083,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 60,083 | 50,400"
+      },
+      "net_income": {
+        "value": -117.024,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (117,024) | $ | (21,095)"
+      },
+      "diluted_eps": {
+        "value": -0.73,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | (0.73) | $ | (0.13)"
+      }
+    },
+    "guidance": {
+      "text": "For full year 2026, Noble narrows revenue guidance to $2,850-$2,900 million.",
+      "quote": "For the full year 2026, Revenue guidance is narrowed to $2,850-$2,900 million (versus $2,800-$2,900 million previously)"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Adjusted EBITDA fell 5% from the previous quarter.",
+        "quote": "The third quarter, which featured a 5% sequential decrease in Adjusted EBITDA, marked the successful resumption of operations for both of our rigs in Brazil"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "New contract awards of about $560 million were secured.",
+        "quote": "we have recently secured approximately $560 million in new contract awards"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects fleet utilisation and cash flow to improve from the second half of 2027.",
+        "quote": "We continue to build backlog that supports an expected meaningful inflection in fleet utilization and cash flow starting H2 2027"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes a fall in Adjusted EBITDA and limited demand tailwinds, but also new awards and improving contract coverage."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1895262-0001895262-26-000147.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/exhibit991-q32026pressrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/0001895262-26-000147-index.htm",
+    "saved_at": "2026-10-27T06:10:58+08:00"
   }
 ]
