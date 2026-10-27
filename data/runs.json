@@ -515,5 +515,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-28T06:37:51+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-28-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 7,
+      "mismatch": 1,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "861842",
+        "company": "CATHAY GENERAL BANCORP",
+        "accession": "0001437749-26-033125",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1624322",
+        "company": "Business First Bancshares, Inc.",
+        "accession": "0001624322-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1895262",
+        "company": "Noble Corp plc",
+        "accession": "0001895262-26-000147",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "64040",
+        "company": "S&P Global Inc.",
+        "accession": "0000064040-26-000053",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1413447",
+        "company": "NXP Semiconductors N.V.",
+        "accession": "0001413447-26-000057",
+        "period_label": "quarter ended 27 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 1,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 4,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 7 figures confirmed, 1 mismatch, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-28T06:08:26+08:00",
+      "watch_brief": "briefs/2026-10-28-watch.md",
+      "brief_says": 158,
+      "saved_for_run": 158,
+      "match": true
+    },
+    "offline": false
   }
 ]
