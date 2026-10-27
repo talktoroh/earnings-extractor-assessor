@@ -414,5 +414,125 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/exhibit991-q32026pressrele.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/0001895262-26-000147-index.htm",
     "saved_at": "2026-10-27T06:10:58+08:00"
+  },
+  {
+    "cik": "64040",
+    "company": "S&P Global Inc.",
+    "accession": "0000064040-26-000053",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3678,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 3,678 | $ | 3,443"
+      },
+      "operating_income": {
+        "value": 1956,
+        "unit": "USD millions",
+        "quote": "Operating profit | 1,956 | 1,556"
+      },
+      "net_income": {
+        "value": 1298,
+        "unit": "USD millions",
+        "quote": "Third quarter GAAP net income increased 20% to $1.298 billion"
+      },
+      "diluted_eps": {
+        "value": 4.45,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 4.45 | $ | 3.54"
+      }
+    },
+    "guidance": {
+      "text": "For 2026 the company expects revenue growth of 7.4% to 8.4%, higher than its previous range.",
+      "quote": "Revenue growth | 7.4% to 8.4% | 7.4% to 8.4%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue rose 7% year over year to $3.678 billion.",
+        "quote": "The Company reported revenue of $3.678 billion, which increased 7% year over year."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin rose 800 basis points; adjusted operating margin rose 60 basis points.",
+        "quote": "Operating margin increased 800 basis points and adjusted operating margin increased 60 basis points"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO calls it a very strong quarter, with demand for benchmarks and intellectual property rising.",
+        "quote": "S&P Global delivered a very strong quarter."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter very strong and guidance for revenue growth is raised."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/64040-0000064040-26-000053.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000053/spgi3q2026-earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000053/0000064040-26-000053-index.htm",
+    "saved_at": "2026-10-28T06:08:26+08:00"
+  },
+  {
+    "cik": "1413447",
+    "company": "NXP Semiconductors N.V.",
+    "accession": "0001413447-26-000057",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-27",
+    "period_label": "quarter ended 27 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3786,
+        "unit": "USD millions",
+        "quote": "Total Revenue | $ | 3,786 | $ | 3,496"
+      },
+      "operating_income": {
+        "value": 1228,
+        "unit": "USD millions",
+        "quote": "GAAP Operating Income (Loss) | $ | 1,228 | $ | 1,071"
+      },
+      "net_income": {
+        "value": 899,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 899 | 782"
+      },
+      "diluted_eps": {
+        "value": 3.48,
+        "unit": "USD per share",
+        "quote": "GAAP diluted Net Income (Loss) per Share (ii) | $ | 3.48 | $ | 3.02"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 the company expects total revenue between $3,750 million and $3,950 million.",
+      "quote": "Total Revenue | $3,750 | $3,850 | $3,950"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third-quarter revenue was $3.8 billion, up 19% year on year and 8% on the quarter.",
+        "quote": "NXP delivered third-quarter revenue of $3.8 billion, up 19 percent year-on-year and 8 percent sequentially."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO sees opportunities in software-defined vehicles, data centres and physical AI.",
+        "quote": "Looking ahead, we see significant opportunities as software-defined vehicles drive increasing demand for our next-generation solutions"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports accelerating growth drivers and sees significant opportunities ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1413447-0001413447-26-000057.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/nxp3q26exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/0001413447-26-000057-index.htm",
+    "saved_at": "2026-10-28T06:08:26+08:00"
   }
 ]
