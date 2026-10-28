@@ -534,5 +534,182 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/nxp3q26exhibit991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/0001413447-26-000057-index.htm",
     "saved_at": "2026-10-28T06:08:26+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Our deep full stack approach is driving momentum across the business, with Alphabet revenues growing 25% year-over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues more than doubled on demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Operating income rose 30% with a 31.8% operating margin.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-10-29T06:08:33+08:00"
+  },
+  {
+    "cik": "1836981",
+    "company": "BigBear.ai Holdings, Inc.",
+    "accession": "0001836981-26-000088",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 43.581,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 43,581 | $ | 33,143"
+      },
+      "operating_income": {
+        "value": -99.959,
+        "unit": "USD millions",
+        "quote": "Operating loss | (99,959) | (21,861)"
+      },
+      "net_income": {
+        "value": -91.854,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (91,854) | $ | 2,521"
+      },
+      "diluted_eps": {
+        "value": -0.19,
+        "unit": "USD per share",
+        "quote": "Diluted net loss per share | $ | (0.19) | $ | (0.03)"
+      }
+    },
+    "guidance": {
+      "text": "The company now projects full-year 2026 revenue of $150 million to $165 million.",
+      "quote": "Revenue between $150 million to $165 million, an increase of 5% from the previous guidance range midpoint."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising full-year revenue guidance.",
+        "quote": "We’re raising our full-year revenue guidance after another strong quarter of revenue growth, a series of contract wins, and improved margins,"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CFO says revenue grew for a third straight quarter.",
+        "quote": "Revenue grew again in the third quarter, our third straight quarter of organic growth since the end of last year."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The release says the net loss was driven mainly by a goodwill impairment.",
+        "quote": "primarily driven by a non-cash goodwill impairment charge of $76.7 million."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management stresses revenue growth, contract wins, better margins and a raised outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1836981-0001836981-26-000088.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/earningsrelease-3q26.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/0001836981-26-000088-index.htm",
+    "saved_at": "2026-10-29T06:08:33+08:00"
+  },
+  {
+    "cik": "1360901",
+    "company": "Evercore Inc.",
+    "accession": "0001628280-26-067716",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1168.581,
+        "unit": "USD millions",
+        "quote": "Net Revenues | 1,168,581 | 1,038,884"
+      },
+      "operating_income": {
+        "value": 242.556,
+        "unit": "USD millions",
+        "quote": "Operating Income - U.S. GAAP | $ | 242,556 | $ | 216,206"
+      },
+      "net_income": {
+        "value": 160.784,
+        "unit": "USD millions",
+        "quote": "Net Income Attributable to Evercore Inc. | $ | 160,784 | $ | 144,583"
+      },
+      "diluted_eps": {
+        "value": 3.93,
+        "unit": "USD per share",
+        "quote": "Diluted Earnings Per Share - U.S. GAAP | $ | 3.93 | $ | 3.41"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The chairman and CEO says the quarter was strong across nearly every business.",
+        "quote": "The third quarter was another strong quarter for Evercore, reflecting broad-based momentum across nearly every business."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The senior chairman cites a sixth consecutive record revenue quarter.",
+        "quote": "We delivered our sixth consecutive record revenue quarter."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Both leaders describe strong, record results and broad momentum."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1360901-0001628280-26-067716.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1360901/000162828026067716/earningsrelease3q26.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1360901/000162828026067716/0001628280-26-067716-index.htm",
+    "saved_at": "2026-10-29T06:08:33+08:00"
   }
 ]

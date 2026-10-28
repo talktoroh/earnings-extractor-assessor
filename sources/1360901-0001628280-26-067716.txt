@@ -1,0 +1,498 @@
+Company: Evercore Inc. (CIK 1360901)
+Accession: 0001628280-26-067716
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/1360901/000162828026067716/earningsrelease3q26.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1360901/000162828026067716/0001628280-26-067716-index.htm
+Saved: 2026-10-29T06:08:33+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 earningsrelease3q26.htm EX-99.1
+Exhibit 99.1
+E V E R C O R E
+EVERCORE REPORTS THIRD QUARTER 2026 RESULTS;
+QUARTERLY DIVIDEND OF $0.89 PER SHARE
+Third Quarter Results | Year to Date Results
+U.S. GAAP | Adjusted | U.S. GAAP | Adjusted
+Q3 2026 | Q3 2025 | Q3 2026 | Q3 2025 | YTD 2026 | YTD 2025 | YTD 2026 | YTD 2025
+Net Revenues ($ mm) | $ | 1,168.6 | $ | 1,038.9 | $ | 1,178.2 | $ | 1,047.1 | $ | 3,550.4 | $ | 2,567.5 | $ | 3,579.2 | $ | 2,585.8
+Operating Income ($ mm) | $ | 242.6 | $ | 216.2 | $ | 269.7 | $ | 227.9 | $ | 719.9 | $ | 477.8 | $ | 813.9 | $ | 501.2
+Net Income Attributable to Evercore Inc. ($ mm) | $ | 160.8 | $ | 144.6 | $ | 186.1 | $ | 155.5 | $ | 557.3 | $ | 388.0 | $ | 647.9 | $ | 415.7
+Diluted Earnings Per Share | $ | 3.93 | $ | 3.41 | $ | 4.28 | $ | 3.48 | $ | 13.49 | $ | 9.26 | $ | 14.77 | $ | 9.41
+Compensation Ratio | 64.1 | % | 65.5 | % | 63.0 | % | 65.0 | % | 64.6 | % | 65.8 | % | 63.5 | % | 65.3 | %
+Operating Margin | 20.8 | % | 20.8 | % | 22.9 | % | 21.8 | % | 20.3 | % | 18.6 | % | 22.7 | % | 19.4 | %
+Business and Financial Highlights | g | Record Third Quarter and Year-to-Date Net Revenues were $1.2 billion and $3.6 billion, respectively, on both a U.S. GAAP and an Adjusted basis. Third Quarter and Year-to-Date Net Revenues increased 12% and 38%, respectively, on a U.S. GAAP basis and 13% and 38%, respectively, on an Adjusted basis versus 2025
+g | Third Quarter and Year-to-Date Operating Income were $242.6 million and $719.9 million, respectively, on a U.S. GAAP basis and $269.7 million and $813.9 million, respectively, on an Adjusted basis. Year-to-Date Operating Margins of 20.3% and 22.7% on a U.S. GAAP and an Adjusted basis, respectively, increased 167 and 336 basis points, respectively, versus 2025
+g | Third quarter’s U.S. GAAP and Adjusted Net Revenues mark Evercore’s 6th consecutive quarterly revenue record, with strong momentum across all of our advisory businesses
+g | Evercore advised on a number of notable and complex transactions in the quarter and so far this month, including:
+g | PTC on its ~$24 billion sale to Schneider Electric
+g | GE Aerospace on its $11.75 billion acquisition of Consolidated Precision Products
+g | easyJet on its £5.6 billion sale to Apollo
+g | SEGRO on its all share combination with Prologis
+g | Nexus Data Centers on the $15.6 billion construction financing for its inaugural data center and power development project
+g | Broadcom on a transaction enabling the deployment of $63 billion of AI compute capacity to Anthropic
+g | In our Underwriting business, Evercore served as an active bookrunner on a number of notable transactions in the quarter and so far this month, including:
+g | Lycia Therapeutics' $365 million Initial Public Offering
+g | Halozyme Therapeutics’ $1.3 billion convertible
+g | Evercore ISI has achieved the No.1 ranking on a weighted basis in the 2026 Extel All-America Research Analyst Survey for the 5th consecutive year
+g | Evercore Wealth Management was once again named to Barron’s annual ranking of top 100 independent U.S. RIAs
+Talent | g | Evercore announced on October 18, 2026 that its Board of Directors has appointed Nigel Dawn and Naveen Nataraj as Co-Presidents of the firm, effective January 1, 2027
+g | Year-to-date, we have hired 14 Senior Managing Directors (SMDs) in our Investment Banking franchise, bringing our total Investment Banking SMDs to 191, inclusive of the recent joiners and commits mentioned below
+g | Six Investment Banking SMDs have joined Evercore since our last earnings call; Dylan Tornay in our Equity Capital Markets Group, John Pissanos in our Healthcare Investment Banking Group, Philip von Malsen-Plessen in our Frankfurt office, John Song and Jean Stack in our Aerospace & Defense Investment Banking Group and John Vaske in our Chemicals Investment Banking Group
+g | Since our last earnings call, one additional Investment Banking SMD based in France has committed to join our Restructuring Group
+g | Earlier in October, Hans Vestberg, the former Chairman and CEO of Verizon, joined the Firm as a Senior Advisor
+Capital Return | g | Quarterly dividend of $0.89 per share
+g | Returned $1.0 billion to shareholders during the first nine months of 2026 through dividends and repurchases of 2.8 million shares at an average price of $318.41
+NEW YORK, October 28, 2026 – Evercore Inc. (NYSE: EVR) today announced its results for the third quarter ended September 30, 2026.
+LEADERSHIP COMMENTARY
+John S. Weinberg, Chairman and Chief Executive Officer, "The third quarter was another strong quarter for Evercore, reflecting broad-based momentum across nearly every business. We remain committed to providing our clients with high-quality advice and service."
+Roger C. Altman, Founder and Senior Chairman, "We delivered our sixth consecutive record revenue quarter. This reflects market share gains, the greater breadth of our platform and a continuously expanding global presence. Evercore has never been stronger than it is today."
+2
+Evercore's quarterly results may fluctuate significantly due to the timing and amount of transaction fees earned, as well as other factors. Accordingly, financial results in any particular quarter may not be representative of future results over a longer period of time.
+Business Segments:
+Evercore's business results are categorized into two segments: Investment Banking & Equities and Investment Management. Investment Banking & Equities includes providing advice to clients on mergers, acquisitions, divestitures and other strategic corporate transactions, as well as services related to securities underwriting, private placement services and commissions for agency-based equity trading services and equity research. Investment Management includes Wealth Management and interests in private equity funds which are not managed by the Company, as well as advising third-party investors through affiliates. See pages A-2 to A-8 for further information and reconciliations of these segment results to our U.S. GAAP consolidated results.
+Non-GAAP Measures:
+Throughout this release certain information is presented on an adjusted basis, which is a non-GAAP measure. Adjusted results begin with information prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"), and then those results are adjusted to exclude certain items and reflect the conversion of certain Evercore LP Units into Class A shares. Evercore believes that the disclosed adjusted measures and any adjustments thereto, when presented in conjunction with comparable U.S. GAAP measures, are useful to investors to compare Evercore's results across several periods and facilitate an understanding of Evercore's operating results. Evercore uses these measures to evaluate its operating performance, as well as the performance of individual employees. These measures should not be considered a substitute for, or superior to, measures of financial performance prepared in accordance with U.S. GAAP.
+Evercore's Adjusted Net Income Attributable to Evercore Inc. for the three and nine months ended September 30, 2026 was higher than U.S. GAAP principally as a result of the exclusion of the following expenses:
+•Acquisition-related compensation charges, reflecting expenses associated with awards granted in conjunction with the Company's acquisition of Robey Warshaw
+•Acquisition and Transition Costs, including costs incurred for the impairment of a lease related to the acquisition of Robey Warshaw
+•Expenses associated with the amortization of intangible assets and interest cost related to deferred acquisition consideration from the acquisition of Robey Warshaw
+•Expense, or reversal of expense, associated with the changes in fair value of contingent consideration issued to the sellers of Robey Warshaw
+•Special Charges, Including Business Realignment Costs, reflecting duplicate facilities costs associated with the planned relocation of the Company's U.K. headquarters and an estimated loss provision for non-U.S. employment taxes, principally related to prior periods
+Evercore's Adjusted Diluted Shares Outstanding for the three and nine months ended September 30, 2026 were higher than U.S. GAAP primarily as a result of the inclusion of Evercore LP Units.
+Further details of these adjustments, as well as an explanation of similar amounts for the three and nine months ended September 30, 2025 are included in pages A-2 to A-8.
+3
+Selected Financial Data – U.S. GAAP Results
+The following is a discussion of Evercore's consolidated results on a U.S. GAAP basis. See pages A-4 to A-6 for our business segment results.
+Net Revenues
+U.S. GAAP
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | % Change | September 30, 2026 | September 30, 2025 | % Change
+(dollars in thousands)
+Investment Banking & Equities:
+Advisory Fees | $ | 1,011,092 | $ | 883,712 | 14 | % | $ | 3,031,421 | $ | 2,138,805 | 42 | %
+Underwriting Fees | 55,590 | 43,730 | 27 | % | 207,729 | 130,191 | 60 | %
+Commissions and Related Revenue | 60,515 | 62,816 | (4 | %) | 186,708 | 176,198 | 6 | %
+Investment Management:
+Asset Management and Administration Fees | 24,355 | 22,477 | 8 | % | 70,653 | 64,144 | 10 | %
+Other Revenue, net | 17,029 | 26,149 | (35 | %) | 53,847 | 58,205 | (7 | %)
+Net Revenues | $ | 1,168,581 | $ | 1,038,884 | 12 | % | $ | 3,550,358 | $ | 2,567,543 | 38 | %
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | % Change | September 30, 2026 | September 30, 2025 | % Change
+Total Number of Fees from Advisory and Underwriting Client Transactions(1) | 324 | 268 | 21 | % | 701 | 551 | 27 | %
+Total Number of Fees of at Least $1 million from Advisory and Underwriting Client Transactions(1) | 167 | 137 | 22 | % | 447 | 344 | 30 | %
+Total Number of Underwriting Transactions(1) | 12 | 14 | (14 | %) | 61 | 41 | 49 | %
+Total Number of Underwriting Transactions as a Bookrunner(1) | 11 | 13 | (15 | %) | 58 | 38 | 53 | %
+1. Includes Equity and Debt Underwriting Transactions.
+As of September 30,
+2026 | 2025 | % Change
+Assets Under Management ($ mm)(1) | $ | 16,179 | $ | 15,351 | 5 | %
+1. Assets Under Management reflect end of period amounts from our consolidated Wealth Management business.
+Advisory Fees – Third quarter Advisory Fees increased $127.4 million, or 14%, year-over-year, and year-to-date Advisory Fees increased $892.6 million, or 42%, year-over-year, reflecting an increase in revenue earned from large transactions and an increase in the number of advisory fees earned during 2026.
+Underwriting Fees – Third quarter Underwriting Fees increased $11.9 million, or 27%, year-over-year, reflecting an increase in the average fee size of the transactions we participated in during the third quarter of 2026. Year-to-date Underwriting Fees increased $77.5 million, or 60%, year-over-year, reflecting an increase in the number of transactions we participated in during 2026.
+Commissions and Related Revenue – Third quarter Commissions and Related Revenue decreased $2.3 million, or 4%, year-over-year, primarily reflecting lower trading commissions driven by decreased trading volume during the third quarter of 2026. Year-to-date Commissions and Related Revenue increased $10.5 million, or 6%, year-over-year, primarily reflecting higher trading commissions during 2026.
+4
+Asset Management and Administration Fees – Third quarter Asset Management and Administration Fees increased $1.9 million, or 8%, year-over-year, driven by an increase in fees from Wealth Management clients, as associated AUM increased 5%, primarily from market appreciation. Year-to-date Asset Management and Administration Fees increased $6.5 million, or 10%, year-over-year, driven by an increase in fees from Wealth Management clients, as associated AUM increased 5%, primarily from market appreciation.
+Other Revenue, net – Third quarter Other Revenue, net, decreased $9.1 million, or 35%, year-over-year, primarily reflecting lower performance of our investment funds portfolio, partially offset by higher interest income resulting from higher average balances in interest-bearing assets. Year-to-date Other Revenue, net, decreased $4.4 million, or 7%, year-over-year, primarily reflecting an increase in interest expense principally related to the issuance of new senior notes in July 2025 and deferred acquisition consideration issued in the acquisition of Robey Warshaw. The decrease was also driven by lower performance of our investment funds portfolio, partially offset by higher interest income resulting from higher average balances in interest-bearing assets. The investment funds portfolio is used as an economic hedge against our deferred cash compensation program.
+Expenses
+U.S. GAAP
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | % Change | September 30, 2026 | September 30, 2025 | % Change
+(dollars in thousands)
+Employee Compensation and Benefits | $ | 749,119 | $ | 680,652 | 10 | % | $ | 2,294,980 | $ | 1,689,088 | 36 | %
+Compensation Ratio | 64.1 | % | 65.5 | % | 64.6 | % | 65.8 | %
+Non-Compensation Costs | $ | 174,946 | $ | 142,026 | 23 | % | $ | 512,245 | $ | 400,676 | 28 | %
+Non-Compensation Ratio | 15.0 | % | 13.7 | % | 14.4 | % | 15.6 | %
+Special Charges, Including Business Realignment Costs | $ | 1,960 | $ | — | NM | $ | 23,275 | $ | — | NM
+Employee Compensation and Benefits – Third quarter Employee Compensation and Benefits increased $68.5 million, or 10%, year-over-year, reflecting a Compensation Ratio of 64.1% for the third quarter of 2026 versus 65.5% for the prior year period. The increase in Employee Compensation and Benefits compared to the prior year period principally reflects higher base salaries, higher amortization of prior period deferred compensation awards and higher compensation expense related to new hires. Employee Compensation and Benefits for the third quarter of 2026 also includes $7.0 million of costs related to awards granted in conjunction with the acquisition of Robey Warshaw. The Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. Year-to-date Employee Compensation and Benefits increased $605.9 million, or 36%, year-over-year, reflecting a year-to-date Compensation Ratio of 64.6% versus 65.8% for the prior year period. The increase in Employee Compensation and Benefits compared to the prior year period principally reflects a higher accrual for incentive compensation, higher base salaries and higher amortization of prior period deferred compensation awards. Employee Compensation and Benefits for 2026 also includes $21.2 million of costs related to awards granted in conjunction with the acquisition of Robey Warshaw. The Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. See "Deferred Compensation" for more information.
+Non-Compensation Costs – Third quarter Non-Compensation Costs increased $32.9 million, or 23%, year-over-year, primarily driven by an increase in technology and information services, other operating expenses and travel and related expenses. The increase in technology and information services is principally reflecting higher expenses associated with consulting costs, research services and license fees,
+5
+the increase in other operating expenses is primarily attributable to expense in the third quarter of 2026 associated with changes in the fair value of contingent consideration issued to the sellers of Robey Warshaw, and the increase in travel and related expenses is largely due to higher levels of business activity, elevated travel pricing and increased headcount. The third quarter Non-Compensation Ratio of 15.0% increased from 13.7% compared to the prior year period. The Non-Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. Year-to-date Non-Compensation Costs increased $111.6 million, or 28%, year-over-year, primarily driven by an increase in travel and related expenses, technology and information services and other operating expenses. The increase in travel and related expenses is largely due to higher levels of business activity, elevated travel pricing and increased headcount, the increase in technology and information services is principally reflecting higher expenses associated with license fees, consulting costs and research services, and the increase in other operating expenses is primarily attributable to expense during 2026 associated with changes in the fair value of contingent consideration issued to the sellers of Robey Warshaw. The year-to-date Non-Compensation Ratio of 14.4% decreased from 15.6% compared to the prior year period. The Non-Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period.
+Special Charges, Including Business Realignment Costs – Third quarter and year-to-date 2026 Special Charges, Including Business Realignment Costs, reflect duplicate facilities costs associated with the planned relocation of the Company's U.K. headquarters. The third quarter and year-to-date 2026 costs also include an estimated loss provision for non-U.S. employment taxes, principally related to prior periods. The Company will continue to review its tax position relating to this matter and will adjust this estimate as appropriate in future periods.
+Effective Tax Rate
+The third quarter effective tax rate was 27.3% versus 27.5% for the prior year period. The decrease is primarily attributable to lower non-deductible expenses. The year-to-date effective tax rate was 16.1% versus 13.0% for the prior year period. The increase is primarily attributable to higher pre-tax income, which reduced the relative impact of tax deductions arising from the appreciation of the Firm's share price above the original grant price upon vesting of employee share-based awards, as well as increased state and local tax expense resulting from changes in apportionment.
+6
+Selected Financial Data – Adjusted Results
+The following is a discussion of Evercore's consolidated results on an Adjusted basis. See pages 3 and A-2 to A-8 for further information and reconciliations of these metrics to our U.S. GAAP results. See pages A-4 to A-6 for our business segment results.
+Adjusted Net Revenues
+Adjusted
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | % Change | September 30, 2026 | September 30, 2025 | % Change
+(dollars in thousands)
+Investment Banking & Equities:
+Advisory Fees(1) | $ | 1,011,110 | $ | 883,723 | 14 | % | $ | 3,031,465 | $ | 2,138,789 | 42 | %
+Underwriting Fees | 55,590 | 43,730 | 27 | % | 207,729 | 130,191 | 60 | %
+Commissions and Related Revenue | 60,515 | 62,816 | (4 | %) | 186,708 | 176,198 | 6 | %
+Investment Management:
+Asset Management and Administration Fees(2) | 25,664 | 23,548 | 9 | % | 74,005 | 66,936 | 11 | %
+Other Revenue, net | 25,325 | 33,259 | (24 | %) | 79,332 | 73,718 | 8 | %
+Net Revenues | $ | 1,178,204 | $ | 1,047,076 | 13 | % | $ | 3,579,239 | $ | 2,585,832 | 38 | %
+1.Advisory Fees on an Adjusted basis reflect the reclassification of earnings (losses) related to our equity method investment in Seneca Evercore of $0.02 million and $0.04 million for the three and nine months ended September 30, 2026, respectively, and $0.01 million and ($0.02) million for the three and nine months ended September 30, 2025, respectively.
+2.Asset Management and Administration Fees on an Adjusted basis reflect the reclassification of earnings related to our equity method investment in Atalanta Sosnoff of $1.3 million and $3.4 million for the three and nine months ended September 30, 2026, respectively, and $1.1 million and $2.8 million for the three and nine months ended September 30, 2025, respectively.
+See page 4 for additional business metrics.
+Advisory Fees – Third quarter adjusted Advisory Fees increased $127.4 million, or 14%, year-over-year, and year-to-date adjusted Advisory Fees increased $892.7 million, or 42%, year-over-year, reflecting an increase in revenue earned from large transactions and an increase in the number of advisory fees earned during 2026.
+Underwriting Fees – Third quarter Underwriting Fees increased $11.9 million, or 27%, year-over-year, reflecting an increase in the average fee size of transactions we participated in during the third quarter of 2026. Year-to-date Underwriting Fees increased $77.5 million, or 60%, year-over-year, reflecting an increase in the number of transactions we participated in during 2026.
+Commissions and Related Revenue – Third quarter Commissions and Related Revenue decreased $2.3 million, or 4%, year-over-year, primarily reflecting lower trading commissions driven by decreased trading volume during the third quarter of 2026. Year-to-date Commissions and Related Revenue increased $10.5 million, or 6%, year-over-year, primarily reflecting higher trading commissions during 2026.
+Asset Management and Administration Fees – Third quarter adjusted Asset Management and Administration Fees increased $2.1 million, or 9%, year-over-year, primarily driven by an increase in fees from Wealth Management clients, as associated AUM increased 5%, primarily from market appreciation. The increase was also driven by a 22% increase in equity in earnings of affiliates. Year-to-date adjusted Asset Management and Administration Fees increased $7.1 million, or 11%, year-over-year, primarily driven by an increase in fees from Wealth Management clients, as associated AUM increased 5%, primarily from market appreciation. The increase was also driven by a 20% increase in equity in earnings of affiliates.
+7
+Other Revenue, net – Third quarter adjusted Other Revenue, net, decreased $7.9 million, or 24%, year-over-year, primarily reflecting lower performance of our investment funds portfolio, partially offset by higher interest income resulting from higher average balances in interest-bearing assets. Year-to-date adjusted Other Revenue, net, increased $5.6 million, or 8%, year-over-year, primarily reflecting higher interest income resulting from higher average balances in interest-bearing assets, partially offset by lower performance of our investment funds portfolio. The investment funds portfolio is used as an economic hedge against our deferred cash compensation program.
+Adjusted Expenses
+Adjusted
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | % Change | September 30, 2026 | September 30, 2025 | % Change
+(dollars in thousands)
+Employee Compensation and Benefits | $ | 742,157 | $ | 680,652 | 9 | % | $ | 2,273,788 | $ | 1,689,088 | 35 | %
+Compensation Ratio | 63.0 | % | 65.0 | % | 63.5 | % | 65.3 | %
+Non-Compensation Costs | $ | 166,322 | $ | 138,510 | 20 | % | $ | 491,563 | $ | 395,523 | 24 | %
+Non-Compensation Ratio | 14.1 | % | 13.2 | % | 13.7 | % | 15.3 | %
+Employee Compensation and Benefits – Third quarter adjusted Employee Compensation and Benefits increased $61.5 million, or 9%, year-over-year, reflecting an adjusted Compensation Ratio of 63.0% for the third quarter of 2026 versus 65.0% for the prior year period. The increase in adjusted Employee Compensation and Benefits compared to the prior year period principally reflects higher base salaries, higher amortization of prior period deferred compensation awards and higher compensation expense related to new hires. The adjusted Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. Year-to-date adjusted Employee Compensation and Benefits increased $584.7 million, or 35%, year-over-year, reflecting a year-to-date adjusted Compensation Ratio of 63.5% versus 65.3% for the prior year period. The increase in adjusted Employee Compensation and Benefits compared to the prior year period principally reflects a higher accrual for incentive compensation, higher base salaries and higher amortization of prior period deferred compensation awards. The adjusted Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. See "Deferred Compensation" for more information.
+Non-Compensation Costs – Third quarter adjusted Non-Compensation Costs increased $27.8 million, or 20%, year-over-year, primarily driven by an increase in technology and information services and travel and related expenses. The increase in technology and information services is principally reflecting higher expenses associated with consulting costs, research services and license fees, and the increase in travel and related expenses is largely due to higher levels of business activity, elevated travel pricing and increased headcount. The third quarter adjusted Non-Compensation Ratio of 14.1% increased from 13.2% compared to the prior year period. The adjusted Non-Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period. Year-to-date adjusted Non-Compensation Costs increased $96.0 million, or 24%, year-over-year, primarily driven by an increase in travel and related expenses, technology and information services and professional fees. The increase in travel and related expenses is largely due to higher levels of business activity, elevated travel pricing and increased headcount, and the increase in technology and information services is principally reflecting higher expenses associated with license fees, consulting costs and research services. The year-to-date adjusted Non-Compensation Ratio of 13.7% decreased from 15.3% compared to the prior year period. The adjusted Non-Compensation Ratio was also impacted by higher net revenues, as described above, during the current year period compared to the prior year period.
+8
+Adjusted Effective Tax Rate
+The third quarter adjusted effective tax rate was 28.5% versus 28.7% for the prior year period. The decrease is primarily attributable to lower non-deductible expenses. The year-to-date adjusted effective tax rate was 17.5% versus 13.3% for the prior year period. The increase is primarily attributable to higher pre-tax income, which reduced the relative impact of tax deductions arising from the appreciation of the Firm's share price above the original grant price upon vesting of employee share-based awards, as well as increased state and local tax expense resulting from changes in apportionment.
+9
+Liquidity
+The Company continues to maintain a strong balance sheet. As of September 30, 2026, cash and cash equivalents were $1.2 billion, investment securities and certificates of deposit were $1.6 billion and current assets exceeded current liabilities by $2.0 billion. Amounts due related to the Notes Payable were $540.1 million at September 30, 2026.
+Headcount
+As of September 30, 2026 and 2025, the Company employed approximately 2,835 and 2,525 people, respectively, worldwide.
+As of September 30, 2026 and 2025, the Company employed 233(1) and 207(2) total Investment Banking & Equities Senior Managing Directors, respectively, of which 191(1) and 168(2), respectively, were Investment Banking Senior Managing Directors.
+(1) Senior Managing Director headcount as of September 30, 2026, inclusive of new hires that have joined year-to-date through the date of this release, and additionally adjusted to include four incoming Investment Banking Senior Managing Directors committed to join and to exclude for one known departure.
+(2) Senior Managing Director headcount as of September 30, 2025, inclusive of new hires that have joined year-to-date and additionally adjusted to include 12 incoming Investment Banking Senior Managing Directors committed to join and to exclude for one known departure.
+Deferred Compensation
+Year-to-date, the Company granted to certain employees 1.7 million unvested restricted stock units ("RSUs") (of which 1.6 million were granted in conjunction with the 2025 bonus awards) with a grant date fair value of $568.4 million.
+In addition, year-to-date, the Company granted $100.1 million of deferred cash awards to certain employees, related to our deferred cash compensation program, which were primarily granted in conjunction with the 2025 bonus awards.
+The Company recognized compensation expense related to RSUs and our deferred cash compensation program of $147.1 million and $463.4 million for the three and nine months ended September 30, 2026, respectively, and $131.1 million and $395.0 million for the three and nine months ended September 30, 2025, respectively.
+As of September 30, 2026, the Company had 4.4 million unvested RSUs with an aggregate grant date fair value of $1.1 billion. RSUs are expensed over the service period of the award, subject to retirement eligibility, and generally vest over four years.
+As of September 30, 2026, the Company expects to pay an aggregate of $321.3 million related to our deferred cash compensation program at various dates through 2030. Amounts due pursuant to this program are expensed over the service period of the award, subject to retirement eligibility, and amounts accrued are reflected in Accrued Compensation and Benefits, a component of current liabilities.
+In addition, from time to time, the Company also grants cash and equity-based performance awards to certain employees, the settlement of which is dependent on the performance criteria being achieved.
+10
+Capital Return Transactions
+On October 27, 2026, the Board of Directors of Evercore declared a quarterly dividend of $0.89 per share to be paid on December 11, 2026 to common stockholders of record on November 27, 2026.
+During the third quarter, the Company repurchased 0.5 million shares for $152.2 million (at an average price per share of $291.60), principally pursuant to the Company's share repurchase program. Year-to-date, the Company purchased 2.8 million shares for $886.0 million (at an average price per share of $318.41), comprised of 1.8 million shares for $562.6 million (at an average price per share of $305.52), pursuant to the Company's share repurchase program, and 1.0 million shares for $323.4 million (at an average price per share of $343.64), from employees for the net settlement of stock-based compensation awards.
+Conference Call
+Evercore will host a related conference call beginning at 8:00 a.m. Eastern Time, Wednesday, October 28, 2026, accessible via telephone and webcast. Investors and analysts may participate in the live conference call by dialing (800) 245-3047 (toll-free domestic) or (203) 518-9765 (international); passcode: EVRQ326. Please register at least 10 minutes before the conference call begins.
+A live audio webcast of the conference call will be available on the Investor Relations section of Evercore’s website at www.evercore.com. The webcast will be archived on Evercore’s website for 30 days.
+About Evercore
+Evercore (NYSE: EVR) is a premier global independent investment banking advisory firm. We are dedicated to helping our clients achieve superior results through trusted independent and innovative advice on matters of strategic significance to boards of directors, management teams and shareholders, including mergers and acquisitions, strategic shareholder advisory, restructurings, and capital structure. Evercore also assists clients in raising public and private capital and delivers equity research and equity sales and agency trading execution, in addition to providing wealth and investment management services to high net worth and institutional investors. Founded in 1995, the Firm is headquartered in New York and maintains offices and affiliate offices in major financial centers in the Americas, Europe, the Middle East and Asia. For more information, please visit www.evercore.com.
+Investor Contact: | Katy Haber
+Head of Investor Relations & ESG
+InvestorRelations@Evercore.com
+Media Contacts: | Jamie Easton
+Head of Communications & External Affairs
+Communications@Evercore.com
+FGS Global
+Evercoreus@fgsglobal.com
+Evercore-europe@fgsglobal.com
+11
+Basis of Alternative Financial Statement Presentation
+Our Adjusted results are a non-GAAP measure. As discussed further under "Non-GAAP Measures", Evercore believes that the disclosed Adjusted measures and any adjustments thereto, when presented in conjunction with comparable U.S. GAAP measures, are useful to investors to compare Evercore's results across several periods and better reflects how management views its operating results. These measures should not be considered a substitute for, or superior to, measures of financial performance prepared in accordance with U.S. GAAP. A reconciliation of our U.S. GAAP results to Adjusted results is presented in the tables included in the following pages.
+Forward-Looking Statements
+This release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, which reflect our current views with respect to, among other things, Evercore's operations and financial performance. In some cases, you can identify these forward-looking statements by the use of words such as "outlook," "backlog," "believes," "expects," "potential," "probable," "continues," "may," "will," "should," "seeks," "approximately," "predicts," "intends," "plans," "estimates," "anticipates" or the negative version of these words or other comparable words. All statements, other than statements of historical fact, included in this release are forward-looking statements and are based on various underlying assumptions and expectations and are subject to known and unknown risks, uncertainties and assumptions, and may include projections of our future financial performance based on our growth strategies and anticipated trends in Evercore's business. Accordingly, there are or will be important factors that could cause actual outcomes or results to differ materially from those indicated in these statements. Evercore believes these factors include, but are not limited to, those described under "Risk Factors" discussed in Evercore's Annual Report on Form 10-K for the year ended December 31, 2025, subsequent quarterly reports on Form 10-Q, current reports on Form 8-K and Registration Statements. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this release. In addition, new risks and uncertainties emerge from time to time, and it is not possible for Evercore to predict all risks and uncertainties, nor can Evercore assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. Accordingly, you should not rely upon forward-looking statements as a prediction of actual results and Evercore does not assume any responsibility for the accuracy or completeness of any of these forward-looking statements. Evercore undertakes no obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise.
+12
+EVERCORE INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2026 AND 2025
+(dollars in thousands, except per share data)
+(UNAUDITED)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues
+Investment Banking & Equities:
+Advisory Fees | $ | 1,011,092 | $ | 883,712 | $ | 3,031,421 | $ | 2,138,805
+Underwriting Fees | 55,590 | 43,730 | 207,729 | 130,191
+Commissions and Related Revenue | 60,515 | 62,816 | 186,708 | 176,198
+Asset Management and Administration Fees | 24,355 | 22,477 | 70,653 | 64,144
+Other Revenue, Including Interest and Investments | 25,325 | 33,259 | 79,332 | 73,718
+Total Revenues | 1,176,877 | 1,045,994 | 3,575,843 | 2,583,056
+Interest Expense(1) | 8,296 | 7,110 | 25,485 | 15,513
+Net Revenues | 1,168,581 | 1,038,884 | 3,550,358 | 2,567,543
+Expenses
+Employee Compensation and Benefits | 749,119 | 680,652 | 2,294,980 | 1,689,088
+Occupancy and Equipment Rental | 29,893 | 27,530 | 86,684 | 80,175
+Professional Fees | 28,657 | 25,672 | 90,056 | 71,195
+Travel and Related Expenses | 30,869 | 23,246 | 94,071 | 69,248
+Technology and Information Services | 46,858 | 36,954 | 131,237 | 106,908
+Depreciation and Amortization | 12,688 | 7,856 | 37,703 | 20,282
+Execution, Clearing and Custody Fees | 2,832 | 2,962 | 9,071 | 9,488
+Special Charges, Including Business Realignment Costs | 1,960 | — | 23,275 | —
+Acquisition and Transition Costs | — | 3,516 | 1,800 | 5,153
+Other Operating Expenses | 23,149 | 14,290 | 61,623 | 38,227
+Total Expenses | 926,025 | 822,678 | 2,830,500 | 2,089,764
+Income Before Income from Equity Method Investments and Income Taxes | 242,556 | 216,206 | 719,858 | 477,779
+Income from Equity Method Investments | 1,327 | 1,082 | 3,396 | 2,776
+Income Before Income Taxes | 243,883 | 217,288 | 723,254 | 480,555
+Provision for Income Taxes | 66,569 | 59,794 | 116,719 | 62,332
+Net Income | 177,314 | 157,494 | 606,535 | 418,223
+Net Income Attributable to Noncontrolling Interest | 16,530 | 12,911 | 49,239 | 30,255
+Net Income Attributable to Evercore Inc. | $ | 160,784 | $ | 144,583 | $ | 557,296 | $ | 387,968
+Net Income Attributable to Evercore Inc. Common Shareholders | $ | 160,784 | $ | 144,583 | $ | 557,296 | $ | 387,968
+Weighted Average Shares of Class A Common Stock Outstanding:
+Basic | 38,333 | 38,721 | 38,642 | 38,718
+Diluted | 40,922 | 42,419 | 41,300 | 41,897
+Net Income Per Share Attributable to Evercore Inc. Common Shareholders:
+Basic | $ | 4.19 | $ | 3.73 | $ | 14.42 | $ | 10.02
+Diluted | $ | 3.93 | $ | 3.41 | $ | 13.49 | $ | 9.26
+(1)Includes interest expense on long-term debt, lines of credit and other financing arrangements.
+A - 1
+Adjusted Results
+Throughout the discussion of Evercore's business and elsewhere in this release, information is presented on an Adjusted basis, which is a non-generally accepted accounting principles ("non-GAAP") measure. Adjusted results begin with information prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"), adjusted to exclude certain items and reflect the conversion of certain Evercore LP Units and Unvested Restricted Stock Units into Class A shares. Evercore believes that the disclosed Adjusted measures and any adjustments thereto, when presented in conjunction with comparable U.S. GAAP measures, are useful to investors to compare Evercore's results across several periods and facilitate an understanding of Evercore's operating results. The Company uses these measures to evaluate its operating performance, as well as the performance of individual employees. These measures should not be considered a substitute for, or superior to, measures of financial performance prepared in accordance with U.S. GAAP. These Adjusted amounts are allocated to the Company's two business segments: Investment Banking & Equities and Investment Management. The differences between the Adjusted and U.S. GAAP results are as follows:
+–Assumed Exchange of Evercore LP Units into Class A Shares. The Adjusted results assume substantially all Evercore LP Units have been exchanged for Class A shares. Accordingly, the noncontrolling interest related to these units is converted to a controlling interest. The Company's management believes that it is useful to provide the per-share effect associated with the assumed conversion of substantially all of these previously granted equity interests and IPO related restricted stock units, and thus the Adjusted results reflect their exchange into Class A shares.
+–Adjustments Associated with Business Combinations and Divestitures. The following charges resulting from business combinations and divestitures have been excluded from the Adjusted results as the Company's Management believes that operating performance is more comparable across periods excluding the effects of these acquisition-related charges:
+–Acquisition and Transition Costs. Costs incurred for the impairment of a lease in the first quarter of 2026 related to the acquisition of Robey Warshaw and professional fees and certain other costs incurred in the second and third quarter of 2025 related to the acquisition of Robey Warshaw.
+–Acquisition-related Compensation Charges. Expenses associated with awards granted in conjunction with the Company's acquisition of Robey Warshaw.
+–Amortization of Intangible Assets. Amortization of intangible assets from the acquisition of Robey Warshaw.
+–Interest Expense. Interest expense accrued for deferred acquisition consideration issued in the acquisition of Robey Warshaw.
+–Fair Value of Contingent Consideration. The expense, or reversal of expense, associated with changes in the fair value of contingent consideration issued to the sellers of Robey Warshaw.
+–Special Charges, Including Business Realignment Costs. Expenses during 2026 that are excluded from the Adjusted presentation reflect duplicate facilities costs associated with the planned relocation of the Company's U.K. headquarters and an estimated loss provision for non-U.S. employment taxes, principally related to prior periods.
+–Income Taxes. Evercore is organized as a series of Limited Liability Companies, Partnerships, C-Corporations and a Public Corporation in the U.S. as the ultimate parent. Certain of the subsidiaries, particularly Evercore LP, have noncontrolling interests held by management or former members of management. As a result, not all of the Company’s income is subject to corporate level taxes and certain other state and local taxes are levied. The assumption in the Adjusted earnings presentation is that substantially all of the noncontrolling interest is eliminated through the exchange of Evercore LP units into Class A common stock of the ultimate parent. As a result, the Adjusted earnings presentation assumes that the allocation of earnings to Evercore LP’s noncontrolling interest holders is substantially eliminated and is therefore subject to statutory tax rates of a C-Corporation under a conventional tax structure in the U.S. and that certain state and local taxes are reduced accordingly.
+–Presentation of Interest Expense. The Adjusted results present Adjusted Investment Banking & Equities Operating Income and Adjusted Investment Management Operating Income before interest expense on debt, lines of credit and other financing arrangements, which are included in interest expense on a U.S. GAAP basis.
+–Presentation of Income from Equity Method Investments. The Adjusted results present Income from Equity Method Investments within Revenue as the Company's Management believes it is a useful presentation.
+A - 2
+EVERCORE INC.
+U.S. GAAP RECONCILIATION TO ADJUSTED RESULTS
+(dollars in thousands, except per share data)
+(UNAUDITED)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Net Revenues - U.S. GAAP | $ | 1,168,581 | $ | 1,038,884 | $ | 3,550,358 | $ | 2,567,543
+Income from Equity Method Investments (1) | 1,327 | 1,082 | 3,396 | 2,776
+Interest Expense (2) | 8,296 | 7,110 | 25,485 | 15,513
+Net Revenues - Adjusted | $ | 1,178,204 | $ | 1,047,076 | $ | 3,579,239 | $ | 2,585,832
+Other Revenue, net - U.S. GAAP | $ | 17,029 | $ | 26,149 | $ | 53,847 | $ | 58,205
+Interest Expense (2) | 8,296 | 7,110 | 25,485 | 15,513
+Other Revenue, net - Adjusted | $ | 25,325 | $ | 33,259 | $ | 79,332 | $ | 73,718
+Compensation Expense - U.S. GAAP | $ | 749,119 | $ | 680,652 | $ | 2,294,980 | $ | 1,689,088
+Acquisition-related Compensation Charges (3) | (6,962) | — | (21,192) | —
+Compensation Expense - Adjusted | $ | 742,157 | $ | 680,652 | $ | 2,273,788 | $ | 1,689,088
+Operating Income - U.S. GAAP | $ | 242,556 | $ | 216,206 | $ | 719,858 | $ | 477,779
+Income from Equity Method Investments (1) | 1,327 | 1,082 | 3,396 | 2,776
+Pre-Tax Income - U.S. GAAP | 243,883 | 217,288 | 723,254 | 480,555
+Interest Expense (2) | 1,416 | — | 4,249 | —
+Acquisition-related Compensation Charges (3) | 6,962 | — | 21,192 | —
+Special Charges, Including Business Realignment Costs (4) | 1,960 | — | 23,275 | —
+Intangible Asset Amortization (5a) | 3,719 | — | 11,161 | —
+Acquisition and Transition Costs (5b) | — | 3,516 | 1,800 | 5,153
+Fair Value of Contingent Consideration (5c) | 4,905 | — | 7,721 | —
+Pre-Tax Income - Adjusted | 262,845 | 220,804 | 792,652 | 485,708
+Interest Expense (2) | 6,880 | 7,110 | 21,236 | 15,513
+Operating Income - Adjusted | $ | 269,725 | $ | 227,914 | $ | 813,888 | $ | 501,221
+Provision for Income Taxes - U.S. GAAP | $ | 66,569 | $ | 59,794 | $ | 116,719 | $ | 62,332
+Income Taxes (6) | 8,286 | 3,665 | 22,333 | 2,468
+Provision for Income Taxes - Adjusted | $ | 74,855 | $ | 63,459 | $ | 139,052 | $ | 64,800
+Net Income Attributable to Evercore Inc. - U.S. GAAP | $ | 160,784 | $ | 144,583 | $ | 557,296 | $ | 387,968
+Interest Expense (2) | 1,416 | — | 4,249 | —
+Acquisition-related Compensation Charges (3) | 6,962 | — | 21,192 | —
+Special Charges, Including Business Realignment Costs (4) | 1,960 | — | 23,275 | —
+Intangible Asset Amortization (5a) | 3,719 | — | 11,161 | —
+Acquisition and Transition Costs (5b) | — | 3,516 | 1,800 | 5,153
+Fair Value of Contingent Consideration (5c) | 4,905 | — | 7,721 | —
+Income Taxes (6) | (8,286) | (3,665) | (22,333) | (2,468)
+Noncontrolling Interest (7) | 14,612 | 11,072 | 43,506 | 25,026
+Net Income Attributable to Evercore Inc. - Adjusted | $ | 186,072 | $ | 155,506 | $ | 647,867 | $ | 415,679
+Diluted Shares Outstanding - U.S. GAAP | 40,922 | 42,419 | 41,300 | 41,897
+LP Units (8) | 2,529 | 2,205 | 2,558 | 2,283
+Unvested Restricted Stock Units - Event Based (8) | 12 | 12 | 12 | 12
+Diluted Shares Outstanding - Adjusted | 43,463 | 44,636 | 43,870 | 44,192
+Key Metrics: (a)
+Diluted Earnings Per Share - U.S. GAAP | $ | 3.93 | $ | 3.41 | $ | 13.49 | $ | 9.26
+Diluted Earnings Per Share - Adjusted | $ | 4.28 | $ | 3.48 | $ | 14.77 | $ | 9.41
+Compensation Ratio - U.S. GAAP | 64.1 | % | 65.5 | % | 64.6 | % | 65.8 | %
+Compensation Ratio - Adjusted | 63.0 | % | 65.0 | % | 63.5 | % | 65.3 | %
+Operating Margin - U.S. GAAP | 20.8 | % | 20.8 | % | 20.3 | % | 18.6 | %
+Operating Margin - Adjusted | 22.9 | % | 21.8 | % | 22.7 | % | 19.4 | %
+Effective Tax Rate - U.S. GAAP | 27.3 | % | 27.5 | % | 16.1 | % | 13.0 | %
+Effective Tax Rate - Adjusted | 28.5 | % | 28.7 | % | 17.5 | % | 13.3 | %
+(a) Reconciliations of the key metrics from U.S. GAAP to Adjusted results are a derivative of the reconciliations of their components above.
+A - 3
+EVERCORE INC.
+U.S. GAAP SEGMENT RECONCILIATION TO ADJUSTED RESULTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2026
+(dollars in thousands)
+(UNAUDITED)
+Investment Banking & Equities Segment
+Three Months Ended September 30, 2026 | Nine Months Ended September 30, 2026
+U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis | U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis
+Net Revenues:
+Investment Banking & Equities:
+Advisory Fees | $ | 1,011,092 | $ | 18 | (1) | $ | 1,011,110 | $ | 3,031,421 | $ | 44 | (1) | $ | 3,031,465
+Underwriting Fees | 55,590 | — | 55,590 | 207,729 | — | 207,729
+Commissions and Related Revenue | 60,515 | — | 60,515 | 186,708 | — | 186,708
+Other Revenue, net | 16,914 | 8,100 | (2) | 25,014 | 53,880 | 24,974 | (2) | 78,854
+Net Revenues | 1,144,111 | 8,118 | 1,152,229 | 3,479,738 | 25,018 | 3,504,756
+Expenses:
+Employee Compensation and Benefits | 733,745 | (6,962) | (3) | 726,783 | 2,250,198 | (21,192) | (3) | 2,229,006
+Non-Compensation Costs | 170,882 | (8,624) | (5) | 162,258 | 499,327 | (20,682) | (5) | 478,645
+Special Charges, Including Business Realignment Costs | 1,960 | (1,960) | (4) | — | 23,275 | (23,275) | (4) | —
+Total Expenses | 906,587 | (17,546) | 889,041 | 2,772,800 | (65,149) | 2,707,651
+Operating Income (a) | $ | 237,524 | $ | 25,664 | $ | 263,188 | $ | 706,938 | $ | 90,167 | $ | 797,105
+Compensation Ratio (b) | 64.1 | % | 63.1 | % | 64.7 | % | 63.6 | %
+Operating Margin (b) | 20.8 | % | 22.8 | % | 20.3 | % | 22.7 | %
+Investment Management Segment
+Three Months Ended September 30, 2026 | Nine Months Ended September 30, 2026
+U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis | U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis
+Net Revenues:
+Asset Management and Administration Fees | $ | 24,355 | $ | 1,309 | (1) | $ | 25,664 | $ | 70,653 | $ | 3,352 | (1) | $ | 74,005
+Other Revenue, net | 115 | 196 | (2) | 311 | (33) | 511 | (2) | 478
+Net Revenues | 24,470 | 1,505 | 25,975 | 70,620 | 3,863 | 74,483
+Expenses:
+Employee Compensation and Benefits | 15,374 | — | 15,374 | 44,782 | — | 44,782
+Non-Compensation Costs | 4,064 | — | 4,064 | 12,918 | — | 12,918
+Total Expenses | 19,438 | — | 19,438 | 57,700 | — | 57,700
+Operating Income (a) | $ | 5,032 | $ | 1,505 | $ | 6,537 | $ | 12,920 | $ | 3,863 | $ | 16,783
+Compensation Ratio (b) | 62.8 | % | 59.2 | % | 63.4 | % | 60.1 | %
+Operating Margin (b) | 20.6 | % | 25.2 | % | 18.3 | % | 22.5 | %
+(a) Operating Income for U.S. GAAP excludes Income (Loss) from Equity Method Investments.
+(b) Reconciliations of the key metrics from U.S. GAAP to Adjusted results are a derivative of the reconciliations of their components above.
+A - 4
+EVERCORE INC.
+U.S. GAAP SEGMENT RECONCILIATION TO ADJUSTED RESULTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2025
+(dollars in thousands)
+(UNAUDITED)
+Investment Banking & Equities Segment
+Three Months Ended September 30, 2025 | Nine Months Ended September 30, 2025
+U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis | U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis
+Net Revenues:
+Investment Banking & Equities:
+Advisory Fees | $ | 883,712 | $ | 11 | (1) | $ | 883,723 | $ | 2,138,805 | $ | (16) | (1) | $ | 2,138,789
+Underwriting Fees | 43,730 | — | 43,730 | 130,191 | — | 130,191
+Commissions and Related Revenue | 62,816 | — | 62,816 | 176,198 | — | 176,198
+Other Revenue, net | 25,934 | 7,110 | (2) | 33,044 | 57,701 | 15,513 | (2) | 73,214
+Net Revenues | 1,016,192 | 7,121 | 1,023,313 | 2,502,895 | 15,497 | 2,518,392
+Expenses:
+Employee Compensation and Benefits | 664,616 | — | 664,616 | 1,648,092 | — | 1,648,092
+Non-Compensation Costs | 137,825 | (3,516) | (5) | 134,309 | 388,372 | (5,153) | (5) | 383,219
+Total Expenses | 802,441 | (3,516) | 798,925 | 2,036,464 | (5,153) | 2,031,311
+Operating Income (a) | $ | 213,751 | $ | 10,637 | $ | 224,388 | $ | 466,431 | $ | 20,650 | $ | 487,081
+Compensation Ratio (b) | 65.4 | % | 64.9 | % | 65.8 | % | 65.4 | %
+Operating Margin (b) | 21.0 | % | 21.9 | % | 18.6 | % | 19.3 | %
+Investment Management Segment
+Three Months Ended September 30, 2025 | Nine Months Ended September 30, 2025
+U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis | U.S. GAAP Basis | Adjustments | Non-GAAP Adjusted Basis
+Net Revenues:
+Asset Management and Administration Fees | $ | 22,477 | $ | 1,071 | (1) | $ | 23,548 | $ | 64,144 | $ | 2,792 | (1) | $ | 66,936
+Other Revenue, net | 215 | — | 215 | 504 | — | 504
+Net Revenues | 22,692 | 1,071 | 23,763 | 64,648 | 2,792 | 67,440
+Expenses:
+Employee Compensation and Benefits | 16,036 | — | 16,036 | 40,996 | — | 40,996
+Non-Compensation Costs | 4,201 | — | 4,201 | 12,304 | — | 12,304
+Total Expenses | 20,237 | — | 20,237 | 53,300 | — | 53,300
+Operating Income (a) | $ | 2,455 | $ | 1,071 | $ | 3,526 | $ | 11,348 | $ | 2,792 | $ | 14,140
+Compensation Ratio (b) | 70.7 | % | 67.5 | % | 63.4 | % | 60.8 | %
+Operating Margin (b) | 10.8 | % | 14.8 | % | 17.6 | % | 21.0 | %
+(a) Operating Income for U.S. GAAP excludes Income (Loss) from Equity Method Investments.
+(b) Reconciliations of the key metrics from U.S. GAAP to Adjusted results are a derivative of the reconciliations of their components above.
+A - 5
+EVERCORE INC.
+U.S. GAAP SEGMENT AND CONSOLIDATED RESULTS
+(dollars in thousands)
+(UNAUDITED)
+U.S. GAAP
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Investment Banking & Equities
+Net Revenues:
+Investment Banking & Equities:
+Advisory Fees | $ | 1,011,092 | $ | 883,712 | $ | 3,031,421 | $ | 2,138,805
+Underwriting Fees | 55,590 | 43,730 | 207,729 | 130,191
+Commissions and Related Revenue | 60,515 | 62,816 | 186,708 | 176,198
+Other Revenue, net | 16,914 | 25,934 | 53,880 | 57,701
+Net Revenues | 1,144,111 | 1,016,192 | 3,479,738 | 2,502,895
+Expenses:
+Employee Compensation and Benefits | 733,745 | 664,616 | 2,250,198 | 1,648,092
+Non-Compensation Costs | 170,882 | 137,825 | 499,327 | 388,372
+Special Charges, Including Business Realignment Costs | 1,960 | — | 23,275 | —
+Total Expenses | 906,587 | 802,441 | 2,772,800 | 2,036,464
+Operating Income (a) | $ | 237,524 | $ | 213,751 | $ | 706,938 | $ | 466,431
+Investment Management
+Net Revenues:
+Asset Management and Administration Fees | $ | 24,355 | $ | 22,477 | $ | 70,653 | $ | 64,144
+Other Revenue, net | 115 | 215 | (33) | 504
+Net Revenues | 24,470 | 22,692 | 70,620 | 64,648
+Expenses:
+Employee Compensation and Benefits | 15,374 | 16,036 | 44,782 | 40,996
+Non-Compensation Costs | 4,064 | 4,201 | 12,918 | 12,304
+Total Expenses | 19,438 | 20,237 | 57,700 | 53,300
+Operating Income (a) | $ | 5,032 | $ | 2,455 | $ | 12,920 | $ | 11,348
+Total
+Net Revenues:
+Investment Banking & Equities:
+Advisory Fees | $ | 1,011,092 | $ | 883,712 | $ | 3,031,421 | $ | 2,138,805
+Underwriting Fees | 55,590 | 43,730 | 207,729 | 130,191
+Commissions and Related Revenue | 60,515 | 62,816 | 186,708 | 176,198
+Asset Management and Administration Fees | 24,355 | 22,477 | 70,653 | 64,144
+Other Revenue, net | 17,029 | 26,149 | 53,847 | 58,205
+Net Revenues | 1,168,581 | 1,038,884 | 3,550,358 | 2,567,543
+Expenses:
+Employee Compensation and Benefits | 749,119 | 680,652 | 2,294,980 | 1,689,088
+Non-Compensation Costs | 174,946 | 142,026 | 512,245 | 400,676
+Special Charges, Including Business Realignment Costs | 1,960 | — | 23,275 | —
+Total Expenses | 926,025 | 822,678 | 2,830,500 | 2,089,764
+Operating Income (a) | $ | 242,556 | $ | 216,206 | $ | 719,858 | $ | 477,779
+(a) Operating Income excludes Income (Loss) from Equity Method Investments.
+A - 6
+EVERCORE INC.
+U.S. GAAP RECONCILIATION TO ADJUSTED NON-COMPENSATION COSTS
+(dollars in thousands)
+(UNAUDITED)
+Three Months Ended September 30, 2026
+U.S. GAAP | Adjustments | Adjusted
+(dollars in thousands)
+Occupancy and Equipment Rental | $ | 29,893 | $ | — | $ | 29,893
+Professional Fees | 28,657 | — | 28,657
+Travel and Related Expenses | 30,869 | — | 30,869
+Technology and Information Services | 46,858 | — | 46,858
+Depreciation and Amortization | 12,688 | (3,719) | (5a) | 8,969
+Execution, Clearing and Custody Fees | 2,832 | — | 2,832
+Other Operating Expenses | 23,149 | (4,905) | (5c) | 18,244
+Total Non-Compensation Costs | $ | 174,946 | $ | (8,624) | $ | 166,322
+Three Months Ended September 30, 2025
+U.S. GAAP | Adjustments | Adjusted
+(dollars in thousands)
+Occupancy and Equipment Rental | $ | 27,530 | $ | — | $ | 27,530
+Professional Fees | 25,672 | — | 25,672
+Travel and Related Expenses | 23,246 | — | 23,246
+Technology and Information Services | 36,954 | — | 36,954
+Depreciation and Amortization | 7,856 | — | 7,856
+Execution, Clearing and Custody Fees | 2,962 | — | 2,962
+Acquisition and Transition Costs | 3,516 | (3,516) | (5b) | —
+Other Operating Expenses | 14,290 | — | 14,290
+Total Non-Compensation Costs | $ | 142,026 | $ | (3,516) | $ | 138,510
+Nine Months Ended September 30, 2026
+U.S. GAAP | Adjustments | Adjusted
+(dollars in thousands)
+Occupancy and Equipment Rental | $ | 86,684 | $ | — | $ | 86,684
+Professional Fees | 90,056 | — | 90,056
+Travel and Related Expenses | 94,071 | — | 94,071
+Technology and Information Services | 131,237 | — | 131,237
+Depreciation and Amortization | 37,703 | (11,161) | (5a) | 26,542
+Execution, Clearing and Custody Fees | 9,071 | — | 9,071
+Acquisition and Transition Costs | 1,800 | (1,800) | (5b) | —
+Other Operating Expenses | 61,623 | (7,721) | (5c) | 53,902
+Total Non-Compensation Costs | $ | 512,245 | $ | (20,682) | $ | 491,563
+Nine Months Ended September 30, 2025
+U.S. GAAP | Adjustments | Adjusted
+(dollars in thousands)
+Occupancy and Equipment Rental | $ | 80,175 | $ | — | $ | 80,175
+Professional Fees | 71,195 | — | 71,195
+Travel and Related Expenses | 69,248 | — | 69,248
+Technology and Information Services | 106,908 | — | 106,908
+Depreciation and Amortization | 20,282 | — | 20,282
+Execution, Clearing and Custody Fees | 9,488 | — | 9,488
+Acquisition and Transition Costs | 5,153 | (5,153) | (5b) | —
+Other Operating Expenses | 38,227 | — | 38,227
+Total Non-Compensation Costs | $ | 400,676 | $ | (5,153) | $ | 395,523
+A - 7
+Notes to Unaudited Condensed Consolidated Adjusted Financial Data
+For further information on these adjustments, see page A-2.
+(1)Income (Loss) from Equity Method Investments has been reclassified to Revenue in the Adjusted presentation.
+(2)Interest Expense on Debt, Lines of Credit and Other Financing Arrangements is excluded from Net Revenues and presented below Operating Income in the Adjusted results and is included in Interest Expense on a U.S. GAAP basis. The Adjusted results also reflect the reduction of interest expense accrued for deferred acquisition consideration issued in the acquisition of Robey Warshaw.
+(3)Expenses associated with awards granted in conjunction with the Company's acquisition of Robey Warshaw are excluded from the Adjusted presentation.
+(4)Expenses during 2026 that are excluded from the Adjusted presentation reflect duplicate facilities costs associated with the planned relocation of the Company's U.K. headquarters and an estimated loss provision for non-U.S. employment taxes, principally related to prior periods.
+(5)Non-Compensation Costs on an Adjusted basis reflect the following adjustments:
+(5a)The exclusion from the Adjusted presentation of expenses associated with the amortization of intangible assets from the acquisition of Robey Warshaw.
+(5b)The exclusion from the Adjusted presentation of costs incurred for the impairment of a lease in the first quarter of 2026 related to the acquisition of Robey Warshaw and professional fees and certain other costs incurred in the second and third quarter of 2025 related to the acquisition of Robey Warshaw.
+(5c)The exclusion from the Adjusted presentation of the expense, or reversal of expense, associated with the changes in fair value of contingent consideration issued to the sellers of Robey Warshaw.
+(6)Evercore is organized as a series of Limited Liability Companies, Partnerships, C-Corporations and a Public Corporation in the U.S. as the ultimate parent. Certain of the subsidiaries, particularly Evercore LP, have noncontrolling interests held by management or former members of management. As a result, not all of the Company’s income is subject to corporate level taxes and certain other state and local taxes are levied. The assumption in the Adjusted earnings presentation is that substantially all of the noncontrolling interest is eliminated through the exchange of Evercore LP units into Class A common stock of the ultimate parent. As a result, the Adjusted earnings presentation assumes that the allocation of earnings to Evercore LP’s noncontrolling interest holders is substantially eliminated and is therefore subject to statutory tax rates of a C-Corporation under a conventional tax structure in the U.S. and that certain state and local taxes are reduced accordingly.
+(7)Reflects an adjustment to eliminate noncontrolling interest related to substantially all Evercore LP partnership units which are assumed to be converted to Class A common stock in the Adjusted presentation.
+(8)Assumes the exchange into Class A shares of substantially all Evercore LP Units and IPO related restricted stock unit awards in the Adjusted presentation. In the computation of outstanding common stock equivalents for U.S. GAAP net income per share, the Evercore LP Units are anti-dilutive.
+A - 8

@@ -630,5 +630,79 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-10-29T06:08:33+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-29-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 16,
+      "total": 16,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 225,
+      "companies": 3,
+      "new": 3,
+      "saved": 3,
+      "no_new": 2,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-27",
+      "end": "2026-10-28",
+      "hits": 419,
+      "results_filings": 382,
+      "new": 225,
+      "watchlist_new": [
+        "Alphabet Inc. (2026-10-28, 0001652044-26-000080)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1836981",
+        "company": "BigBear.ai Holdings, Inc.",
+        "status": "saved",
+        "accession": "0001836981-26-000088",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1360901",
+        "company": "Evercore Inc.",
+        "status": "saved",
+        "accession": "0001628280-26-067716",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]
