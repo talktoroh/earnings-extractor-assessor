@@ -1,0 +1,283 @@
+Company: Rhinebeck Bancorp, Inc. (CIK 1751783)
+Accession: 0001751783-26-000042
+Results released: 2026-10-29
+Press release: https://www.sec.gov/Archives/edgar/data/1751783/000175178326000042/rbkb-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1751783/000175178326000042/0001751783-26-000042-index.htm
+Saved: 2026-10-30T06:08:32+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 rbkb-ex99d1.htm EX-99.1
+Exhibit 99.1
+Rhinebeck Bancorp, Inc. Reports
+Results for the Quarter Ended September 30, 2026
+News provided by
+Rhinebeck Bancorp, Inc.
+Poughkeepsie, New York, October 29, 2026 /ACCESSWIRE/ Rhinebeck Bancorp, Inc. (the “Company”) (NASDAQ: RBKB), the holding company of Rhinebeck Bank (the “Bank”), reported net income for the three months ended September 30, 2026 of $3.2 million ($0.21 per basic and diluted share), which was $457,000, or 17.0%, higher than the comparable prior year period of $2.7 million ($0.18 per basic and diluted share). Net income for the nine months ended September 30, 2026 of $8.0 million ($0.53 per basic and $0.52 per diluted share) was $275,000, or 3.6%, higher than the same period last year.
+On July 21, 2026, Rhinebeck Bancorp, MHC, the former mutual holding company parent of the Company, completed its second-step conversion, after which Rhinebeck Bancorp, MHC ceased to exist. In connection with the second-step conversion, the Company conducted a public stock offering in which it sold 8,880,210 shares of its common stock at a price of $10.00 per share for gross proceeds of $88.8 million. As part of the transaction, each outstanding share of Rhinebeck Bancorp, Inc., common stock owned by the public stockholders as of the closing date was converted into new shares of Company common stock based on an exchange ratio of 1.3978 shares of Company common stock.
+Share and per share amounts related to periods prior to the date the conversion was completed (July 21, 2026) have been adjusted to give retroactive recognition to the exchange ratio applied in the conversion (1.3978).
+Financial highlights:
+● | Third-quarter net income increased 17.0% year over year to $3.2 million, or $0.21 per diluted share.
+● | Net interest income for the quarter increased 8.1% over the prior year period to $13.0 million.
+● | Third-quarter efficiency ratio improved to 68.37%, compared to 69.61% in the prior year quarter.
+● | Total deposits increased $147.0 million, or 13.4%, from December 31, 2025, including $31.1 million in non-interest-bearing deposit growth.
+● | Past-due loans declined 28.2% from year-end 2025, while quarterly net charge-offs decreased to $211,000 from $963,000 in the prior-year period.
+● | Successfully completed the second-step conversion on July 21, 2026, raising $88.8 million in gross proceeds and increasing stockholders' equity to $220.8 million.
+The increase in net income for the quarter ended September 30, 2026 as compared to the quarter ended September 30, 2025 was primarily due to an increase in net interest income, offset by an increase in non-interest expense. The Company’s return on average assets and return on average equity were 0.86% and 6.01% for the third quarter of 2026, respectively, as compared to 0.82% and 8.18% for the third quarter of 2025, respectively. The increase in net income for the nine months ended September 30, 2026 when compared to the nine months ended September 30, 2025 was primarily due to an increase in net interest income and a decrease in the provision for credit losses, partially offset by an increase in non-interest expense. The Company’s return on average assets and return on average equity were 0.79% and 6.59% for the first nine months of 2026, respectively, as compared to 0.81% and 8.09% for the first nine months of 2025, respectively. The decrease in return on average assets and equity was primarily attributable to an increase in average assets and equity following the completion of the second-step conversion and related stock offering.
+President and Chief Executive Officer Matthew Smith said, “Our third-quarter results reflect continued progress in strengthening our financial performance while positioning the franchise for its next phase of growth. We delivered a 17% increase in net income compared to the prior year, supported by growth in net interest income, disciplined funding management, and improving credit performance. The successful completion of our second-step conversion in July marked a significant milestone for our organization, providing the capital and flexibility to accelerate the execution of our strategic plan. We are focused on deploying the capital raised in the conversion to expand our commercial banking franchise, deepen existing client relationships, and develop new digital banking capabilities that diversify our funding sources and support sustainable growth. As we move forward, our priority remains translating these investments into profitable growth, improved operating performance, and long-term value creation for our shareholders.”
+Income Statement Analysis
+Net interest income increased $973,000, or 8.1%, to $13.0 million for the three months ended September 30, 2026, from $12.0 million for the three months ended September 30, 2025. The increase was primarily due to higher interest-earning asset balances and lower costs on interest-bearing liabilities, partially offset by lower yields on interest-earning assets and higher interest-bearing liability balances. The net interest margin decreased by 14 basis points to 3.79% and the interest rate spread decreased 24 basis points from 3.27% for the three months ended September 30, 2025 to 3.03% for the three months ended September 30, 2026. The decline in net interest margin reflects, in part, the increased concentration of lower-yielding liquid assets following the Bank's capital raise and deposit growth. For the three months ended September 30, 2026, when compared to the three months ended September 30, 2025, the average balance of interest-earning assets increased by $148.5 million, or 12.2%, to $1.36 billion due to a $110.0 million increase in the average balance of cash and cash equivalents and a $79.7 million increase in the average balance of available-for-sale securities, offset by a $40.4 million decrease in the average balance of loans. The increases were due to the influx of cash from the stock offering and the increase in deposits, a portion of which was used to purchase securities. The average yield decreased by 37 basis points to 5.43% due to a higher composition of lower-yielding assets. The average balance of interest-bearing liabilities increased by $31.4 million, or 3.5%, primarily due to a $50.7 million increase in the average balance of deposits, partially offset by a $19.9 million decrease in the average balance of FHLB advances. The cost of interest-bearing liabilities decreased by 13 basis points to 2.40% due to changes in the funding mix, including growth in lower-cost deposit products and the decrease of higher cost FHLB advances.
+Year-to-date net interest income increased $1.3 million, or 3.7%, to $35.8 million from $34.6 million for the prior year nine-month period, primarily due to higher interest-earning assets and lower costs on interest-bearing liabilities, offset by a decreased yield on interest-earning assets and an increase in the balance of interest-bearing liabilities. The net interest margin decreased by 12 basis points to 3.78% for the nine months ended September 30, 2026 from 3.90% for the nine months ended September 30, 2025. The interest rate spread decreased by 15 basis points from 3.25% for the nine months ended September 30, 2025, to 3.10% for the same period in 2026. For the nine months ended September 30, 2026, the average balance of interest-earning assets increased by $82.0 million, or 6.9%, to $1.27 billion while the average yield decreased by 26 basis points to 5.51%, when compared to the nine months ended September 30, 2025. The average balance of interest-bearing liabilities increased by $32.3 million, or 3.7%, primarily due to an increase in the average balance of deposits, partially offset by a decrease in the average balance of FHLB advances, while the cost of interest-bearing liabilities decreased by 11 basis points to 2.41% primarily due to the decrease of the higher cost FHLB advances.
+The provision for credit losses decreased by $126,000, or 13.9%, from $904,000 for the quarter ended September 30, 2025 to $778,000 for the current quarter. Net charge-offs decreased $752,000, from $963,000 for the third quarter of 2025 to $211,000 for the third quarter of 2026, primarily due to decreased net charge-offs of $629,000 in commercial real estate loans and $95,000 in indirect automobile loans.
+Year-to-date, the provision for credit losses decreased by $318,000, or 27.5%, from $1.2 million for the nine months ended September 30, 2025 to $838,000 for the nine months ended September 30, 2026. The decrease in the provision was primarily due to lower loan balances, particularly indirect automobile loans, and lower net charge-offs. Net charge-offs decreased $703,000, or 44.9% to $861,000 for the first nine months of 2026 as compared to $1.6 million for the first nine months of 2025. The decrease was primarily due to decreased net charge-offs in commercial real estate loans and commercial loans of $629,000 and $183,000, respectively, partially offset by increased net charge-offs of $128,000 in indirect automobile loans. The percentage of overdue account balances to total loans decreased to 1.10% as of September 30, 2026 from 1.52% as of December 31, 2025, while non-performing assets increased $600,000, or 16.2%, to $4.3 million at September 30, 2026.
+Non-interest income totaled $2.1 million for the three months ended September 30, 2026, an increase of $127,000, or 6.5%, from the comparable period in 2025, due primarily to a gain on life insurance of $318,000 and a $50,000 increase in service charges on deposit accounts, partially offset by a $123,000 decrease in other non-interest income on lower swap income and an $89,000 decrease in net gain on sale of loans as we discontinued originating residential mortgage loans directly.
+Non-interest income totaled $5.3 million for the nine months ended September 30, 2026, a slight decrease of $17,000, or 0.3%, from the comparable period in 2025, driven primarily by a decrease of $330,000, or 27.4%, in other non-interest income on lower swap income and a $196,000 decrease in net gain on sales of loans. These decreases were substantially offset by a gain on life insurance of $318,000 and an increase in investment advisory income of $108,000.
+For the three months ended September 30, 2026, non-interest expense totaled $10.3 million, an increase of $579,000, or 6.0%, compared to $9.7 million for the same period in 2025. This increase was primarily driven by higher salaries and employee benefits, particularly medical benefits, of $314,000, an increase of $184,000 in other non-interest expense, a rise in data processing costs of $102,000, and higher professional fees of $74,000. These increases were partially offset by decreases in FDIC deposit insurance and other insurance of $49,000, and occupancy and marketing expenses of $19,000 and $18,000, respectively.
+For the nine months ended September 30, 2026, non-interest expense totaled $30.1 million, an increase of $1.1 million, or 3.8%, compared to $28.9 million for the same period in 2025. The variance was primarily driven by a $1.0 million, or 6.4%, increase in salaries and employee benefits, reflecting increased compensation and medical insurance costs, as well as higher data processing, occupancy and professional fees, which rose $257,000, $145,000 and $134,000, respectively. These operational increases were partially offset by a $169,000 decrease in FDIC deposit insurance costs, a $158,000 decrease in marketing expenses, and a $76,000 decrease in other expenses.
+Balance Sheet Analysis
+Total assets increased by $209.4 million, or 16.1%, to $1.51 billion at September 30, 2026, compared to $1.30 billion at December 31, 2025. The increase was primarily attributable to an increase in cash and cash equivalents of $99.3 million, or 97.4%, and an increase in available-for-sale securities of $119.4 million, or 73.6%, partially offset by a decrease in loans receivable of $8.9 million, or 0.9%, to $944.5 million. Available-for-sale securities increased by $119.4 million, or 73.6%, primarily due to $152.4 million in purchases with the excess cash from the stock offering and the increase of deposits, partially offset by $28.3 million in paydowns, calls, and maturities and a $5.0 million increase in unrealized losses. The Company continues to strategically reposition its loan portfolio by reducing its concentration in indirect automobile lending, which resulted in a $34.5 million decline in indirect automobile loans during the period. Commercial real estate loans decreased $2.3 million. These declines were partially offset by increases of $24.8 million in residential real estate loans and $3.6 million in commercial and industrial loans, as the Company remains focused on expanding its commercial banking franchise and supporting future relationship-based loan growth.
+Past due loans decreased $4.1 million, or 28.2%, between December 31, 2025 and September 30, 2026, to $10.4 million, or 1.10% of total loans, from $14.5 million, or 1.52% of total loans at year-end 2025. The decrease was most notable in indirect automobile loans, reflecting the positive impact of more conservative underwriting standards as well as a decrease in these loan balances. The allowance for credit losses was 0.86% of total loans and 189.14% of non-performing loans at September 30, 2026 as compared to 0.87% of total loans and 225.76% of non-performing loans at December 31, 2025. Non-performing assets totaled $4.3 million at September 30, 2026, an increase of $600,000 from $3.7 million at December 31, 2025.
+Total liabilities increased by $125.5 million, or 10.8%, to $1.29 billion at September 30, 2026, primarily driven by a $147.0 million, or 13.4%, increase in deposits. The growth in deposits was attributable to a $116.0 million, or 13.3%, increase in interest-bearing deposits and a $31.1 million, or 13.7%, increase in non-interest-bearing deposits. Uninsured deposits were approximately 29.4% and 27.9% of the Bank’s total deposits as of September 30, 2026 and December 31, 2025, respectively. The increases were partially offset by a reduction in borrowings of $19.4 million, or 77.1%, and a $4.8 million decrease in mortgagors’ escrow accounts.
+Stockholders' equity increased $84.0 million, or 61.4%, to $220.8 million at September 30, 2026. The increase was primarily due to the net capital raised in the stock offering of $85.6 million and $8.0 million in net income partially offset by a $4.1 million decrease related to the acquisition of 355,208 shares for the ESOP through an increase in the ESOP loan and a $4.2 million increase in total accumulated other comprehensive loss. The Company's ratio of tangible common equity to tangible assets was 14.48% for the nine months ended September 30, 2026 and 10.35% for the year ended December 31, 2025.
+About Rhinebeck Bancorp
+Rhinebeck Bancorp, Inc. (NASDAQ: RBKB) is a Maryland corporation and the holding company for Rhinebeck Bank, a New York-chartered stock savings bank headquartered in Poughkeepsie, New York. Through its thirteen branches, commercial banking offices, and representative offices, the Bank provides a comprehensive range of banking and financial services to consumer and commercial customers, businesses, and communities throughout New York's Hudson Valley, including Dutchess, Ulster, Orange, and Albany counties, with a growing presence in Westchester County and the Capital Region.
+The Bank offers consumer and commercial banking, lending, treasury management, and digital banking services designed to meet the evolving needs of its clients. Wealth management and investment advisory services are provided through Rhinebeck Asset Management, a division of the Bank.
+Building on its longstanding community banking heritage, Rhinebeck Bank is focused on deepening client relationships, expanding its commercial banking franchise, and leveraging technology and strategic partnerships to diversify funding sources, enhance the client experience, and drive sustainable, profitable growth.
+Forward Looking Statements
+This press release contains certain forward-looking statements about the Company and the Bank. Forward-looking statements include statements regarding anticipated future events or results and can be identified by the fact that they do not relate strictly to historical or current facts. They often include words such as “believe”, “expect”, “anticipate”, “estimate”, “intend”, “predict”, “forecast”, “improve”, “continue”, “will”, “would”, “should”, “could”, or “may”. Forward-looking statements, by their nature, are subject to risks and uncertainties. Certain factors that could cause actual results to differ materially from expected results include increased competitive pressures, inflation, changes in the interest rate environment, changes in the shape of the yield curve, fluctuations in real estate values, general economic conditions or conditions within the securities markets, potential recessionary conditions, the imposition of tariffs or other domestic or international governmental policies and trade restrictions and retaliatory measures impacting our borrowers and the broader economy, the impact of any federal government shutdown, debt ceiling impasses or fiscal uncertainty, changes in liquidity, including the size and composition of our deposit portfolio and the percentage of uninsured deposits in the portfolio, our ability to access cost-effective funding, changes in asset quality, loan sale volumes, charge-offs and credit loss provisions, changes in economic assumptions that may impact our allowance for credit losses calculation, changes in demand for our products and services, legislative, accounting, tax and regulatory changes, including changes in the monetary and fiscal policies of the Board of Governors of the Federal Reserve System, the ability to attract, develop and retain qualified personnel in a competitive labor market, political developments, uncertainties or instability, catastrophic events, acts of war or terrorism, natural disasters, such as earthquakes, drought, pandemics, extreme weather events, or risks associated with cybersecurity threats, data breaches, ransomware attacks, or other failures in our operational or security systems and infrastructure, including the risks arising from our dependence on third-party service providers and vendors.
+Accordingly, you should not place undue reliance on forward-looking statements. Rhinebeck Bancorp, Inc. undertakes no obligation to revise these forward-looking statements or to reflect events or circumstances after the date of this press release.
+The Company’s summary consolidated statements of income and financial condition and other selected financial data follow:
+Rhinebeck Bancorp, Inc. and Subsidiary
+Consolidated Statements of Income (Unaudited)
+(In thousands, except share and per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Interest and Dividend Income
+Interest and fees on loans | $ | 14,587 | $ | 15,712 | $ | 43,374 | $ | 45,786
+Interest and dividends on securities | 2,151 | 1,124 | 4,923 | 3,750
+Other interest income | 1,908 | 923 | 3,973 | 1,616
+Total interest and dividend income | 18,646 | 17,759 | 52,270 | 51,152
+Interest Expense
+Interest expense on deposits | 5,560 | 5,443 | 16,037 | 15,071
+Interest expense on borrowings | 78 | 281 | 399 | 1,517
+Total interest expense | 5,638 | 5,724 | 16,436 | 16,588
+Net interest income | 13,008 | 12,035 | 35,834 | 34,564
+Provision for Credit Losses | 778 | 904 | 838 | 1,156
+Net interest income after provision for credit losses | 12,230 | 11,131 | 34,996 | 33,408
+Non-interest Income
+Service charges on deposit accounts | 789 | 739 | 2,297 | 2,240
+Net gain on sales of loans | — | 89 | — | 196
+Increase in cash surrender value of life insurance | 205 | 198 | 606 | 580
+Net gain on disposal of premises and equipment | (23) | (1) | (1) | (1)
+Gain on life insurance | 318 | — | 318 | —
+Investment advisory income | 453 | 467 | 1,180 | 1,072
+Other | 324 | 447 | 875 | 1,205
+Total non-interest income | 2,066 | 1,939 | 5,275 | 5,292
+Non-interest Expense
+Salaries and employee benefits | 5,784 | 5,470 | 16,855 | 15,846
+Occupancy | 1,062 | 1,081 | 3,412 | 3,267
+Data processing | 626 | 524 | 1,840 | 1,583
+Professional fees | 575 | 501 | 1,604 | 1,470
+Marketing | 133 | 151 | 416 | 574
+FDIC deposit insurance and other insurance | 225 | 274 | 697 | 866
+Amortization of intangible assets | 7 | 16 | 21 | 53
+Other | 1,894 | 1,710 | 5,207 | 5,283
+Total non-interest expense | 10,306 | 9,727 | 30,052 | 28,942
+Net income before income taxes | 3,990 | 3,343 | 10,219 | 9,758
+Net Provision for Income Taxes | 838 | 648 | 2,235 | 2,049
+Net income | $ | 3,152 | $ | 2,695 | $ | 7,984 | $ | 7,709
+Earnings per common share:
+Basic | $ | 0.21 | $ | 0.18 | $ | 0.53 | $ | 0.51
+Diluted | $ | 0.21 | $ | 0.18 | $ | 0.52 | $ | 0.50
+Weighted average shares outstanding, basic | 15,038,015 | 15,112,745 | 15,063,857 | 15,085,316
+Weighted average shares outstanding, diluted | 15,233,145 | 15,351,119 | 15,252,710 | 15,316,079
+Rhinebeck Bancorp, Inc. and Subsidiary
+Consolidated Statements of Financial Condition (Unaudited)
+(In thousands, except share and per share data)
+September 30, | December 31,
+2026 | 2025
+Assets
+Cash and due from banks | $ | 24,990 | $ | 15,893
+Federal funds sold | 129,068 | 83,157
+Interest-bearing depository accounts | 47,270 | 2,936
+Total cash and cash equivalents | 201,328 | 101,986
+Available-for-sale securities (at fair value) | 281,639 | 162,203
+Loans receivable (net of allowance for credit losses of $8,135 and $8,353, respectively) | 944,482 | 953,385
+Federal Home Loan Bank stock | 1,180 | 1,957
+Accrued interest receivable | 5,492 | 4,882
+Cash surrender value of life insurance | 31,054 | 30,996
+Deferred tax assets (net of valuation allowance of $593 and $809, respectively) | 5,319 | 4,941
+Premises and equipment, net | 13,197 | 13,621
+Goodwill | 2,235 | 2,235
+Intangible assets, net | 85 | 106
+Other assets | 25,196 | 25,454
+Total assets | $ | 1,511,207 | $ | 1,301,766
+Liabilities and Stockholders’ Equity
+Liabilities
+Deposits
+Non-interest bearing | $ | 258,330 | $ | 227,272
+Interest bearing | 986,054 | 870,068
+Total deposits | 1,244,384 | 1,097,340
+Mortgagors’ escrow accounts | 4,630 | 9,399
+Advances from the Federal Home Loan Bank | 5,748 | 25,153
+Subordinated debt | 5,155 | 5,155
+Accrued expenses and other liabilities | 30,451 | 27,867
+Total liabilities | 1,290,368 | 1,164,914
+Stockholders’ Equity
+Preferred stock (par value $0.01 per share; 5,000,000 authorized, no shares issued) | — | —
+Common stock (par value $0.01; authorized 35,000,000; issued and outstanding 15,635,966 and 15,572,948 at September 30, 2026 and December 31, 2025, respectively) | 156 | 156
+Additional paid-in capital | 130,702 | 45,666
+Unearned common stock held by the employee stock ownership plan | (6,972) | (2,837)
+Retained earnings | 109,128 | 101,797
+Accumulated other comprehensive loss:
+Net unrealized loss on available-for-sale securities, net of taxes | (10,219) | (6,255)
+Defined benefit pension plan, net of taxes | (1,956) | (1,675)
+Total accumulated other comprehensive loss | (12,175) | (7,930)
+Total stockholders’ equity | 220,839 | 136,852
+Total liabilities and stockholders’ equity | $ | 1,511,207 | $ | 1,301,766
+Rhinebeck Bancorp, Inc. and Subsidiary
+Average Balance Sheet (Unaudited)
+(Dollars in thousands)
+For the Three Months Ended September 30,
+2026 | 2025
+Average | Interest and | Average | Interest and
+Balance | Dividends | Yield/Cost(3) | Balance | Dividends | Yield/Cost(3)
+Assets:
+Interest-bearing depository accounts and federal funds sold | $ | 199,949 | $ | 1,908 | 3.79 | % | $ | 89,954 | $ | 923 | 4.07 | %
+Loans(1) | 937,352 | 14,587 | 6.17 | % | 977,721 | 15,712 | 6.38 | %
+Available-for-sale securities | 224,268 | 2,130 | 3.77 | % | 144,612 | 1,084 | 2.97 | %
+Other interest-earning assets | 1,376 | 21 | 6.05 | % | 2,178 | 40 | 7.29 | %
+Total interest-earning assets | 1,362,945 | 18,646 | 5.43 | % | 1,214,465 | 17,759 | 5.80 | %
+Non-interest-earning assets | 87,684 | 88,962
+Total assets | $ | 1,450,629 | $ | 1,303,427
+Liabilities and equity:
+Subscription Deposits | $ | 16,800 | $ | 6 | 0.15 | % | $ | — | $ | — | — | %
+NOW accounts | 134,738 | 84 | 0.25 | % | 118,280 | 64 | 0.21 | %
+Money market accounts | 234,053 | 1,621 | 2.75 | % | 232,621 | 1,626 | 2.77 | %
+Savings accounts | 143,104 | 390 | 1.08 | % | 133,825 | 134 | 0.40 | %
+Certificates of deposit | 375,877 | 3,420 | 3.61 | % | 369,158 | 3,581 | 3.85 | %
+Total interest-bearing deposits | 904,572 | 5,521 | 2.42 | % | 853,884 | 5,405 | 2.51 | %
+Escrow accounts | 13,874 | 39 | 1.12 | % | 13,227 | 38 | 1.14 | %
+Federal Home Loan Bank advances | 6,658 | — | — | % | 26,603 | 195 | 2.91 | %
+Subordinated debt | 5,155 | 78 | 6.00 | % | 5,155 | 86 | 6.62 | %
+Total other interest-bearing liabilities | 25,687 | 117 | 1.81 | % | 44,985 | 319 | 2.81 | %
+Total interest-bearing liabilities | 930,259 | 5,638 | 2.40 | % | 898,869 | 5,724 | 2.53 | %
+Non-interest-bearing deposits | 288,801 | 243,227
+Other non-interest-bearing liabilities | 23,591 | 30,586
+Total liabilities | 1,242,651 | 1,172,682
+Total stockholders’ equity | 207,978 | 130,745
+Total liabilities and stockholders’ equity | $ | 1,450,629 | $ | 1,303,427
+Net interest income | $ | 13,008 | $ | 12,035
+Interest rate spread | 3.03 | % | 3.27 | %
+Net interest margin(2) | 3.79 | % | 3.93 | %
+Average interest-earning assets to average interest-bearing liabilities | 146.51 | % | 135.11 | %
+(1) | Non-accruing loans are included in the outstanding loan balance. Deferred loan fees included in interest income totaled $52,000 and $86,000 for the three months ended September 30, 2026 and 2025, respectively.
+(2) | Represents the difference between interest earned and interest paid, divided by average total interest-earning assets.
+(3) | Annualized.
+For the Nine Months Ended September 30,
+2026 | 2025
+Average | Interest and | Average | Interest and
+Balance | Dividends | Yield/Cost(3) | Balance | Dividends | Yield/Cost(3)
+(Dollars in thousands)
+Assets:
+Interest-bearing depository accounts | $ | 140,950 | $ | 3,973 | 3.77 | % | $ | 52,195 | $ | 1,615 | 4.14 | %
+Loans(1) | 942,563 | 43,374 | 6.15 | % | 982,536 | 45,787 | 6.23 | %
+Available-for-sale securities | 183,104 | 4,842 | 3.54 | % | 148,483 | 3,553 | 3.20 | %
+Other interest-earning assets | 1,575 | 81 | 6.88 | % | 3,000 | 197 | 8.78 | %
+Total interest-earning assets | 1,268,192 | 52,270 | 5.51 | % | 1,186,214 | 51,152 | 5.77 | %
+Non-interest-earning assets | 87,753 | 87,775
+Total assets | $ | 1,355,945 | $ | 1,273,989
+Liabilities and equity:
+Subscription Deposits | $ | 12,444 | $ | 14 | 0.15 | % | $ | — | $ | — | — | %
+NOW accounts | 129,631 | 236 | 0.24 | % | 120,825 | 174 | 0.19 | %
+Money market accounts | 235,356 | 4,601 | 2.61 | % | 218,076 | 4,214 | 2.58 | %
+Savings accounts | 127,620 | 639 | 0.67 | % | 133,699 | 388 | 0.39 | %
+Certificates of deposit | 379,830 | 10,457 | 3.68 | % | 347,119 | 10,206 | 3.93 | %
+Total interest-bearing deposits | 884,881 | 15,947 | 2.41 | % | 819,719 | 14,982 | 2.44 | %
+Escrow accounts | 10,788 | 90 | 1.12 | % | 10,570 | 89 | 1.13 | %
+Federal Home Loan Bank advances | 11,802 | 164 | 1.86 | % | 44,907 | 1,259 | 3.75 | %
+Subordinated debt | 5,155 | 235 | 6.09 | % | 5,155 | 258 | 6.69 | %
+Total other interest-bearing liabilities | 27,745 | 489 | 2.36 | % | 60,632 | 1,606 | 3.54 | %
+Total interest-bearing liabilities | 912,626 | 16,436 | 2.41 | % | 880,351 | 16,588 | 2.52 | %
+Non-interest-bearing deposits | 256,435 | 236,398
+Other non-interest-bearing liabilities | 24,948 | 29,786
+Total liabilities | 1,194,009 | 1,146,535
+Total stockholders’ equity | 161,936 | 127,454
+Total liabilities and stockholders’ equity | $ | 1,355,945 | $ | 1,273,989
+Net interest income | $ | 35,834 | $ | 34,564
+Interest rate spread | 3.10 | % | 3.25 | %
+Net interest margin(2) | 3.78 | % | 3.90 | %
+Average interest-earning assets to average interest-bearing liabilities | 138.96 | % | 134.74 | %
+(1) | Non-accruing loans are included in the outstanding loan balance. Deferred loan fees included in interest income totaled $84,000 and $140,000 for the nine months ended September 30, 2026 and 2025, respectively.
+(2) | Represents the difference between interest earned and interest paid, divided by average total interest-earning assets.
+(3) | Annualized.
+Rhinebeck Bancorp, Inc. and Subsidiary
+Selected Ratios (Unaudited)
+Three Months Ended | Nine Months Ended | Year Ended
+September 30, | September 30, | September 30, | December 31,
+2026 | 2025 | 2026 | 2025 | 2025
+Performance Ratios (1):
+Return on average assets (2) | 0.86 | % | 0.82 | % | 0.79 | % | 0.81 | % | 0.78 | %
+Return on average equity (3) | 6.01 | % | 8.18 | % | 6.59 | % | 8.09 | % | 7.77 | %
+Net interest margin (4) | 3.79 | % | 3.93 | % | 3.78 | % | 3.90 | % | 3.89 | %
+Efficiency ratio | 68.37 | % | 69.61 | % | 73.10 | % | 72.62 | % | 73.12 | %
+Average interest-earning assets to average interest-bearing liabilities | 146.51 | % | 135.11 | % | 138.96 | % | 134.74 | % | 134.72 | %
+Total gross loans to total deposits | 76.30 | % | 87.99 | % | 76.30 | % | 87.99 | % | 87.32 | %
+Average equity to average assets (5) | 14.34 | % | 10.03 | % | 11.94 | % | 10.00 | % | 10.09 | %
+Asset Quality Ratios:
+Allowance for credit losses on loans as a percent of total gross loans | 0.86 | % | 0.83 | % | 0.86 | % | 0.83 | % | 0.87 | %
+Allowance for credit losses on loans as a percent of non-performing loans | 189.14 | % | 218.85 | % | 189.14 | % | 218.85 | % | 225.76 | %
+Net charge-offs to average outstanding loans during the period (1) | 0.09 | % | 0.39 | % | 0.12 | % | 0.21 | % | 0.20 | %
+Non-performing loans as a percent of total gross loans | 0.45 | % | 0.38 | % | 0.45 | % | 0.38 | % | 0.39 | %
+Non-performing assets as a percent of total assets | 0.28 | % | 0.28 | % | 0.28 | % | 0.28 | % | 0.28 | %
+Capital Ratios (6):
+Tier 1 capital (to risk-weighted assets) | 18.04 | % | 13.08 | % | 18.04 | % | 13.08 | % | 13.57 | %
+Total capital (to risk-weighted assets) | 18.84 | % | 13.88 | % | 18.84 | % | 13.88 | % | 14.40 | %
+Common equity Tier 1 capital (to risk-weighted assets) | 18.04 | % | 13.08 | % | 18.04 | % | 13.08 | % | 13.57 | %
+Tier 1 leverage ratio (to average total assets) | 13.14 | % | 10.46 | % | 13.14 | % | 10.46 | % | 10.62 | %
+Other Data:
+Book value per common share | $ 14.12 | $ 8.54 | $ 8.79
+Tangible book value per common share(7) | $ 13.98 | $ 8.39 | $ 8.64
+Tangible common equity to tangible assets(7) | 14.48 | % | 9.95 | % | 10.35 | %
+(1) | Ratios for the three and nine month periods ended September 30, 2026 and 2025 are annualized.
+(2) | Represents net income divided by average total assets.
+(3) | Represents net income divided by average equity.
+(4) | Represents net interest income as a percent of average interest-earning assets.
+(5) | Represents average equity divided by average total assets.
+(6) | Capital ratios are for Rhinebeck Bank only. Rhinebeck Bancorp, Inc. is not subject to the minimum consolidated capital requirements as a small bank holding company with assets of less than $3.0 billion.
+(7) | Represents a non-GAAP financial measure, see table below for a reconciliation of the non-GAAP financial measures.
+NON-GAAP FINANCIAL INFORMATION
+This release contains financial information determined by methods other than in accordance with generally accepted accounting principles (“GAAP”). Such non-GAAP financial information includes the following measure: “tangible book value per common share”. Management uses this non-GAAP measure because we believe that it may provide useful supplemental information for evaluating our operations and performance, as well as in managing and evaluating our business and in discussions about our operations and performance. Management believes this non-GAAP measure may also provide users of our financial information with a meaningful measure for assessing our financial results, as well as a comparison to financial results for prior periods. This non-GAAP measure should be viewed in addition to, and not as an alternative to or substitute for, measures determined in accordance with GAAP and are not necessarily comparable to other similarly titled measures used by other companies. To the extent applicable, reconciliations of these non-GAAP measures to the most directly comparable measures as reported in accordance with GAAP are included below.
+(In thousands, except per share data) | September 30, | December 31,
+2026 | 2025 | 2025
+Book value per common share
+Total shareholders' equity (book value) (GAAP) | $ | 220,839 | $ | 133,004 | $ | 136,852
+Total shares outstanding | 15,636 | 15,579 | 15,573
+Book value per common share | $ | 14.12 | $ | 8.54 | $ | 8.79
+Tangible common equity
+Total shareholders' equity (book value) (GAAP) | $ | 220,839 | $ | 133,004 | $ | 136,852
+Goodwill | (2,235) | (2,235) | (2,235)
+Intangible assets, net | (85) | (113) | (106)
+Tangible common equity (non-GAAP) | $ | 218,519 | $ | 130,656 | $ | 134,511
+Tangible book value per common share
+Tangible common equity (non-GAAP) | $ | 218,519 | $ | 130,656 | $ | 134,511
+Total shares outstanding | 15,636 | 15,579 | 15,573
+Tangible book value per common share (non-GAAP) | $ | 13.98 | $ | 8.39 | $ | 8.64
+(In thousands, except per share data) | September 30, | December 31,
+2026 | 2025 | 2025
+Tangible common equity
+Total shareholders' equity (book value) (GAAP) | $ | 220,839 | $ | 133,004 | $ | 136,852
+Goodwill | (2,235) | (2,235) | (2,235)
+Intangible assets, net | (85) | (113) | (106)
+Tangible common equity (non-GAAP) | $ | 218,519 | $ | 130,656 | $ | 134,511
+Tangible assets
+Total assets (book value) (GAAP) | $ | 1,511,207 | $ | 1,316,009 | $ | 1,301,766
+Goodwill | (2,235) | (2,235) | (2,235)
+Intangible assets, net | (85) | (113) | (106)
+Tangible assets (non-GAAP) | $ | 1,508,887 | $ | 1,313,661 | $ | 1,299,425
+Tangible common equity to tangible assets
+Tangible common equity (non-GAAP) | $ | 218,519 | $ | 130,656 | $ | 134,511
+Tangible assets (non-GAAP) | 1,508,887 | 1,313,661 | 1,299,425
+Tangible common equity to tangible assets (non-GAAP) | 14.48% | 9.95% | 10.35%
+SOURCE Rhinebeck Bancorp, Inc.
+Related Links
+http://www.Rhinebeckbank.com
