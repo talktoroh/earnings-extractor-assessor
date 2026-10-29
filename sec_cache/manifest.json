@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T05:17:27+08:00",
+  "fetched_at": "2026-10-30T05:42:30+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,8 +9,8 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 23,
+  "answered": 23,
   "sources": [
     {
       "name": "Earnings radar, page 1",
@@ -22,156 +22,144 @@
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-29&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 252 ms"
+      "detail": "HTTP 200, 60 KB in 362 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-29&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 264 ms"
+      "detail": "HTTP 200, 60 KB in 423 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-29&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 286 ms"
+      "detail": "HTTP 200, 60 KB in 582 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-29&from=400",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 240 ms"
+      "detail": "HTTP 200, 61 KB in 698 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-29&from=500",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 289 ms"
+      "detail": "HTTP 200, 32 KB in 227 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 55 ms"
+      "detail": "HTTP 200, 149 KB in 50 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 79 ms"
+      "detail": "HTTP 200, 1 KB in 122 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 73 ms"
+      "detail": "HTTP 200, 657 KB in 148 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 23 ms"
+      "detail": "HTTP 200, 154 KB in 46 ms"
     },
     {
-      "name": "FEDERATED HERMES, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1056288/000105628826000028/index.json",
+      "name": "Rhinebeck Bancorp, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000042/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 24 ms"
+      "detail": "HTTP 200, 1 KB in 318 ms"
     },
     {
-      "name": "FEDERATED HERMES, INC. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1056288/000105628826000028/0001056288-26-000028-index.htm",
+      "name": "Rhinebeck Bancorp, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000042/rbkb-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 69 ms"
+      "detail": "HTTP 200, 922 KB in 142 ms"
     },
     {
-      "name": "FEDERATED HERMES, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1056288/000105628826000028/a991-2026q3earningspressre.htm",
+      "name": "REPUBLIC SERVICES, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000326/index.json",
       "ok": true,
-      "detail": "HTTP 200, 640 KB in 121 ms"
+      "detail": "HTTP 200, 1 KB in 49 ms"
     },
     {
-      "name": "FTAI Aviation Ltd. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1590364/000159036426000092/index.json",
+      "name": "REPUBLIC SERVICES, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000326/exhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 144 ms"
-    },
-    {
-      "name": "FTAI Aviation Ltd. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1590364/000159036426000092/0001590364-26-000092-index.htm",
-      "ok": true,
-      "detail": "HTTP 200, 10 KB in 87 ms"
-    },
-    {
-      "name": "FTAI Aviation Ltd. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1590364/000159036426000092/ftai9302026earningsrelease.htm",
-      "ok": true,
-      "detail": "HTTP 200, 370 KB in 259 ms"
+      "detail": "HTTP 200, 614 KB in 86 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 45 ms"
+      "detail": "HTTP 200, 3,173 KB in 32 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 38 ms"
+      "detail": "HTTP 200, 4,373 KB in 26 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 41 ms"
+      "detail": "HTTP 200, 2,737 KB in 24 ms"
     },
     {
-      "name": "FEDERATED HERMES, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001056288.json",
+      "name": "Rhinebeck Bancorp, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 3,365 KB in 260 ms"
+      "detail": "HTTP 200, 2,470 KB in 91 ms"
     },
     {
-      "name": "FTAI Aviation Ltd. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001590364.json",
+      "name": "REPUBLIC SERVICES, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001060391.json",
       "ok": true,
-      "detail": "HTTP 200, 2,701 KB in 236 ms"
+      "detail": "HTTP 200, 4,774 KB in 367 ms"
     },
     {
       "name": "CATHAY GENERAL BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000861842.json",
       "ok": true,
-      "detail": "HTTP 200, 4,966 KB in 133 ms"
+      "detail": "HTTP 200, 4,966 KB in 62 ms"
     },
     {
       "name": "Business First Bancshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001624322.json",
       "ok": true,
-      "detail": "HTTP 200, 2,837 KB in 247 ms"
+      "detail": "HTTP 200, 2,837 KB in 90 ms"
     },
     {
       "name": "Evercore Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001360901.json",
       "ok": true,
-      "detail": "HTTP 200, 3,957 KB in 352 ms"
+      "detail": "HTTP 200, 3,957 KB in 52 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000861842.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001056288.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001060391.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001360901.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001590364.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001624322.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -183,11 +171,9 @@
     "efts.sec.gov_search-index_from500.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1056288_000105628826000028_0001056288-26-000028-index.htm",
-    "www.sec.gov_Archives_edgar_data_1056288_000105628826000028_a991-2026q3earningspressre.htm",
-    "www.sec.gov_Archives_edgar_data_1056288_000105628826000028_index.json",
-    "www.sec.gov_Archives_edgar_data_1590364_000159036426000092_0001590364-26-000092-index.htm",
-    "www.sec.gov_Archives_edgar_data_1590364_000159036426000092_ftai9302026earningsrelease.htm",
-    "www.sec.gov_Archives_edgar_data_1590364_000159036426000092_index.json"
+    "www.sec.gov_Archives_edgar_data_1060391_000106039126000326_exhibit991q32026.htm",
+    "www.sec.gov_Archives_edgar_data_1060391_000106039126000326_index.json",
+    "www.sec.gov_Archives_edgar_data_1751783_000175178326000042_index.json",
+    "www.sec.gov_Archives_edgar_data_1751783_000175178326000042_rbkb-ex99d1.htm"
   ]
 }
