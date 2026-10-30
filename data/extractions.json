@@ -889,5 +889,109 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000326/exhibit991q32026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000326/0001060391-26-000326-index.htm",
     "saved_at": "2026-10-30T06:08:32+08:00"
+  },
+  {
+    "cik": "1325618",
+    "company": "IRADIMED CORP",
+    "accession": "0001628280-26-068454",
+    "release_date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 24.203,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 24,203"
+      },
+      "operating_income": {
+        "value": 8.139,
+        "unit": "USD millions",
+        "quote": "Income from operations | 8,139"
+      },
+      "net_income": {
+        "value": 6.506,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 6,506"
+      },
+      "diluted_eps": {
+        "value": 0.51,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.51"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 the company expects revenue of $25.0 million to $26.5 million and GAAP diluted EPS of $0.53 to $0.57.",
+      "quote": "For the fourth quarter of 2026, the Company expects revenue of $25.0 million to $26.5 million, GAAP diluted earnings per share of $0.53 to $0.57"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management reports record third-quarter revenue, driven by the launch of the new 3870 MR IV pump.",
+        "quote": "We are pleased to report record revenue of $24.2 million for the third quarter, driven by the continued successful launch of our new 3870 MR IV pump."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says gross margin improved from the previous quarter as manufacturing efficiencies began to appear.",
+        "quote": "we began realizing the efficiencies we anticipated with gross margin improving sequentially as expected"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects a strong finish to the year after record bookings.",
+        "quote": "With record bookings and rapidly building 3870 momentum, we believe we are well positioned for a strong finish to the year,"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record revenue and bookings and a strong finish to the year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1325618-0001628280-26-068454.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/irmd-2026930xexx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/0001628280-26-068454-index.htm",
+    "saved_at": "2026-10-31T06:08:28+08:00"
+  },
+  {
+    "cik": "1600620",
+    "company": "Aurinia Pharmaceuticals Inc.",
+    "accession": "0001600620-26-000074",
+    "release_date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 83.699,
+        "unit": "USD millions",
+        "quote": "Total revenue | 83,699"
+      },
+      "operating_income": {
+        "value": 35.363,
+        "unit": "USD millions",
+        "quote": "Income from operations | 35,363"
+      },
+      "net_income": {
+        "value": 31.703,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 31,703"
+      },
+      "diluted_eps": {
+        "value": 0.23,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.23"
+      }
+    },
+    "guidance": {
+      "text": "The company raises its 2026 total revenue guidance to a range of $325 million to $330 million.",
+      "quote": "Aurinia is increasing its total revenue guidance for 2026 from a range of $315 million to $325 million to a range of $325 million to $330 million."
+    },
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1600620-0001600620-26-000074.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/exhibit991_q32026earningsr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/0001600620-26-000074-index.htm",
+    "saved_at": "2026-10-31T06:08:28+08:00"
   }
 ]
