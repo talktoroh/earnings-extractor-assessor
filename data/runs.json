@@ -1131,5 +1131,171 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-31T06:37:46+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-31-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 8,
+      "total": 8,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 8,
+      "checked": 8,
+      "rechecks": 6,
+      "confirmed": 15,
+      "mismatch": 1,
+      "cannot_check": 16
+    },
+    "companies": [
+      {
+        "cik": "861842",
+        "company": "CATHAY GENERAL BANCORP",
+        "accession": "0001437749-26-033125",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1624322",
+        "company": "Business First Bancshares, Inc.",
+        "accession": "0001624322-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1360901",
+        "company": "Evercore Inc.",
+        "accession": "0001628280-26-067716",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1060391",
+        "company": "REPUBLIC SERVICES, INC.",
+        "accession": "0001060391-26-000326",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 1,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 3,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1325618",
+        "company": "IRADIMED CORP",
+        "accession": "0001628280-26-068454",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1600620",
+        "company": "Aurinia Pharmaceuticals Inc.",
+        "accession": "0001600620-26-000074",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 8 extractions: 15 figures confirmed, 1 mismatch, 16 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-31T06:08:28+08:00",
+      "watch_brief": "briefs/2026-10-31-watch.md",
+      "brief_says": 62,
+      "saved_for_run": 62,
+      "match": true
+    },
+    "offline": false
   }
 ]
