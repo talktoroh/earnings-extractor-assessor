@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T05:15:01+08:00",
+  "fetched_at": "2026-10-31T05:42:22+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,146 +16,146 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-30",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1245 ms"
+      "detail": "HTTP 200, 60 KB in 550 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-30&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 511 ms"
+      "detail": "HTTP 200, 60 KB in 233 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-30&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 856 ms"
+      "detail": "HTTP 200, 60 KB in 378 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-30&from=300",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 578 ms"
+      "detail": "HTTP 200, 46 KB in 625 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 66 ms"
+      "detail": "HTTP 200, 148 KB in 75 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 25 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 22 ms"
+      "detail": "HTTP 200, 153 KB in 15 ms"
     },
     {
-      "name": "Kenvue Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1944048/000194404826000167/index.json",
+      "name": "IRADIMED CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 56 ms"
+      "detail": "HTTP 200, 1 KB in 258 ms"
     },
     {
-      "name": "Kenvue Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1944048/000194404826000167/0001944048-26-000167-index.htm",
+      "name": "IRADIMED CORP filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/0001628280-26-068454-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 133 ms"
+      "detail": "HTTP 200, 10 KB in 52 ms"
     },
     {
-      "name": "Kenvue Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1944048/000194404826000167/q326earningspressrelease.htm",
+      "name": "IRADIMED CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/irmd-2026930xexx991.htm",
       "ok": true,
-      "detail": "HTTP 200, 717 KB in 49 ms"
+      "detail": "HTTP 200, 155 KB in 47 ms"
     },
     {
       "name": "Aurinia Pharmaceuticals Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 51 ms"
+      "detail": "HTTP 200, 1 KB in 71 ms"
     },
     {
       "name": "Aurinia Pharmaceuticals Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/exhibit991_q32026earningsr.htm",
       "ok": true,
-      "detail": "HTTP 200, 160 KB in 77 ms"
+      "detail": "HTTP 200, 160 KB in 48 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 154 ms"
+      "detail": "HTTP 200, 3,173 KB in 68 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 192 ms"
+      "detail": "HTTP 200, 4,447 KB in 20 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 84 ms"
+      "detail": "HTTP 200, 2,737 KB in 76 ms"
     },
     {
-      "name": "Kenvue Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001944048.json",
+      "name": "IRADIMED CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001325618.json",
       "ok": true,
-      "detail": "HTTP 200, 1,014 KB in 295 ms"
+      "detail": "HTTP 200, 2,087 KB in 191 ms"
     },
     {
       "name": "Aurinia Pharmaceuticals Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001600620.json",
       "ok": true,
-      "detail": "HTTP 200, 1,350 KB in 107 ms"
+      "detail": "HTTP 200, 1,350 KB in 253 ms"
     },
     {
       "name": "CATHAY GENERAL BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000861842.json",
       "ok": true,
-      "detail": "HTTP 200, 4,966 KB in 586 ms"
+      "detail": "HTTP 200, 4,966 KB in 295 ms"
     },
     {
       "name": "Business First Bancshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001624322.json",
       "ok": true,
-      "detail": "HTTP 200, 2,837 KB in 130 ms"
+      "detail": "HTTP 200, 2,837 KB in 187 ms"
     },
     {
       "name": "Evercore Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001360901.json",
       "ok": true,
-      "detail": "HTTP 200, 3,957 KB in 354 ms"
+      "detail": "HTTP 200, 3,957 KB in 248 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,470 KB in 249 ms"
+      "detail": "HTTP 200, 2,470 KB in 189 ms"
     },
     {
       "name": "REPUBLIC SERVICES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001060391.json",
       "ok": true,
-      "detail": "HTTP 200, 4,831 KB in 110 ms"
+      "detail": "HTTP 200, 4,831 KB in 56 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000861842.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001060391.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001325618.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001360901.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001600620.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001624322.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001944048.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -163,10 +163,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
+    "www.sec.gov_Archives_edgar_data_1325618_000162828026068454_0001628280-26-068454-index.htm",
+    "www.sec.gov_Archives_edgar_data_1325618_000162828026068454_index.json",
+    "www.sec.gov_Archives_edgar_data_1325618_000162828026068454_irmd-2026930xexx991.htm",
     "www.sec.gov_Archives_edgar_data_1600620_000160062026000074_exhibit991_q32026earningsr.htm",
-    "www.sec.gov_Archives_edgar_data_1600620_000160062026000074_index.json",
-    "www.sec.gov_Archives_edgar_data_1944048_000194404826000167_0001944048-26-000167-index.htm",
-    "www.sec.gov_Archives_edgar_data_1944048_000194404826000167_index.json",
-    "www.sec.gov_Archives_edgar_data_1944048_000194404826000167_q326earningspressrelease.htm"
+    "www.sec.gov_Archives_edgar_data_1600620_000160062026000074_index.json"
   ]
 }
