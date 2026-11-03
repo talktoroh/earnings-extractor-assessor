@@ -1,0 +1,311 @@
+Company: Allison Transmission Holdings Inc (CIK 1411207)
+Accession: 0001193125-26-443664
+Results released: 2026-11-02
+Press release: https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/d187329dex991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/0001193125-26-443664-index.htm
+Saved: 2026-11-04T06:07:57+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 d187329dex991.htm EX-99.1
+Exhibit 99.1
+Allison Announces Third Quarter 2026 Results
+• | Raising revenue, earnings and cash flow guidance for the second consecutive quarter
+• | Net Sales of $1,534 million, up 121% year over year, including the addition of the Allison Off-Highway business unit acquired on January 1, 2026
+• | Record quarterly net sales of $881 million for the Allison Transmission business unit, up 27% year over year
+• | Net Income of $191 million, 12.5% of Net Sales
+• | Diluted EPS of $2.30, Adjusted Diluted EPS of $2.90, up 59% year over year
+• | Adjusted EBITDA of $400 million, up 56% year over year, 26.1% of Net Sales
+INDIANAPOLIS, November 2, 2026 – Allison Transmission Holdings Inc. (NYSE: ALSN), today reported third quarter net sales of $1,534 million with an adjusted EBITDA margin of 26.1 percent and net cash provided by operating activities of $343 million and raised full year 2026 guidance.
+David S. Graziosi, Chair, President and Chief Executive Officer of Allison commented, “Allison’s third quarter results reflect continued strength across the majority of our end markets, supported by disciplined execution that maximized the benefits of higher volumes. Within the Allison Transmission business unit, demand accelerated for medium-duty and Class 8 vocational trucks, driving record quarterly revenue of $462 million in the North America On-Highway end market. Within the Allison Off-Highway business unit, momentum in the Mining end market remained robust, while the Construction & Material Handling end market delivered year over year growth across all regions, exceeding our expectations entering 2026. As anticipated, third quarter performance reflects customary seasonality for the business unit, including the impact of European holidays, and represents the softest quarter of the year. Conversely, demand within the Industrial and Agriculture end markets remained subdued, as ongoing geopolitical developments continue to temper customer purchasing activity.”
+Graziosi continued, “Favorable end markets demand conditions and operational execution drove strong cash generation in the third quarter, resulting in adjusted free cash flow of $278 million, up 51 percent year over year. Year to date, this cash generation has supported the repayment of over $400 million of debt, advancing the Company toward our leverage target. In addition to debt reduction, Allison remains committed to returning capital to shareholders through our quarterly dividend and share repurchase program. During the third quarter, Allison paid $23 million for its quarterly dividend and repurchased $57 million of common stock.”
+Third quarter results include segment reporting for Allison Transmission, the Company’s legacy business, excluding certain costs now accounted for within the Allison Central Group, and Allison Off-Highway, the business acquired from Dana Incorporated on January 1, 2026. The Allison Central Group is a centralized cost center which includes certain functional costs that support the Company’s global operations.
+Allison Consolidated Third Quarter Financial Results
+Net sales for the quarter were $1,534 million, including the addition of $653 million in net sales for the Allison Off-Highway business unit.
+Gross profit for the quarter was $505 million, an increase of $175 million from $330 million for the same period in 2025. The increase was principally driven by the addition of the Allison Off-Highway business unit and a $77 million increase in the Allison Transmission business unit. Gross margin for the quarter was 33 percent.
+Selling, general and administrative expenses for the quarter were $142 million, an increase of $59 million from $83 million for the same period in 2025. The increase was principally driven by the addition of the Allison Off-Highway business unit. Selling general and administrative expenses for the third quarter include $4 million of one-time acquisition-related expenses.
+Engineering – research and development expenses for the quarter were $59 million, an increase of $16 million from $43 million for the same period in 2025. The increase was principally driven by the addition of the Allison Off-Highway business unit.
+Net income for the quarter was $191 million, an increase of $54 million from $137 million for the same period in 2025. The increase was principally driven by increased gross profit from the addition of the Allison Off-Highway business unit, higher gross profit in the Allison Transmission business unit and lower acquisition-related expenses. The year over year increase in net income was partially offset by higher interest expense, net, a $17 million charge attributable to optimization activities within the Allison Off-Highway business unit and higher income tax expense.
+Diluted EPS for the third quarter was $2.30, a year over year increase of 41 percent.
+Excluding the effect of certain non-cash, non-recurring, infrequent or unusual items, including the costs associated with the acquisition of the Allison Off-Highway business unit, adjusted net income, a non-GAAP financial measure, was $241 million for the third quarter and adjusted diluted EPS was $2.90, a year over year increase of 59 percent.
+Adjusted EBITDA, a non-GAAP financial measure, was $400 million for the third quarter, an increase of $144 million from $256 million for the same period in 2025. Adjusted EBITDA margin for the quarter was 26.1 percent.
+Net cash provided by operating activities for the quarter was $343 million, a year over year increase of 50 percent. Adjusted free cash flow, a non-GAAP financial measure, for the quarter was $278 million, a year over year increase of 51 percent.
+Allison ended the third quarter with nearly $500 million of cash and cash equivalents and $996 million of available borrowing capacity under its revolving credit facility. Allison ended the third quarter with total debt of $4,012 million and net debt of $3,515 million.
+During the third quarter, Allison paid a quarterly dividend of $0.29 per share and repurchased $57 million of its common stock, with $1,068 million of authorization remaining under its stock repurchase program.
+Allison Transmission Third Quarter Financial Highlights
+Net sales for the quarter increased 27 percent from the same period in 2025, leading to record quarterly net sales of $881 million.
+Gross profit for the quarter was $407 million, an increase of $77 million from $330 million for the same period in 2025. The increase was principally driven by higher volumes for medium-duty and Class 8 vocational trucks and price increases on certain products, partially offset by unfavorable direct material costs and higher manufacturing expense. Gross margin for the third quarter was 46 percent.
+Selling, general and administrative expenses for the quarter were $62 million, an increase of $7 million from $55 million for the same period in 2025 when adjusting for allocations of certain selling, general and administrative expenses to the Allison Central Group. The increase was principally driven by higher incentive compensation expense.
+Engineering – research and development expenses for the quarter were $45 million, an increase of $2 million from $43 million for the same period in 2025. The increase was principally driven by higher incentive compensation expense, partially offset by reduced product initiatives spending.
+Segment operating profit was $300 million, or 34 percent of net sales, for the third quarter. Adjusted EBITDA, a non-GAAP financial measure, was $333 million for the third quarter. Adjusted EBITDA margin for the quarter was 38 percent.
+Allison Off-Highway Third Quarter Financial Highlights
+Net sales for the quarter were $653 million.
+Gross profit for the quarter was $98 million, representing 15 percent of net sales.
+Selling, general and administrative expenses for the quarter were $52 million. Engineering – research and development expenses for the quarter were $14 million.
+Segment operating profit was $32 million, or 5 percent of net sales, for the third quarter. Adjusted EBITDA, a non-GAAP financial measure, was $83 million for the third quarter. Adjusted EBITDA margin for the quarter was 13 percent.
+Full Year 2026 Guidance Update
+Given our third quarter results and improved conditions across the majority of our key end markets, we are increasing our full year 2026 guidance provided to the market on August 3, 2026. Allison expects:
+• | Consolidated net sales in the range of $5,975 to $6,075 million
+• | Consolidated net income in the range of $645 to $685 million, subject to the completion of purchase price accounting associated with the acquisition of the Allison Off-Highway business unit
+• | Net income guidance includes approximately $125 million of one-time, pre-tax expenses associated with the separation, integration and restructuring of the Allison Off-Highway business unit. This includes restructuring charges related to manufacturing footprint optimization in our European operations and approximately $65 million of expenses related to the stepped-up basis in inventory. Including one-time costs, the Allison Off-Highway acquisition is expected to be accretive to net income and diluted EPS in 2026
+• | Consolidated adjusted EBITDA in the range of $1,530 to $1,580 million
+• | Consolidated net cash provided by operating activities in the range of $1,110 to $1,140 million, including approximately $60 million of one-time cash outlays associated with the acquisition of the Allison Off-Highway business unit
+• | Consolidated capital expenditures in the range of $240 to $260 million, including one-time separation and integration capital expenditures of approximately $20 million
+• | Consolidated adjusted free cash flow in the range of $850 to $900 million
+Conference Call and Webcast
+The Company will host a conference call at 5:00 p.m. EST on Monday, November 2, 2026 to discuss its third quarter 2026 results. The dial-in phone number for the conference call is +1-877-425-9470 and the international dial-in number is +1-201-389-0878. A live webcast of the conference call will also be available online at https://ir.allisontransmission.com.
+For those unable to participate in the conference call, a replay will be available from 9:00 p.m. EST on November 2 until 11:59 p.m. EST on November 16. The replay dial-in phone number is +1-844-512-2921 and the international replay dial-in number is +1-412-317-6671. The replay passcode is 13763316.
+About Allison
+Allison (NYSE: ALSN) is a global leader in high-performance mobility and work solutions built for the needs of the modern industrial world. Allison operates through two business units: Allison Transmission and Allison Off-Highway Drive & Motion Systems. Headquartered in Indianapolis, Indiana, USA, the Company manufactures solutions which offer industry-leading value propositions across vital sectors such as infrastructure, mining, energy, agriculture, construction, transportation and national security. For over 110 years, Allison has been recognized as a reliable partner of choice, keeping essential industries moving anytime, in over 150 countries around the world. For more information, visit https://allisontransmission.com.
+Forward-Looking Statements
+This press release contains forward-looking statements. The words “believe,” “expect,” “anticipate,” “intend,” “estimate” and other expressions that are predictions of or indicate future events and trends and that do not relate to historical matters identify forward-looking statements. You should not place undue reliance on these forward-looking statements. Although forward-looking statements reflect management’s good faith beliefs, reliance should not be placed on forward-looking statements because they involve known and unknown risks, uncertainties and other factors, which may cause actual results, performance or achievements to differ materially from anticipated future results, performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements speak only as of the date the statements are made. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to: the significant costs we are expected to incur in connection with the integration of the Off-Highway Drive & Motion Systems business of Dana Incorporated (now referred to as the “Allison Off-Highway Business”); our ability to successfully integrate the Allison Off-Highway Business and its operations in the expected time frame; our ability to realize all of the anticipated benefits from the integration of the Allison Off-Highway Business and its operations and to effectively manage our expanded operations; our participation in markets that are competitive; our ability to prepare for, respond to and successfully achieve our objectives relating to technological and market developments, competitive threats and changing customer needs, including with respect to electric hybrid and fully electric commercial vehicles; increases in cost, disruption of supply or shortage of labor, freight, raw materials, energy or components used to manufacture or transport our products or those of our customers or suppliers, including as a result of geopolitical risks, natural disasters, extreme weather events, wars and public health crises such as pandemics; global economic volatility; general economic and industry conditions, including the risk of prolonged inflation and recession; labor strikes, work stoppages or similar labor disputes, which could significantly disrupt our operations or those of our principal customers or suppliers; the highly cyclical industries in which certain of our end users operate; uncertainty in the global regulatory and business environments in which we operate; the concentration of our net sales in our top five customers and the loss of any one of these customers; cybersecurity risks to our operational systems, security systems or infrastructure owned by us or our third-party vendors and suppliers; the failure of markets outside North America to increase adoption of fully automatic transmissions; the success of our research and development efforts, the outcome of which is uncertain; U.S. and foreign defense spending; risks associated with our international operations, including acts of war and increased trade protectionism and tariffs; the discovery of defects in our products, resulting in delays in new model launches, recall campaigns and/or increased warranty costs and reduction in future sales or damage to our brand and reputation; our ability to identify, consummate and effectively integrate acquisitions and collaborations; and risks related to our indebtedness.
+Use of Non-GAAP Financial Measures
+This press release contains information about Allison’s financial results and forward-looking estimates of financial results that are not presented in accordance with accounting principles generally accepted in the United States (“GAAP”). Such non-GAAP financial measures are reconciled to their most directly comparable GAAP financial measures at the end of this press release. Non-GAAP financial measures should not be considered in isolation or as a substitute for our reported results prepared in accordance with GAAP and, as calculated, may not be comparable to other similarly titled measures of other companies.
+We use adjusted earnings before interest, taxes, depreciation, and amortization (“EBITDA”) and adjusted EBITDA as a percent of net sales (“adjusted EBITDA margin”) to measure our operating profitability. We believe that adjusted EBITDA and adjusted EBITDA margin provide management, investors and creditors with useful measures of the operational results of our business and increase the period-to-period comparability of our operating profitability. Adjusted EBITDA margin is also used in the calculation of management’s incentive compensation program. The most directly comparable GAAP measure to adjusted EBITDA and adjusted EBITDA margin is net income or segment operating profit (loss) in the case of our segments and net income as a percent of net sales (“net income margin”) or segment operating profit (loss) as a percent of net sales in the case of our segments, respectively. Adjusted EBITDA is calculated as earnings before interest expense, net, income tax expense, amortization of intangible assets, depreciation of property, plant and equipment and other adjustments as defined by the Second Amended and Restated Credit Agreement dated as of March 29, 2019, as amended, governing Allison Transmission, Inc.’s term loans and revolving credit facility. Adjusted EBITDA margin is calculated as adjusted EBITDA divided by net sales.
+In addition, we believe adjusted net income, adjusted basic earnings per share attributable to common stockholders (“adjusted basic EPS”) and adjusted diluted earnings per share attributable to common stockholders (“adjusted diluted EPS”) provide management, investors and creditors with useful measures of our core business performance and trends and increase the period-to-period comparability of our results of operations. The most directly comparable GAAP measure to adjusted net income, adjusted basic EPS and adjusted diluted EPS is net income, basic earnings per share attributable to common stockholders (“basic EPS”) and diluted earnings per share attributable to common stockholders (“diluted EPS”), respectively. Adjusted net income is calculated as net income excluding the effect of certain non-cash, non-recurring, infrequent or unusual items such as: amortization related to acquired intangible assets, depreciation of the stepped-up basis in property, plant and equipment related to acquired assets, stepped-up basis in acquired inventory, stock-based compensation expense, acquisition-related expenses, impairment charges, other one-off adjustments and the tax effect of the adjustments. Adjusted basic EPS is calculated by dividing adjusted net income by the weighted average shares of common stock outstanding and adjusted diluted EPS is calculated by dividing adjusted net income by the diluted weighted average shares of common stock outstanding.
+We use adjusted free cash flow to evaluate the amount of cash generated by our business that, after the capital investment needed to maintain and grow our business and certain mandatory debt service requirements, can be used for repayment of debt, stockholder distributions and strategic opportunities, including investing in our business. We believe that adjusted free cash flow enhances the understanding of the cash flows of our business for management, investors and creditors. Adjusted free cash flow is also used in the calculation of management’s incentive compensation program. The most directly comparable GAAP measure to adjusted free cash flow is net cash provided by operating activities. Adjusted free cash flow is calculated as net cash provided by operating activities after cash used for additions of long-lived assets.
+Attachments
+• | Condensed Consolidated Statements of Operations
+• | Condensed Consolidated Balance Sheets
+• | Condensed Consolidated Statements of Cash Flows
+• | Reconciliations of GAAP to Non-GAAP Financial Measures
+• | Reconciliation of GAAP to Non-GAAP Financial Measures for Full Year Guidance
+Contacts
+Jackie Bolles
+Executive Director, Treasury and Investor Relations
+jacalyn.bolles@allisontransmission.com
+(317) 242-7073
+Media Relations
+media@allisontransmission.com
+(317) 694-2065
+Allison Transmission Holdings, Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited, dollars in millions, except per share data)
+Allison Transmission | Allison Off-Highway | Central Group Function | Consolidated
+Three months ended September 30, | Three months ended September 30, | Three months ended September 30, | Three months ended September 30,
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025
+Net sales | $ | 881 | $ | 693 | $ | 653 | $ | — | $ | — | $ | — | $ | 1,534 | $ | 693
+Cost of sales | 474 | 363 | 555 | — | — | — | 1,029 | 363
+Gross profit | 407 | 330 | 98 | — | — | — | 505 | 330
+Selling, general and administrative | 62 | 55 | 52 | — | 28 | 28 | 142 | 83
+Engineering - research and development | 45 | 43 | 14 | — | — | — | 59 | 43
+Operating income (loss) | $ | 300 | $ | 232 | $ | 32 | $ | — | $ | (28 | ) | $ | (28 | ) | 304 | 204
+Interest expense, net | (51 | ) | (24 | )
+Other (expense) income, net | (15 | ) | 2
+Income before income taxes | 238 | 182
+Income tax expense | (47 | ) | (45 | )
+Net income | $ | 191 | $ | 137
+Basic earnings per share attributable to common stockholders | $ | 2.30 | $ | 1.63
+Diluted earnings per share attributable to common stockholders | $ | 2.30 | $ | 1.63
+Allison Transmission | Allison Off-Highway | Central Group Function | Consolidated
+Nine months ended September 30, | Nine months ended September 30, | Nine months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025
+Net sales | $ | 2,474 | $ | 2,273 | $ | 2,032 | $ | — | $ | — | $ | — | $ | 4,506 | $ | 2,273
+Cost of sales | 1,314 | 1,162 | 1,766 | — | — | — | 3,080 | 1,162
+Gross profit | 1,160 | 1,111 | 266 | — | — | — | 1,426 | 1,111
+Selling, general and administrative | 202 | 192 | 164 | — | 101 | 82 | 467 | 274
+Engineering - research and development | 125 | 128 | 44 | — | — | — | 169 | 128
+Operating income (loss) | $ | 833 | $ | 791 | $ | 58 | $ | — | $ | (101 | ) | $ | (82 | ) | 790 | 709
+Interest expense, net | (166 | ) | (67 | )
+Other (expense) income, net | (26 | ) | 15
+Income before income taxes | 598 | 657
+Income tax expense | (114 | ) | (133 | )
+Net income | $ | 484 | $ | 524
+Basic earnings per share attributable to common stockholders | $ | 5.83 | $ | 6.24
+Diluted earnings per share attributable to common stockholders | $ | 5.76 | $ | 6.16
+Allison Transmission Holdings, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited, dollars in millions)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current Assets
+Cash and cash equivalents | $ | 497 | $ | 1,495
+Accounts receivable, net | 882 | 333
+Inventories | 857 | 316
+Other current assets | 258 | 89
+Total Current Assets | 2,494 | 2,233
+Property, plant and equipment, net | 1,653 | 862
+Intangible assets, net | 1,582 | 794
+Goodwill | 2,828 | 2,075
+Other non-current assets | 232 | 118
+TOTAL ASSETS | $ | 8,789 | $ | 6,082
+LIABILITIES
+Current Liabilities
+Accounts payable | $ | 803 | $ | 190
+Product warranty liability | 61 | 34
+Current portion of long-term debt | 20 | 5
+Deferred revenue | 74 | 34
+Other current liabilities | 454 | 197
+Total Current Liabilities | 1,412 | 460
+Product warranty liability | 66 | 50
+Deferred revenue | 105 | 103
+Long-term debt | 3,992 | 2,885
+Deferred income taxes | 828 | 557
+Other non-current liabilities | 306 | 160
+TOTAL LIABILITIES | 6,709 | 4,215
+TOTAL STOCKHOLDERS’ EQUITY | 2,080 | 1,867
+TOTAL LIABILITIES & STOCKHOLDERS’ EQUITY | $ | 8,789 | $ | 6,082
+Allison Transmission Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited, dollars in millions)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Net cash provided by operating activities | $ | 343 | $ | 228 | $ | 811 | $ | 593
+Net cash used for investing activities (a) (b) | (63 | ) | (49 | ) | (2,679 | ) | (108 | )
+Net cash (used for) provided by financing activities | (182 | ) | (52 | ) | 874 | (368 | )
+Effect of exchange rate changes on cash | — | (3 | ) | (4 | ) | 4
+Net increase (decrease) in cash and cash equivalents | 98 | 124 | (998 | ) | 121
+Cash and cash equivalents at beginning of period | 399 | 778 | 1,495 | 781
+Cash and cash equivalents at end of period | $ | 497 | $ | 902 | $ | 497 | $ | 902
+Supplemental disclosures:
+Interest paid | $ | (45 | ) | $ | (27 | ) | $ | (152 | ) | $ | (87 | )
+Income taxes paid | $ | (48 | ) | $ | (6 | ) | $ | (143 | ) | $ | (101 | )
+Interest received from interest rate swaps | $ | — | $ | 2 | $ | — | $ | 6
+(a) Business acquisition, net of cash acquired | $ | — | $ | — | $ | (2,529 | ) | $ | —
+(b) Additions of long-lived assets | $ | (65 | ) | $ | (44 | ) | $ | (149 | ) | $ | (101 | )
+Allison Transmission Holdings, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures
+(Unaudited, dollars in millions)
+Three months ended | Nine months ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net income (GAAP) | $ | 191 | $ | 137 | $ | 484 | $ | 524
+plus:
+Interest expense, net | 51 | 24 | 166 | 67
+Depreciation of property, plant and equipment | 46 | 30 | 136 | 87
+Income tax expense | 47 | 45 | 114 | 133
+Amortization expense | 22 | 2 | 66 | 5
+Recognition of the stepped-up basis in inventory (a) | 1 | — | 64 | —
+Depreciation of the stepped up basis in property, plant and equipment (b) | 10 | — | 41 | —
+Acquisition-related expenses (c) | 4 | 14 | 30 | 38
+Stock-based compensation expense (d) | 8 | 6 | 25 | 20
+Restructuring charges (e) | 17 | — | 17 | —
+Unrealized loss (gain) on marketable securities (f) | 2 | (3 | ) | 11 | (11 | )
+Unrealized loss on foreign exchange (g) | — | — | 3 | —
+Loss associated with impairment of long-lived assets (h) | — | — | 2 | —
+Other (i) | 1 | 1 | 7 | 2
+Adjusted EBITDA (Non-GAAP) | $ | 400 | $ | 256 | $ | 1,166 | $ | 865
+Net sales (GAAP) | $ | 1,534 | $ | 693 | $ | 4,506 | $ | 2,273
+Net income as a percent of Net sales (GAAP) | 12.5 | % | 19.8 | % | 10.7 | % | 23.1 | %
+Adjusted EBITDA as a percent of Net sales (Non-GAAP) | 26.1 | % | 36.9 | % | 25.9 | % | 38.1 | %
+Net cash provided by operating activities (GAAP) | $ | 343 | $ | 228 | $ | 811 | $ | 593
+Deductions to reconcile to Adjusted free cash flow:
+Additions of long-lived assets | (65 | ) | (44 | ) | (149 | ) | (101 | )
+Adjusted free cash flow (Non-GAAP) | $ | 278 | $ | 184 | $ | 662 | $ | 492
+(a) | Represents the recognition of the stepped-up basis in inventory related to our acquisition of the Dana Off-Highway business (the “Acquisition”) (recorded in Cost of sales).
+(b) | Represents depreciation of the stepped-up basis in property, plant and equipment related to the Acquisition (recorded in Cost of sales).
+(c) | Represents expenses (recorded in Selling, general and administrative), primarily consulting and legal fees, related to the Acquisition.
+(d) | Represents stock-based compensation expense (recorded in Selling, general and administrative).
+(e) | Represents restructuring charges (recorded in Other (expense) income, net) related to Allison Off-Highway footprint optimization activities.
+(f) | Represents unrealized losses (gains) (recorded in Other (expense) income, net) related to an investment in the common stock of Jing-Jin Electric Technologies Co. Ltd.
+(g) | Represents losses (recorded in Other (expense) income, net) on intercompany financing transactions.
+(h) | Represents a charge associated with the impairment of long-lived assets related to the production of certain electrified products.
+(i) | Represents other adjustments as defined by the Second Amended and Restated Credit Agreement dated as of March 29, 2019 as amended.
+Allison Transmission Holdings, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures
+(Unaudited, dollars in millions)
+Allison Transmission | Allison Off-Highway | Central Group Function | Consolidated
+Three months ended | Three months ended | Three months ended | Three months ended
+September 30, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2026 | 2025
+Segment Operating Profit/(Loss) (GAAP) | $ | 300 | $ | 32 | $ | (28 | ) | $ | 304 | $ | 204
+plus:
+Depreciation of property, plant and equipment | 31 | 15 | — | 46 | 30
+Amortization expense | 1 | 21 | — | 22 | 2
+Depreciation of the stepped up basis in property, plant and equipment (a) | — | 10 | — | 10 | —
+Stock-based compensation expense (b) | — | — | 8 | 8 | 6
+Acquisition-related expenses (c) | — | — | 4 | 4 | 14
+Recognition of the stepped-up basis in inventory (d) | — | 1 | — | 1 | —
+Other (e) | 1 | 4 | — | 5 | —
+Adjusted EBITDA (Non-GAAP) | $ | 333 | $ | 83 | $ | (16 | ) | $ | 400 | $ | 256
+Net sales (GAAP) | $ | 881 | $ | 653 | 1,534 | $ | 693
+Segment Operating Profit/(Loss) as a percent of Net sales (GAAP) | 34.1 | % | 4.9 | % | — | 19.8 | % | 29.4 | %
+Adjusted EBITDA as a percent of Net sales (Non-GAAP) | 37.8 | % | 12.7 | % | — | 26.1 | % | 36.9 | %
+(a) | Represents depreciation of the stepped-up basis in property, plant and equipment related to the Acquisition (recorded in Cost of sales).
+(b) | Represents stock-based compensation expense (recorded in Selling, general and administrative).
+(c) | Represents expenses (recorded in Selling, general and administrative), primarily consulting and legal fees, related to the Acquisition.
+(d) | Represents the recognition of the stepped-up basis in inventory related to the Acquisition (recorded in Cost of sales).
+(e) | Represents gains and losses (recorded in Other (expense) income, net) to reconcile to Adjusted EBITDA.
+Allison Transmission | Allison Off-Highway | Central Group Function | Consolidated
+Nine months ended | Nine months ended | Nine months ended | Nine months ended
+September 30, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2026 | 2025
+Segment Operating Profit/(Loss) (GAAP) | $ | 833 | $ | 58 | $ | (101 | ) | $ | 790 | $ | 709
+plus:
+Depreciation of property, plant and equipment | 92 | 44 | — | 136 | 87
+Amortization expense | 2 | 64 | — | 66 | 5
+Recognition of the stepped-up basis in inventory (a) | — | 64 | — | 64 | —
+Depreciation of the stepped up basis in property, plant and equipment (b) | — | 41 | — | 41 | —
+Acquisition-related expenses (c) | — | — | 30 | 30 | 38
+Stock-based compensation expense (d) | — | — | 25 | 25 | 20
+Loss associated with the impairment of long-lived assets (e) | 2 | — | — | 2 | —
+Other (f) | (2 | ) | 14 | — | 12 | 6
+Adjusted EBITDA (Non-GAAP) | $ | 927 | $ | 285 | $ | (46 | ) | $ | 1,166 | $ | 865
+Net sales (GAAP) | $ | 2,474 | $ | 2,032 | $ | — | 4,506 | $ | 2,273
+Segment Operating Profit/(Loss) as a percent of Net sales (GAAP) | 33.7 | % | 2.9 | % | — | 17.5 | % | 31.2 | %
+Adjusted EBITDA as a percent of Net sales (Non-GAAP) | 37.5 | % | 14.0 | % | — | 25.9 | % | 38.1 | %
+(a) | Represents the recognition of the stepped-up basis in inventory related to the Acquisition (recorded in Cost of sales).
+(b) | Represents depreciation of the stepped-up basis in property, plant and equipment related to the Acquisition (recorded in Cost of sales).
+(c) | Represents expenses (recorded in Selling, general and administrative), primarily consulting and legal fees, related to the Acquisition.
+(d) | Represents stock-based compensation expense (recorded in Selling, general and administrative).
+(e) | Represents a charge associated with the impairment of long-lived assets related to the production of certain electrified products.
+(f) | Represents gains and losses (recorded in Other (expense) income, net) to reconcile to Adjusted EBITDA.
+Allison Transmission Holdings, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures
+(Unaudited, dollars in millions)
+Three months ended | Nine months ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net income (GAAP) | $ | 191 | $ | 137 | $ | 484 | $ | 524
+plus:
+Amortization expense | 22 | 2 | 66 | 5
+Recognition of the stepped-up basis in inventory (a) | 1 | — | 64 | —
+Depreciation of the stepped up basis in property, plant and equipment (b) | 10 | — | 41 | —
+Acquisition-related expenses (c) | 4 | 14 | 30 | 38
+Stock-based compensation expense (d) | 8 | 6 | 25 | 20
+Restructuring charges (e) | 17 | — | 17 | —
+Loss associated with impairment of long-lived assets (f) | — | — | 2 | —
+Income tax effect on adjustments (g) | (12 | ) | (6 | ) | (43 | ) | (14 | )
+Adjusted net income (Non-GAAP) | $ | 241 | $ | 153 | $ | 686 | $ | 573
+Basic EPS (GAAP) | $ | 2.30 | $ | 1.63 | $ | 5.83 | $ | 6.24
+Diluted EPS (GAAP) | $ | 2.30 | $ | 1.63 | $ | 5.76 | $ | 6.16
+Adjusted basic EPS (Non-GAAP) (h) | $ | 2.90 | $ | 1.82 | $ | 8.27 | $ | 6.82
+Adjusted diluted EPS (Non-GAAP) (h) | $ | 2.90 | $ | 1.82 | $ | 8.17 | $ | 6.74
+(a) | Represents the recognition of the stepped-up basis in inventory related to the Acquisition (recorded in Cost of sales).
+(b) | Represents depreciation of the stepped-up basis in property, plant and equipment related to the Acquisition (recorded in Cost of sales).
+(c) | Represents expenses (recorded in Selling, general and administrative), primarily consulting and legal fees, related to the Acquisition
+(d) | Represents stock-based compensation expense (recorded in Selling, general and administrative).
+(e) | Represents restructuring charges (recorded in Other (expense) income, net) related to Allison Off-Highway footprint optimization activities.
+(f) | Represents a charge associated with the impairment of long-lived assets related to the production of certain electrified products.
+(g) | Represents the income tax effect on the adjustments calculated by applying our effective tax rate.
+(h) | Adjusted basic EPS and Adjusted diluted EPS are Non-GAAP financial measures and are defined as Adjusted net income divided by the weighted average common shares outstanding and diluted weighted average shares outstanding, respectively, for the period. The weighted-average common shares outstanding and diluted weighted-average common shares outstanding are the same as those used in calculating the comparable GAAP measures.
+Allison Transmission Holdings, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures for Full Year Guidance
+(Unaudited, dollars in millions)
+Guidance
+Year Ending December 31, 2026
+Low | High
+Net income (GAAP) | $ | 645 | $ | 685
+plus:
+Income tax expense | 135 | 185
+Depreciation of property, plant and equipment (a) | 250 | 240
+Interest expense, net | 225 | 215
+Amortization of intangible assets | 85 | 85
+Recognition of the stepped-up basis in inventory (b) | 65 | 65
+Acquisition-related expenses (c) | 45 | 35
+Stock-based compensation expense (d) | 35 | 35
+Restructuring & one-time expenses (e) | 25 | 20
+Unrealized loss on marketable securities (f) | 10 | 10
+Other (g) | 10 | 5
+Adjusted EBITDA (Non-GAAP) | $ | 1,530 | $ | 1,580
+Net cash provided by Operating activities (GAAP) | $ | 1,110 | $ | 1,140
+Deductions to reconcile to Adjusted free cash flow:
+Additions of long-lived assets (h) | $ | (260 | ) | $ | (240 | )
+Adjusted free cash flow (Non-GAAP) | $ | 850 | $ | 900
+(a) | Includes depreciation of the stepped-up basis in property, plant and equipment related to the Acquisition (recorded in Cost of sales).
+(b) | Represents the recognition of the stepped-up basis in inventory related to the Acquisition (recorded in Cost of sales).
+(c) | Represents expenses (recorded in Selling, general and administrative), primarily consulting and legal fees, related to the Acquisition.
+(d) | Represents stock-based compensation expense (recorded in Cost of sales, Selling, general and administrative, and Engineering — research and development).
+(e) | Includes one-time restructuring costs and minority interest.
+(f) | Represents gains (recorded in Other (expense) income, net) related to an investment in common stock of Jing-Jin Electric Technologies Co. Ltd.
+(g) | Represents other adjustments as defined by the Second Amended and Restated Credit Agreement dated as of March 29, 2019 as amended.
+(h) | Includes one-time Acquisition-related investments.

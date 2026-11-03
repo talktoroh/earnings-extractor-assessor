@@ -993,5 +993,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/exhibit991_q32026earningsr.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/0001600620-26-000074-index.htm",
     "saved_at": "2026-10-31T06:08:28+08:00"
+  },
+  {
+    "cik": "1411207",
+    "company": "Allison Transmission Holdings Inc",
+    "accession": "0001193125-26-443664",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1534,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 881 | $ | 693 | $ | 653 | $ | — | $ | — | $ | — | $ | 1,534"
+      },
+      "operating_income": {
+        "value": 304,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | $ | 300 | $ | 232 | $ | 32 | $ | — | $ | (28 | ) | $ | (28 | ) | 304"
+      },
+      "net_income": {
+        "value": 191,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 191 | $ | 137"
+      },
+      "diluted_eps": {
+        "value": 2.3,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share attributable to common stockholders | $ | 2.30 | $ | 1.63"
+      }
+    },
+    "guidance": {
+      "text": "Allison raised full year 2026 guidance, expecting consolidated net sales of $5,975 to $6,075 million.",
+      "quote": "Consolidated net sales in the range of $5,975 to $6,075 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose strongly, with the Allison Transmission unit at a record.",
+        "quote": "Record quarterly net sales of $881 million for the Allison Transmission business unit, up 27% year over year"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management raised full year 2026 guidance after a strong quarter.",
+        "quote": "Raising revenue, earnings and cash flow guidance for the second consecutive quarter"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income was 12.5% of net sales.",
+        "quote": "Net Income of $191 million, 12.5% of Net Sales"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites continued strength across most end markets and the release raises full year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1411207-0001193125-26-443664.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/d187329dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/0001193125-26-443664-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
+  },
+  {
+    "cik": "1587732",
+    "company": "ONE Gas, Inc.",
+    "accession": "0001587732-26-000050",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 391.313,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 391,313 | $ | 379,125"
+      },
+      "operating_income": {
+        "value": 77.381,
+        "unit": "USD millions",
+        "quote": "Operating income | 77,381 | 65,381"
+      },
+      "net_income": {
+        "value": 31.223,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 31,223 | $ | 26,466"
+      },
+      "diluted_eps": {
+        "value": 0.49,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.49 | $ | 0.44"
+      }
+    },
+    "guidance": {
+      "text": "ONE Gas raised its 2026 adjusted earnings per diluted share guidance to $4.95 to $5.01.",
+      "quote": "The Company raised its 2026 adjusted earnings per diluted share guidance to a range of $4.95 to $5.01, from a previous range of $4.89 to $4.95"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says results were positive and the 2026 outlook was raised for the second time this year.",
+        "quote": "In the third quarter, we again delivered positive results and, for the second time this year, raise our 2026 financial outlook"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose, mainly on new rates.",
+        "quote": "ONE Gas reported operating income of $77.4 million in the third quarter, compared with $65.4 million in the third quarter 2025"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO expects average 2026 customer bills to be flat to last year.",
+        "quote": "we expect our average 2026 customer bills to remain flat to last year"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports positive results, a second raise of the outlook and continued opportunity."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1587732-0001587732-26-000050.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000050/ogskmmddyyyearningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000050/0001587732-26-000050-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
   }
 ]
