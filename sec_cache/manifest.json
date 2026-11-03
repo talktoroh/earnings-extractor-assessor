@@ -1,82 +1,130 @@
 {
-  "fetched_at": "2026-11-02T05:42:44+08:00",
+  "fetched_at": "2026-11-03T10:53:32+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-10-31",
-    "end": "2026-11-01",
+    "start": "2026-11-01",
+    "end": "2026-11-02",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 11,
-  "answered": 11,
+  "requests": 19,
+  "answered": 19,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-31&enddt=2026-11-01",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-01&enddt=2026-11-02",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 553 ms"
+      "detail": "HTTP 200, 60 KB in 929 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-01&enddt=2026-11-02&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 28 KB in 536 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 169 ms"
+      "detail": "HTTP 200, 149 KB in 51 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 85 ms"
+      "detail": "HTTP 200, 156 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 79 ms"
+      "detail": "HTTP 200, 154 KB in 22 ms"
+    },
+    {
+      "name": "Allison Transmission Holdings Inc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 3 KB in 78 ms"
+    },
+    {
+      "name": "Allison Transmission Holdings Inc press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526443664/d187329dex991.htm",
+      "ok": true,
+      "detail": "HTTP 200, 279 KB in 61 ms"
+    },
+    {
+      "name": "ONE Gas, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000050/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 47 ms"
+    },
+    {
+      "name": "ONE Gas, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000050/0001587732-26-000050-index.htm",
+      "ok": true,
+      "detail": "HTTP 200, 10 KB in 49 ms"
+    },
+    {
+      "name": "ONE Gas, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000050/ogskmmddyyyearningsrelease.htm",
+      "ok": true,
+      "detail": "HTTP 200, 389 KB in 63 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 180 ms"
+      "detail": "HTTP 200, 3,173 KB in 94 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 251 ms"
+      "detail": "HTTP 200, 4,447 KB in 79 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 1015 ms"
+      "detail": "HTTP 200, 2,743 KB in 89 ms"
+    },
+    {
+      "name": "Allison Transmission Holdings Inc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001411207.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,066 KB in 2099 ms"
+    },
+    {
+      "name": "ONE Gas, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001587732.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,369 KB in 1954 ms"
     },
     {
       "name": "CATHAY GENERAL BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000861842.json",
       "ok": true,
-      "detail": "HTTP 200, 4,966 KB in 1404 ms"
+      "detail": "HTTP 200, 4,966 KB in 1288 ms"
     },
     {
       "name": "Business First Bancshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001624322.json",
       "ok": true,
-      "detail": "HTTP 200, 2,837 KB in 1146 ms"
+      "detail": "HTTP 200, 2,837 KB in 1671 ms"
     },
     {
       "name": "Evercore Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001360901.json",
       "ok": true,
-      "detail": "HTTP 200, 3,957 KB in 293 ms"
+      "detail": "HTTP 200, 3,957 KB in 2293 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,470 KB in 1393 ms"
+      "detail": "HTTP 200, 2,470 KB in 525 ms"
     }
   ],
   "files": [
@@ -84,12 +132,20 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001360901.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001411207.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001587732.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001624322.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_1411207_000119312526443664_d187329dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1411207_000119312526443664_index.json",
+    "www.sec.gov_Archives_edgar_data_1587732_000158773226000050_0001587732-26-000050-index.htm",
+    "www.sec.gov_Archives_edgar_data_1587732_000158773226000050_index.json",
+    "www.sec.gov_Archives_edgar_data_1587732_000158773226000050_ogskmmddyyyearningsrelease.htm"
   ]
 }
