@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:18:52+08:00",
+  "fetched_at": "2026-11-04T09:38:06+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,153 +9,159 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 22,
-  "answered": 22,
+  "requests": 23,
+  "answered": 23,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 79 ms"
+      "detail": "HTTP 200, 60 KB in 132 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 50 ms"
+      "detail": "HTTP 200, 59 KB in 78 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 41 ms"
+      "detail": "HTTP 200, 60 KB in 53 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=300",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 47 ms"
+      "detail": "HTTP 200, 44 KB in 45 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 139 ms"
+      "detail": "HTTP 200, 148 KB in 259 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 73 ms"
+      "detail": "HTTP 200, 156 KB in 100 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 40 ms"
+      "detail": "HTTP 200, 154 KB in 95 ms"
     },
     {
-      "name": "HENRY SCHEIN INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1000228/000100022826000059/index.json",
+      "name": "Huron Consulting Group Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026069509/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 51 ms"
+      "detail": "HTTP 200, 1 KB in 128 ms"
     },
     {
-      "name": "HENRY SCHEIN INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1000228/000100022826000059/exhibit991.htm",
+      "name": "Huron Consulting Group Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026069509/0001628280-26-069509-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 336 KB in 59 ms"
+      "detail": "HTTP 200, 10 KB in 73 ms"
     },
     {
-      "name": "Beam Therapeutics Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/index.json",
+      "name": "Huron Consulting Group Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026069509/hurn2026930exh991.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 32 ms"
+      "detail": "HTTP 200, 435 KB in 217 ms"
     },
     {
-      "name": "Beam Therapeutics Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-ex99_1.htm",
+      "name": "Limbach Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1606163/000162828026069582/index.json",
       "ok": true,
-      "detail": "HTTP 200, 200 KB in 34 ms"
+      "detail": "HTTP 200, 4 KB in 150 ms"
+    },
+    {
+      "name": "Limbach Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1606163/000162828026069582/a20260930ex991pr.htm",
+      "ok": true,
+      "detail": "HTTP 200, 500 KB in 146 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 84 ms"
+      "detail": "HTTP 200, 3,173 KB in 179 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 105 ms"
+      "detail": "HTTP 200, 4,447 KB in 182 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 73 ms"
+      "detail": "HTTP 200, 2,743 KB in 88 ms"
     },
     {
-      "name": "HENRY SCHEIN INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001000228.json",
+      "name": "Huron Consulting Group Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001289848.json",
       "ok": true,
-      "detail": "HTTP 200, 4,039 KB in 68 ms"
+      "detail": "HTTP 200, 3,829 KB in 491 ms"
     },
     {
-      "name": "Beam Therapeutics Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001745999.json",
+      "name": "Limbach Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001606163.json",
       "ok": true,
-      "detail": "HTTP 200, 1,147 KB in 275 ms"
+      "detail": "HTTP 200, 2,092 KB in 521 ms"
     },
     {
       "name": "CATHAY GENERAL BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000861842.json",
       "ok": true,
-      "detail": "HTTP 200, 4,966 KB in 283 ms"
+      "detail": "HTTP 200, 4,966 KB in 105 ms"
     },
     {
       "name": "Business First Bancshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001624322.json",
       "ok": true,
-      "detail": "HTTP 200, 2,905 KB in 205 ms"
+      "detail": "HTTP 200, 2,905 KB in 116 ms"
     },
     {
       "name": "Evercore Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001360901.json",
       "ok": true,
-      "detail": "HTTP 200, 3,957 KB in 343 ms"
+      "detail": "HTTP 200, 3,957 KB in 161 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,470 KB in 456 ms"
+      "detail": "HTTP 200, 2,470 KB in 315 ms"
     },
     {
       "name": "Allison Transmission Holdings Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001411207.json",
       "ok": true,
-      "detail": "HTTP 200, 3,066 KB in 360 ms"
+      "detail": "HTTP 200, 3,066 KB in 255 ms"
     },
     {
       "name": "ONE Gas, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001587732.json",
       "ok": true,
-      "detail": "HTTP 200, 2,418 KB in 287 ms"
+      "detail": "HTTP 200, 2,418 KB in 178 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000861842.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001000228.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001289848.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001360901.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001411207.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001587732.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001606163.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001624322.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001745999.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -164,9 +170,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1000228_000100022826000059_exhibit991.htm",
-    "www.sec.gov_Archives_edgar_data_1000228_000100022826000059_index.json",
-    "www.sec.gov_Archives_edgar_data_1745999_000119312526444454_beam-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1745999_000119312526444454_index.json"
+    "www.sec.gov_Archives_edgar_data_1289848_000162828026069509_0001628280-26-069509-index.htm",
+    "www.sec.gov_Archives_edgar_data_1289848_000162828026069509_hurn2026930exh991.htm",
+    "www.sec.gov_Archives_edgar_data_1289848_000162828026069509_index.json",
+    "www.sec.gov_Archives_edgar_data_1606163_000162828026069582_a20260930ex991pr.htm",
+    "www.sec.gov_Archives_edgar_data_1606163_000162828026069582_index.json"
   ]
 }
