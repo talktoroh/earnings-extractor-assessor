@@ -2530,5 +2530,162 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-07T06:37:59+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-07-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 6,
+      "failures": [
+        {
+          "name": "CATHAY GENERAL BANCORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Business First Bancshares, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Evercore Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Rhinebeck Bancorp, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Allison Transmission Holdings Inc company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "ONE Gas, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 6,
+      "checked": 6,
+      "rechecks": 6,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 24
+    },
+    "companies": [
+      {
+        "cik": "861842",
+        "company": "CATHAY GENERAL BANCORP",
+        "accession": "0001437749-26-033125",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1624322",
+        "company": "Business First Bancshares, Inc.",
+        "accession": "0001624322-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1360901",
+        "company": "Evercore Inc.",
+        "accession": "0001628280-26-067716",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1411207",
+        "company": "Allison Transmission Holdings Inc",
+        "accession": "0001193125-26-443664",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1587732",
+        "company": "ONE Gas, Inc.",
+        "accession": "0001587732-26-000050",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 6 extractions: 0 figures confirmed, 0 mismatches, 24 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-07T06:08:08+08:00",
+      "watch_brief": "briefs/2026-11-07-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
