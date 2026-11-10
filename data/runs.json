@@ -3449,5 +3449,171 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:38:28+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 8,
+      "total": 8,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 8,
+      "checked": 8,
+      "rechecks": 6,
+      "confirmed": 20,
+      "mismatch": 1,
+      "cannot_check": 11
+    },
+    "companies": [
+      {
+        "cik": "861842",
+        "company": "CATHAY GENERAL BANCORP",
+        "accession": "0001437749-26-033125",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1624322",
+        "company": "Business First Bancshares, Inc.",
+        "accession": "0001624322-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1360901",
+        "company": "Evercore Inc.",
+        "accession": "0001628280-26-067716",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 1,
+        "cannot_check": 1,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 4,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1411207",
+        "company": "Allison Transmission Holdings Inc",
+        "accession": "0001193125-26-443664",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1587732",
+        "company": "ONE Gas, Inc.",
+        "accession": "0001587732-26-000050",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1805077",
+        "company": "Eos Energy Enterprises, Inc.",
+        "accession": "0001628280-26-070528",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "96943",
+        "company": "TELEFLEX INC",
+        "accession": "0000096943-26-000107",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 8 extractions: 20 figures confirmed, 1 mismatch, 11 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:05+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1377,
+      "saved_for_run": 1377,
+      "match": true
+    },
+    "offline": false
   }
 ]
