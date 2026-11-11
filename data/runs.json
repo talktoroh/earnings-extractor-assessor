@@ -3688,5 +3688,57 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-12T06:38:04+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-12-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 1,
+      "failures": [
+        {
+          "name": "Rhinebeck Bancorp, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 1,
+      "checked": 1,
+      "rechecks": 1,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 4
+    },
+    "companies": [
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 3
+        }
+      }
+    ],
+    "headline": "Checked 1 extraction: 0 figures confirmed, 0 mismatches, 4 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-12T06:08:06+08:00",
+      "watch_brief": "briefs/2026-11-12-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
