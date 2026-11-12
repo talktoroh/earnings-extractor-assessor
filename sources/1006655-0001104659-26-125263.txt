@@ -1,0 +1,367 @@
+Company: EVOLUTION PETROLEUM CORP (CIK 1006655)
+Accession: 0001104659-26-125263
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1006655/000110465926125263/epm-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1006655/000110465926125263/0001104659-26-125263-index.htm
+Saved: 2026-11-13T06:08:13+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 epm-ex99d1.htm EX-99.1
+EXHIBIT 99.1
+Evolution Petroleum Reports Fiscal First Quarter 2027 Results and Declares $0.12 per Share Cash Dividend for the Fiscal Second Quarter
+HOUSTON, TX — November 10, 2026 (GLOBE NEWSWIRE) — Evolution Petroleum Corporation (NYSE American: EPM) ("Evolution" or the "Company") today announced its financial and operating results for its fiscal first quarter ended September 30, 2026. On November 9, 2026, Evolution also declared its 18th consecutive $0.12 cash dividend per common share, payable on December 31, 2026, marking its 53rd consecutive quarterly cash dividend payment.
+Financial & Operational Highlights
+($ in thousands) | Q1 2027 | Q1 2026 | Q4 2026 | % Change vs Q1/Q1 | % Change vs Q1/Q4
+Average BOEPD | 6,978 | 7,315 | 6,901 | (5) | % | 1 | %
+Oil, Natural Gas, and NGL Revenues | $ | 22,554 | $ | 21,288 | $ | 24,208 | 6 | % | (7) | %
+Net Income (Loss)(1) | $ | (2,992) | $ | 824 | $ | 4,614 | NM | NM
+Adjusted Net Income (Loss)(1)(2) | $ | (310) | $ | (79) | $ | (587) | 292 | % | (47) | %
+Adjusted EBITDA(3) | $ | 6,844 | $ | 7,301 | $ | 6,522 | (6) | % | 5 | %
+(1) | "NM" means "Not Meaningful."
+(2) | Adjusted Net Income is a non-GAAP financial measure; see the non-GAAP reconciliation schedules to the most comparable GAAP measures at the end of this release for more information.
+(3) | Adjusted EBITDA is Adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization and is a non-GAAP financial measure; see the non-GAAP reconciliation schedules to the most comparable GAAP measures at the end of this release for more information.
+● | Fiscal Q1 production averaged 6,978 barrels of oil equivalent per day ("BOEPD"), with oil accounting for 62% of revenue, natural gas for 24%, and natural gas liquids ("NGLs") for 14%.
+● | Higher realized oil and NGL prices drove a 6% increase in revenue to $22.6 million year-over-year.
+● | The Permian Minerals portfolio has exceeded acquisition expectations, averaging approximately 218 BOE/d since the August 20th effective date. Additionally, operators brought at least 21 gross wells online between closing and September 30. Evolution expects these additions to increase the portfolio's production rate in fiscal Q2, with a full quarter of ownership further enhancing results.
+● | Subsequent to quarter-end, Evolution completed a farm out of 636 net acres with minimal current production in the Williston Basin for approximately $2.5 million plus a small overriding royalty interest (“ORRI”).
+● | Returned $4.9 million to shareholders through cash dividends in fiscal Q1, with cash flow from operations before changes in working capital of $8.4 million.
+Management Comments
+Kelly Loyd, President and Chief Executive Officer, commented: "We are encouraged by our fiscal first quarter results and excited about the outlook for our diversified portfolio, particularly the increasing contributions from our growing mineral and royalty interests. Our recently acquired Permian Minerals exceeded production expectations, and our late fiscal 2026 acquisitions of Haynesville and Bossier Shale minerals and royalties are contributing in line with expectations as new wells enter production. We bought these assets for both their existing production and their substantial development potential and are encouraged to see that potential begin to translate into results at the end of the fiscal quarter. Looking ahead, with a full quarter of Permian
+1
+Minerals ownership and additional wells coming online there as well as in the Haynesville and Bossier Shales, we expect our recent investments to meaningfully add to cash flow in the coming quarters.
+“We continue to unlock value from acreage that contributes little to no current production. After quarter-end, we sold 636 net acres from our roughly 40,000-net-acre Williston position for $2.5 million while retaining a 0.25% overriding royalty interest in up to 6-8 miles of horizontal completions. Together with last quarter’s $3.0 million sale of nonproducing mineral acreage, these transactions demonstrate our ability to convert potential future value into cash today with minimal impact on current production or cash flow. We are also negotiating additional potential farmouts of nonproducing working interest acreage across multiple areas of our portfolio and hope to announce further agreements soon.”
+Mr. Loyd continued, “The unsolicited interest we are receiving highlights opportunities to realize additional value from assets we already own. Additional farmouts could generate upfront cash to reduce debt, while preserving royalty participation in future production without requiring us to fund drilling and completion costs. They could also put acreage to work that might otherwise remain undeveloped in our portfolio. Our near-term focus is on realizing the benefits of our recent investments, strengthening our balance sheet, and sustaining our quarterly dividend. We see opportunities for continued growth within our existing portfolio, which sets a high bar for new investments as we focus on translating those opportunities into greater value per share.”
+Fiscal First Quarter 2027 Financial Results
+Oil, natural gas, and natural gas liquids revenues increased 6% to $22.6 million, up from $21.3 million in the year-ago quarter. The change was driven primarily by an 11% increase in average realized equivalent prices, partially offset by a 5% decrease in average daily production.
+Lease operating costs ("LOE") decreased to $12.4 million compared to $13.1 million in the year-ago quarter. The decrease reflected lower operating costs at TexMex following a change of operator since the prior-year quarter, as well as lower taxes and gathering and transportation costs associated with decreased natural gas prices at Jonah Field and Barnett Shale. On a per-unit basis, LOE was $19.25 per BOE compared to $19.45 per BOE in the year-ago quarter, partly reflecting the addition of minerals and royalty (“M&R”) assets, which have lower operating costs per BOE.
+Depletion, depreciation, and accretion expense was $5.7 million compared to $6.0 million in the year-ago period. On a per-BOE basis, the Company's current quarter depletion rate was $8.32 per BOE, compared to $8.26 per BOE in the year-ago period.
+General and administrative ("G&A") expenses (excluding stock-based compensation) increased to $2.1 million from $1.8 million in the year-ago quarter due to higher professional fees and an increase in employee salaries and benefits. On a per-BOE basis, G&A (excluding stock-based compensation) was $3.22 compared to $2.66 in the year-ago period, in part due to lower production volumes.
+The Company reported net losses of $3.0 million, or $0.08 per share, compared to net income of $0.8 million, or $0.02 per share, in the year-ago period. Excluding the impact of selected items, which include a net loss on the unrealized portion of hedges, the Company reported an adjusted net loss of $0.3 million, compared to an adjusted net loss of $0.1 million in the year-ago period.(1)
+(1) | Adjusted net income (loss) is a non-GAAP financial measure; see the non-GAAP reconciliation schedules to the most comparable GAAP measures at the end of this release for more information.
+2
+Adjusted EBITDA was $6.8 million compared to $7.3 million in the year-ago quarter. The decrease was primarily due to lower production and lower realized natural gas prices compared to the prior-year period.(2)
+Production & Pricing
+Average price per unit: | Q1 2027 | Q1 2026 | % Change vs Q1/Q1
+Crude oil (BBL) | $ | 81.74 | $ | 62.18 | 31 | %
+Natural gas (MCF) | 2.51 | 2.74 | (8) | %
+Natural Gas Liquids (BBL) | 29.47 | 23.30 | 26 | %
+Equivalent (BOE) | 35.13 | 31.63 | 11 | %
+Total production for the first quarter of fiscal 2027 decreased to 6,978 net BOEPD compared to 7,315 net BOEPD in the year-ago period. Total production for the first quarter of fiscal 2027 included approximately 1,848 barrels per day ("BOPD") of crude oil, 3,956 BOEPD of natural gas, and 1,174 BOEPD of NGLs. Production decreased in the current quarter primarily due to unplanned downtime at Delhi and TexMex, as well as natural decline across the portfolio, partially offset by M&R acquisitions in the Haynesville and Bossier Shales, and the Permian, and development on the mineral acreage in the SCOOP/STACK. In addition, the prior-year period includes flush production from wells brought online at Chaveroo Field, which was 100% crude oil.
+The Company's average realized commodity price (excluding the impact of derivative contracts) increased 11% to $35.13 per BOE in fiscal Q1, compared to $31.63 per BOE in the year-ago period.
+Operations Update
+This quarter, the Company integrated its Permian Minerals assets into its portfolio, and since the August 20th acquisition date, the Company has production data confirmed for 21 gross wells. As of quarter-end, the Company has 853 gross PDP wells, 45 gross wells in progress, 50 gross permitted wells, and over 1,200 additional drilling locations across its Permian position. Evolution expects an increased contribution of production and cash flow, as additional wells are brought online, and the Company will be able to report a full quarter of ownership.
+At SCOOP/STACK, new well activity continued across Evolution's working interest and M&R positions, resulting in flat production sequentially. LOE decreased in total and on a per-unit basis compared to the year-ago quarter, in part due to the addition of Evolution’s M&R interests in August of 2025, which incur lower operating costs than the Company’s working interest assets. During fiscal Q1, two gross wells were brought online, eight gross wells were in progress, and the Company had elected to participate in three additional gross working-interest wells.
+The Company’s aggregate production from the Jonah, Barnett, Williston, and Hamilton Dome properties increased slightly over the prior quarter, demonstrating the value of high-quality, long-life reserves.
+In Louisiana, production from the Company's Haynesville and Bossier Shale M&R interests continued to come online. During the quarter, Evolution acquired approximately $0.3 million of additional Haynesville and Bossier Shale M&R interests, primarily targeting undeveloped acreage with near-term third-party operator activity. As of quarter-end, the Company had 92 gross PDP wells, an additional 42 gross PUD locations, and an estimated 50 additional drilling locations across its Haynesville and Bossier Shale M&R portfolio. The Company continues to benefit from this activity without funding drilling and completion costs.
+(2) | Adjusted EBITDA is Adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization and is a non-GAAP financial measure; see the non-GAAP reconciliation schedules to the most comparable GAAP measures at the end of this release for more information.
+3
+At TexMex, operating costs declined compared to the year-ago quarter following the operator change. At the Barnett Shale, the Company has met with the new operator, whose entire focus is solely on Barnett operations and improving field profitability through operational efficiencies and workover opportunities. At Delhi, production was impacted by compressor downtime during the quarter.
+At Chaveroo, the Company continues to evaluate the timing of future drilling with its partner. Based on performance to date of the seven wells drilled, Evolution views the development inventory as attractive and potentially substantial. Timing and level of participation are subject to operator plans, commodity prices, and capital availability.
+Balance Sheet, Liquidity, and Capital Spending
+As of September 30, 2026, the Company had cash and cash equivalents of $3.1 million, outstanding borrowings of $60.0 million, and $0.8 million in letters of credit outstanding under its Senior Secured Credit Facility, with a weighted average interest rate of 6.48%. As of quarter-end, availability under the facility was $12.2 million, bringing total liquidity to $15.3 million. In the first quarter of fiscal 2027, Evolution paid $4.9 million in common stock dividends, $16.0 million for the Permian Minerals Acquisitions, and incurred $0.7 million in capital expenditures. These cash outlays were partially offset by $12.5 million in net proceeds from the Company's August 2026 public equity offering, $3.5 million in net borrowings under its Senior Secured Credit Facility, and $3.3 million in net cash provided by operating activities. These figures do not include approximately $2.5 million in proceeds received from the first Williston Basin farmout transaction that closed in November 2026.
+On August 20, 2026, Evolution entered into a letter agreement with MidFirst Bank pursuant to which the borrowing base on the Company's Senior Secured Credit Facility was temporarily increased from $65.0 million to $73.0 million to provide additional capacity for the Permian Minerals acquisition. On October 20, 2026, under the terms of the Senior Secured Credit Facility, it was redetermined at $70.0 million based on the semi-annual review of all the Company's properties. As of October 20, 2026, availability under the facility was $9.2 million.
+Cash Dividend on Common Stock
+On November 9, 2026, Evolution's Board of Directors declared a cash dividend of $0.12 per share of common stock, payable on December 31, 2026, to common stockholders of record on December 15, 2026. This will be the 53rd consecutive quarterly cash dividend on the Company's common stock since December 31, 2013. To date, Evolution has returned approximately $156.6 million, or $4.65 per share, back to stockholders in common stock dividends.
+Conference Call
+As previously announced, Evolution Petroleum will host a conference call on Wednesday, November 11, 2026, at 10:00 a.m. CT to review its fiscal first quarter 2027 financial and operating results. Participants can join online at https://event.choruscall.com/mediaframe/webcast.html?webcastid=uYSuksKF or by dialing (844) 481-2813. Dial-in participants should ask to join the Evolution Petroleum Corporation call. A replay will be available through November 10, 2027, via the provided webcast link and on Evolution's Investor Relations website at www.ir.evolutionpetroleum.com.
+4
+About Evolution Petroleum
+Evolution Petroleum Corporation is an independent energy company focused on maximizing total shareholder returns through the ownership of and investment in working and royalty interests in onshore oil and natural gas properties in the U.S. The Company aims to build and maintain a diversified portfolio of long-life oil and natural gas properties through acquisitions, selective development opportunities, production enhancements, and other exploitation efforts. Visit www.evolutionpetroleum.com for more information.
+Cautionary Statement
+All forward-looking statements contained in this press release regarding the Company's current and future expectations, potential results, and plans and objectives involve a wide range of risks and uncertainties. Statements herein using words such as "anticipate," "believe," "expect," "may," "plans," "outlook," "should," "will," and words of similar meaning are forward-looking statements. Although the Company's expectations are based on business, engineering, geological, financial, and operating assumptions that it believes to be reasonable, many factors could cause actual results to differ materially from its expectations. The Company gives no assurance that its goals will be achieved. These factors and others are detailed under the heading "Risk Factors" and elsewhere in the Company’s periodic reports filed with the Securities and Exchange Commission ("SEC"). The Company undertakes no obligation to update any forward-looking statement.
+Contact
+Investor Relations
+(713) 935-0122
+ir@evolutionpetroleum.com
+5
+Evolution Petroleum Corporation
+Condensed Consolidated Statements of Operations (Unaudited)
+(In thousands, except per share amounts)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Revenues
+Oil, natural gas, and natural gas liquids revenues:
+Crude oil | $ | 13,895 | $ | 12,872 | $ | 16,514
+Natural gas | 5,476 | 5,900 | 4,413
+Natural gas liquids | 3,183 | 2,516 | 3,281
+Total oil, natural gas, and natural gas liquids revenues | 22,554 | 21,288 | 24,208
+Other | 19 | — | —
+Total revenues | 22,573 | 21,288 | 24,208
+Operating costs
+Lease operating costs | 12,360 | 13,087 | 12,782
+Depletion, depreciation, and accretion | 5,744 | 5,961 | 5,606
+General and administrative expenses | 2,608 | 2,325 | 2,355
+Total operating costs | 20,712 | 21,373 | 20,743
+Income (loss) from operations | 1,861 | (85) | 3,465
+Other income (expense)
+Net gain (loss) on derivative contracts | (5,365) | 2,181 | 2,603
+Interest and other income | 12 | 10 | 26
+Interest expense | (1,031) | (917) | (969)
+Income (loss) before income taxes | (4,523) | 1,189 | 5,125
+Income tax (expense) benefit | 1,531 | (365) | (511)
+Net income (loss) | $ | (2,992) | $ | 824 | $ | 4,614
+Net income (loss) per common share:
+Basic | $ | (0.08) | $ | 0.02 | $ | 0.13
+Diluted | $ | (0.08) | $ | 0.02 | $ | 0.13
+Weighted average number of common shares outstanding:
+Basic | 37,186 | 33,725 | 35,070
+Diluted | 37,186 | 33,977 | 35,262
+6
+Evolution Petroleum Corporation
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except share and per share amounts)
+September 30, 2026 | June 30, 2026
+Assets
+Current assets
+Cash and cash equivalents | $ | 3,131 | $ | 6,137
+Receivables from crude oil, natural gas, and natural gas liquids revenues | 11,471 | 10,089
+Derivative contract assets | 2,694 | 2,094
+Prepaid expenses and other current assets | 3,823 | 2,199
+Total current assets | 21,119 | 20,519
+Property and equipment, net of depletion, depreciation, and impairment
+Oil and natural gas properties — full-cost method of accounting:
+Oil and natural gas properties, subject to amortization, net | 151,502 | 146,967
+Oil and natural gas properties, not subject to amortization | 6,911 | —
+Other property and equipment, net | 94 | —
+Total property and equipment, net | 158,507 | 146,967
+Other noncurrent assets
+Derivative contract assets | 292 | 478
+Other assets, net | 613 | 734
+Total assets | $ | 180,531 | $ | 168,698
+Liabilities and Stockholders' Equity
+Current liabilities
+Accounts payable | $ | 12,215 | $ | 13,817
+Accrued liabilities and other | 5,443 | 5,674
+Derivative contract liabilities | 6,991 | 2,865
+Total current liabilities | 24,649 | 22,356
+Long term liabilities
+Senior secured credit facility | 60,000 | 56,500
+Deferred income taxes | 5,507 | 5,271
+Asset retirement obligations | 24,030 | 23,626
+Derivative contract liabilities | 532 | 190
+Operating lease liability | 332 | 351
+Total liabilities | 115,050 | 108,294
+Commitments and contingencies
+Stockholders' equity
+Common stock; par value $0.001; 100,000,000 shares authorized: issued and
+outstanding 40,646,428 and 35,949,843 shares as of September 30, 2026
+and June 30, 2026, respectively | 41 | 36
+Additional paid-in capital | 67,553 | 54,611
+Retained earnings (Accumulated deficit) | (2,113) | 5,757
+Total stockholders' equity | 65,481 | 60,404
+Total liabilities and stockholders' equity | $ | 180,531 | $ | 168,698
+7
+Evolution Petroleum Corporation
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Cash flows from operating activities:
+Net income (loss) | $ | (2,992) | $ | 824 | $ | 4,614
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depletion, depreciation, and accretion | 5,744 | 5,961 | 5,606
+Stock-based compensation | 538 | 537 | 599
+Settlement of asset retirement obligations | (11) | (19) | (15)
+Deferred income taxes | 236 | (386) | 1,442
+Unrealized (gain) loss on derivative contracts | 4,054 | (1,303) | (5,777)
+Accrued settlements on derivative contracts | 697 | (385) | (47)
+Amortization of debt issuance costs | 58 | 39 | 39
+Tenant improvement allowance | 74 | — | —
+Other | (3) | (3) | 25
+Changes in operating assets and liabilities:
+Receivables from crude oil, natural gas, and natural gas liquids revenues | (1,137) | 2,555 | (403)
+Prepaid expenses and other current assets | (1,584) | 1,202 | (214)
+Accounts payable, accrued liabilities and other | (2,386) | (1,272) | 1,355
+State and federal taxes payable | — | 55 | (425)
+Net cash provided by operating activities | 3,288 | 7,805 | 6,799
+Cash flows from investing activities:
+Acquisition of oil and natural gas properties | (16,284) | (16,867) | (1,680)
+Proceeds from the sale of oil and natural gas properties | 2 | — | 3,093
+Capital expenditures for oil and natural gas properties | (920) | (3,819) | (1,360)
+Capital expenditures for other property and equipment | (95) | — | —
+Net cash used in investing activities | (17,297) | (20,686) | 53
+Cash flows from financing activities:
+Common stock dividends paid | (4,878) | (4,157) | (4,330)
+Common stock repurchases, including stock surrendered for tax withholding | (120) | (132) | —
+Borrowings under senior secured credit facility | 3,500 | 17,500 | —
+Repayments of senior secured credit facility | — | (2,000) | —
+Debt issuance costs | (28) | (379) | —
+Issuance of common stock | 12,999 | 266 | 1,126
+Offering costs | (470) | (10) | (127)
+Net cash provided by financing activities | 11,003 | 11,088 | (3,331)
+Net increase (decrease) in cash and cash equivalents | (3,006) | (1,793) | 3,521
+Cash and cash equivalents, beginning of period | 6,137 | 2,507 | 2,616
+Cash and cash equivalents, end of period | $ | 3,131 | $ | 714 | $ | 6,137
+8
+Evolution Petroleum Corporation
+Non-GAAP Reconciliation – Adjusted EBITDA (Unaudited)
+(In thousands)
+Adjusted EBITDA and Net income (loss) and earnings per share excluding selected items are non-GAAP financial measures that are used as supplemental financial measures by our management and by external users of our financial statements, such as investors, commercial banks, and others, to assess our operating performance as compared to that of other companies in our industry, without regard to financing methods, capital structure, or historical costs basis. We use these measures to assess our ability to incur and service debt and fund capital expenditures. Our Adjusted EBITDA and Net income (loss) and earnings per share, excluding selected items, should not be considered alternatives to net income (loss), operating income (loss), cash flows provided by (used in) operating activities, or any other measure of financial performance or liquidity presented in accordance with U.S. GAAP. Our Adjusted EBITDA and Net income (loss) and earnings per share excluding selected items may not be comparable to similarly titled measures of another company because all companies may not calculate Adjusted EBITDA and Net income (loss) and earnings per share excluding selected items in the same manner.
+We define Adjusted EBITDA as net income (loss) plus interest expense, income tax expense (benefit), depreciation, depletion, and accretion (DD&A), stock-based compensation, ceiling test impairment, and other impairments, unrealized loss (gain) on change in fair value of derivatives, and other non-recurring or non-cash expense (income) items.
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Net income (loss) | $ | (2,992) | $ | 824 | $ | 4,614
+Adjusted by:
+Interest expense | 1,031 | 917 | 969
+Income tax expense (benefit) | (1,531) | 365 | 511
+Depletion, depreciation, and accretion | 5,744 | 5,961 | 5,606
+Stock-based compensation | 538 | 537 | 599
+Unrealized loss (gain) on derivative contracts | 4,054 | (1,303) | (5,777)
+Adjusted EBITDA | $ | 6,844 | $ | 7,301 | $ | 6,522
+9
+Evolution Petroleum Corporation
+Non-GAAP Reconciliation – Adjusted Net Income (Unaudited)
+(In thousands, except per share amounts)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+As Reported:
+Net income (loss), as reported | $ | (2,992) | $ | 824 | $ | 4,614
+Impact of Selected Items:
+Unrealized loss (gain) on commodity contracts | 4,054 | (1,303) | (5,777)
+Selected items, before income taxes | $ | 4,054 | $ | (1,303) | $ | (5,777)
+Income tax effect of selected items(1) | 1,372 | (400) | (576)
+Selected items, net of tax | $ | 2,682 | $ | (903) | $ | (5,201)
+As Adjusted:
+Net income (loss), excluding selected items(2) | $ | (310) | $ | (79) | $ | (587)
+Undistributed earnings allocated to unvested restricted stock | (92) | (82) | (103)
+Net income (loss), excluding selected items for earnings per share calculation | $ | (402) | $ | (161) | $ | (690)
+Net income (loss) per common share — Basic, as reported | $ | (0.08) | $ | 0.02 | $ | 0.13
+Impact of selected items | 0.07 | (0.02) | (0.15)
+Net income (loss) per common share — Basic, excluding selected items(2) | $ | (0.01) | $ | — | $ | (0.02)
+Net income (loss) per common share — Diluted, as reported | $ | (0.08) | $ | 0.02 | $ | 0.13
+Impact of selected items | 0.07 | (0.02) | (0.15)
+Net income (loss) per common share — Diluted, excluding selected items(2)(3) | $ | (0.01) | $ | — | $ | (0.02)
+(1) | The tax impact for the three months ended September 30, 2026 and 2025, is represented using estimated tax rates of 33.8% and 30.7%, respectively. The tax impact for the three months ended June 30, 2026, is represented using estimated tax rates of 10.0%.
+(2) | Net income (loss) and earnings per share excluding selected items are non-GAAP financial measures presented as supplemental financial measures to enable a user of the financial information to understand the impact of these items on reported results. These financial measures should not be considered an alternative to net income (loss), operating income (loss), cash flows provided by (used in) operating activities, or any other measure of financial performance or liquidity presented in accordance with U.S. GAAP. Our Adjusted Net Income (Loss) and earnings per share may not be comparable to similarly titled measures of another company because all companies may not calculate Adjusted Net Income (Loss) and earnings per share in the same manner.
+(3) | The impact of selected items for the three months ended September 30, 2026 and 2025, were each calculated based upon weighted average diluted shares of 37.2 million and 33.7 million, respectively, due to the net income (loss), excluding selected items. The impact of selected items for the three months ended June 30, 2026, was calculated based upon weighted average diluted shares of 35.1 million due to the net income (loss), excluding selected items.
+10
+Evolution Petroleum Corporation
+Supplemental Information on Oil and Natural Gas Operations (Unaudited)
+(In thousands, except per unit and per BOE amounts)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Revenues:
+Crude oil | $ | 13,895 | $ | 12,872 | $ | 16,514
+Natural gas | 5,476 | 5,900 | 4,413
+Natural gas liquids | 3,183 | 2,516 | 3,281
+Total oil, natural gas, and natural gas liquids revenues | $ | 22,554 | $ | 21,288 | $ | 24,208
+Lease operating costs:
+Ad valorem and production taxes | $ | 1,376 | $ | 1,420 | $ | 1,438
+Gathering, transportation, and other costs | 2,742 | 2,892 | 2,746
+Other lease operating costs | 8,242 | 8,775 | 8,598
+Total lease operating costs | $ | 12,360 | $ | 13,087 | $ | 12,782
+Depletion of full cost proved oil and natural gas properties | $ | 5,339 | $ | 5,560 | $ | 5,205
+Production:
+Crude oil (MBBL) | 170 | 207 | 182
+Natural gas (MMCF) | 2,182 | 2,150 | 2,069
+Natural gas liquids (MBBL) | 108 | 108 | 101
+Equivalent (MBOE)(1) | 642 | 673 | 628
+Average daily production (BOEPD)(1) | 6,978 | 7,315 | 6,901
+Average price per unit:(2)
+Crude oil (BBL) | $ | 81.74 | $ | 62.18 | $ | 90.74
+Natural gas (MCF) | 2.51 | 2.74 | 2.13
+Natural Gas Liquids (BBL) | 29.47 | 23.30 | 32.49
+Equivalent (BOE)(1) | $ | 35.13 | $ | 31.63 | $ | 38.55
+Average cost per unit:
+Ad valorem and production taxes | $ | 2.14 | $ | 2.11 | $ | 2.29
+Gathering, transportation, and other costs | 4.27 | 4.30 | 4.37
+Other lease operating costs | 12.84 | 13.04 | 13.69
+Total lease operating costs | $ | 19.25 | $ | 19.45 | $ | 20.35
+Depletion of full cost proved oil and natural gas properties | $ | 8.32 | $ | 8.26 | $ | 8.29
+(1) | Equivalent oil reserves are defined as six MCF of natural gas and 42 gallons of NGLs to one barrel of oil conversion ratio, which reflects energy equivalence and not price equivalence. Natural gas prices per MCF and NGL prices per barrel often differ significantly from the equivalent amount of oil.
+(2) | Amounts exclude the impact of cash paid or received on the settlement of derivative contracts since we did not elect to apply hedge accounting.
+11
+Evolution Petroleum Corporation
+Summary of Production Volumes and Average Sales Price (Unaudited)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Volume | Price | Volume | Price | Volume | Price
+Production:
+Crude oil (MBBL)
+SCOOP/STACK | 24 | $ | 89.98 | 34 | $ | 64.12 | 28 | $ | 98.33
+Chaveroo Field | 19 | 79.86 | 29 | 60.92 | 20 | 92.98
+Jonah Field | 6 | 79.43 | 7 | 61.05 | 6 | 86.28
+Williston Basin | 28 | 81.19 | 31 | 59.01 | 29 | 93.70
+Barnett Shale | 2 | 85.97 | 3 | 61.43 | 2 | 91.58
+Hamilton Dome Field | 33 | 71.07 | 34 | 53.36 | 33 | 77.51
+Delhi Field | 41 | 83.60 | 49 | 68.96 | 49 | 91.82
+TexMex and Other | 17 | 89.67 | 20 | 64.86 | 15 | 94.28
+Total | 170 | $ | 81.74 | 207 | $ | 62.18 | 182 | $ | 90.74
+Natural gas (MMCF)
+SCOOP/STACK | 383 | $ | 2.65 | 381 | $ | 3.07 | 358 | $ | 3.23
+Jonah Field | 674 | 2.72 | 728 | 2.96 | 688 | 1.23
+Williston Basin | 29 | 1.54 | 26 | 1.62 | 25 | 3.22
+Barnett Shale | 873 | 2.41 | 953 | 2.55 | 853 | 2.33
+TexMex and Other | 223 | 2.14 | 62 | 1.66 | 145 | 2.36
+Total | 2,182 | $ | 2.51 | 2,150 | $ | 2.74 | 2,069 | $ | 2.13
+Natural gas liquids (MBBL)
+SCOOP/STACK | 28 | $ | 23.65 | 26 | $ | 19.27 | 28 | $ | 29.33
+Jonah Field | 7 | 32.67 | 8 | 23.16 | 7 | 33.15
+Williston Basin | 8 | 19.95 | 7 | 15.97 | 6 | 22.96
+Barnett Shale | 52 | 32.20 | 55 | 25.75 | 50 | 32.59
+Delhi Field | 12 | 34.07 | 12 | 24.78 | 10 | 47.56
+TexMex and Other | 1 | 33.12 | — | — | — | —
+Total | 108 | $ | 29.47 | 108 | $ | 23.30 | 101 | $ | 32.49
+Equivalent (MBOE)(1)
+SCOOP/STACK | 116 | $ | 33.30 | 124 | $ | 31.23 | 116 | $ | 40.64
+Chaveroo Field | 19 | 79.86 | 29 | 60.92 | 20 | 92.98
+Jonah Field | 125 | 20.44 | 136 | 20.43 | 128 | 12.85
+Williston Basin | 41 | 61.22 | 42 | 46.90 | 39 | 75.77
+Barnett Shale | 200 | 19.81 | 217 | 18.54 | 194 | 19.54
+Hamilton Dome Field | 33 | 71.07 | 34 | 53.36 | 33 | 77.51
+Delhi Field | 53 | 72.28 | 61 | 60.55 | 59 | 84.55
+TexMex and Other | 55 | 36.27 | 30 | 46.04 | 39 | 44.39
+Total | 642 | $ | 35.13 | 673 | $ | 31.63 | 628 | $ | 38.55
+Average daily production (BOEPD)(1)
+SCOOP/STACK | 1,261 | 1,348 | 1,275
+Chaveroo Field | 207 | 315 | 220
+Jonah Field | 1,359 | 1,478 | 1,407
+Williston Basin | 446 | 457 | 429
+Barnett Shale | 2,174 | 2,359 | 2,132
+Hamilton Dome Field | 359 | 370 | 363
+Delhi Field | 576 | 663 | 648
+TexMex and Other | 596 | 325 | 427
+Total | 6,978 | 7,315 | 6,901
+(1) | Equivalent oil reserves are defined as six MCF of natural gas and 42 gallons of NGLs to one barrel of oil conversion ratio, which reflects energy equivalence and not price equivalence. Natural gas prices per MCF and NGL prices per barrel often differ significantly from the equivalent amount of oil.
+12
+Evolution Petroleum Corporation
+Summary of Average Production Costs (Unaudited)
+Three Months Ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Amount | per BOE | Amount | per BOE | Amount | per BOE
+Production costs (in thousands, except per BOE):
+Total lease operating costs(1)
+SCOOP/STACK | $ | 988 | $ | 8.51 | $ | 1,123 | $ | 9.07 | $ | 1,196 | $ | 10.33
+Chaveroo Field | 302 | 15.64 | 338 | 11.66 | 338 | 16.90
+Jonah Field | 1,967 | 15.62 | 2,040 | 15.00 | 1,737 | 13.53
+Williston Basin | 1,188 | 29.34 | 1,179 | 28.07 | 1,249 | 31.88
+Barnett Shale | 3,507 | 17.58 | 3,825 | 17.61 | 3,512 | 18.11
+Hamilton Dome Field | 1,338 | 40.99 | 1,240 | 36.32 | 1,422 | 43.12
+Delhi Field | 1,810 | 34.29 | 1,936 | 31.95 | 1,710 | 29.18
+TexMex and Other | 1,260 | 22.82 | 1,406 | 46.97 | 1,618 | 41.57
+Total | $ | 12,360 | $ | 19.25 | $ | 13,087 | $ | 19.45 | $ | 12,782 | $ | 20.35
+(1) | Total lease operating costs includes lifting costs; workover expenses; and gathering, transportation, processing and other expenses.
+13
+Evolution Petroleum Corporation
+Summary of Open Derivative Contracts (Unaudited)
+For more information on the Company's hedging practices, see Note 7 to its financial statements included on Form 10-Q filed with the SEC for the quarter ended September 30, 2026.
+The Company has the following open crude oil and natural gas derivative contracts:
+Volumes in | Weighted Average Price per MMBTU/BBL
+Period | Commodity | Instrument | MMBTU/BBL | Swap | Sub Floor | Floor | Ceiling
+January 2027 - December 2027 | Crude Oil | Fixed-Price Swap | 199,662 | $ | 68.43
+October 2026 - December 2026 | Crude Oil | Two-Way Collar | 72,862 | $ | 68.01 | $ | 79.45
+January 2027 - December 2027 | Crude Oil | Two-Way Collar | 273,839 | 62.28 | 74.57
+October 2026 - December 2026 | Crude Oil | Three-Way Collar | 60,861 | $ | 50.00 | 58.71 | 70.35
+October 2026 - December 2026 | Natural Gas | Fixed-Price Swap | 862,862 | 3.63
+January 2027 - December 2027 | Natural Gas | Fixed-Price Swap | 2,417,182 | 3.38
+January 2027 - March 2028 | Natural Gas | Fixed-Price Swap | 393,933 | 4.01
+October 2026 - December 2026 | Natural Gas | Two-Way Collar | 577,171 | 3.63 | 4.79
+January 2027 - September 2027 | Natural Gas | Two-Way Collar | 1,792,568 | 3.10 | 4.50
+14

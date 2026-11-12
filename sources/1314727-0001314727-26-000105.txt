@@ -1,0 +1,363 @@
+Company: Sonos Inc (CIK 1314727)
+Accession: 0001314727-26-000105
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/final4q26earningspressrele.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/0001314727-26-000105-index.htm
+Saved: 2026-11-13T06:08:13+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 final4q26earningspressrele.htm EX-99.1
+Exhibit 99.1
+Sonos Reports Fourth Quarter and Fiscal 2026 Results
+Fiscal 2026 marks Sonos’ return to revenue growth, with significant GAAP Net Income improvement and Adjusted EBITDA growth of 39% year over year
+Fourth quarter revenue grew double digits, with revenue, gross margin and Adjusted EBITDA above the midpoint of guidance range
+Santa Barbara, CA – Nov. 10, 2026 - Sonos, Inc. (Nasdaq: SONO) today reported Fourth Quarter and Fiscal 2026 results.
+“We said Fiscal 2026 would be the year Sonos returned to growth, and we delivered,” said Tom Conrad, Chief Executive Officer of Sonos. “We grew in every region, delivered meaningfully higher profitability, and brought five new products to market. Underneath it all, the system strategy is working - every product improves those our customers already own, and with Sonos 27, that will keep getting stronger every year.”
+“Fiscal 2026 demonstrated how much the earning power of Sonos has structurally improved,” said Saori Casey, Chief Financial Officer of Sonos. “We grew revenue 7%, reduced Non-GAAP operating expenses 3% and grew Adjusted EBITDA 39% to $184 million, all while absorbing $56 million of higher memory costs. That’s the foundation we’re building on, and we’re actively managing the levers available to us to optimize our financial performance.”
+Fiscal 2026 Financial Highlights (unaudited)*
+•Revenue increased 7% year-over-year to $1,547 million
+•GAAP gross margin2 of 46.9%, Non-GAAP gross margin1 of 45.5%
+•GAAP net income3 increased $151 million year-over-year to $90 million, GAAP diluted earnings per share (EPS)3 increased $1.24 year-over-year to $0.73
+•Non-GAAP net income1 increased 92% year-over-year to $150 million, Non-GAAP diluted EPS1 increased 92% year-over-year to $1.23
+•Adjusted EBITDA1 increased 39% year-over-year to $184 million
+•Returned $130 million to shareholders through repurchase of 8.2 million shares
+•Cash flows provided by operating activities increased 6% to $145 million
+•Free cash flow3 increased 14% year-over-year to $123 million
+Fourth Quarter Fiscal 2026 Financial Highlights (unaudited)*
+•Revenue increased 20% year-over-year to $344 million
+•GAAP gross margin4 of 46.1%, Non-GAAP gross margin1 of 42.1%
+•GAAP net loss5 improved by $33 million year-over-year to ($5) million, GAAP diluted loss per share (EPS)5 improved by $0.27 year-over-year to ($0.04)
+•Non-GAAP net income1 increased $12 million year-over-year to $5 million, Non-GAAP diluted EPS1 increased $0.10 year-over-year to $0.04
+•Adjusted EBITDA1 was flat year-over-year at $6 million
+•Returned $35 million to shareholders through repurchase of 2.2 million shares
+1
+New Stock Repurchase Program
+•As announced in a separate release today, the company’s Board of Directors has authorized a new common stock repurchase program of up to $150 million
+•The new authorization follows the completion of the company’s prior $150 million common stock repurchase program in the fourth quarter of fiscal 2026
+Guidance
+The company will provide guidance on its Fourth Quarter and Fiscal 2026 earnings call.
+Supplemental Earnings Presentation
+The company has posted a supplemental earnings presentation accompanying its Fourth Quarter and Fiscal 2026 results to the Earnings Reports section of its investor relations website at https://investors.sonos.com/reports-and-filings/default.aspx#section=earningsreports.
+Conference Call, Webcast and Transcript
+The company will host a webcast of its conference call and Q&A related to its Fourth Quarter and Fiscal 2026 results on November 10, 2026, at 4:30 p.m. Eastern Time (1:30 p.m. Pacific Time). Participants may access the live webcast in listen-only mode on the Sonos investor relations website at https://investors.sonos.com/news-and-events/default.aspx.
+The conference call may also be accessed by dialing (888) 330-2454 with conference ID 8641747. Participants outside the U.S. can access the call by dialing (240) 789-2714 using the same conference ID.
+An archived webcast of the conference call and a transcript of the company’s prepared remarks and Q&A session will also be available at https://investors.sonos.com/reports-and-filings/default.aspx#section=earningsreports following the call.
+*See “Use of Non-GAAP Measures” and reconciliations to GAAP measures below.
+(1) Non-GAAP Gross Margin, Adjusted EBITDA, Non-GAAP Net Income and Non-GAAP EPS exclude the non-recurring benefit from IEEPA tariff refunds received in Q3 and Q4 of Fiscal 2026
+(2) Includes $41.2 million of IEEPA tariff refunds
+(3) Includes $41.2 million of IEEPA tariff refunds and $1.4 million of interest earned on IEEPA tariff refunds
+(4) Includes $18.0 million of IEEPA tariff refunds
+(5) Includes $18.0 million of IEEPA tariff refunds and $0.6 million of interest earned on IEEPA tariff refunds
+2
+Consolidated Statements of Operations and Comprehensive (Loss) Income
+(unaudited, in thousands, except share and per share amounts)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Revenue | $ 344,441 | $ 287,900 | $ 1,546,890 | $ 1,443,276
+Cost of revenue | 185,716 | 162,109 | 820,745 | 812,746
+Gross profit | 158,725 | 125,791 | 726,145 | 630,530
+Operating expenses
+Research and development | 66,006 | 61,958 | 257,777 | 279,969
+Sales and marketing | 69,116 | 67,762 | 256,389 | 281,192
+General and administrative | 34,348 | 30,480 | 122,351 | 119,837
+Total operating expenses | 169,470 | 160,200 | 636,517 | 680,998
+Operating (loss) income | (10,745) | (34,409) | 89,628 | (50,468)
+Other income (expense), net
+Interest income | 2,508 | 1,528 | 7,950 | 6,934
+Interest expense | (97) | (129) | (427) | (465)
+Other expense, net | (1,634) | (1,322) | (1,880) | (6,498)
+Total other income (expense), net | 777 | 77 | 5,643 | (29)
+(Loss) income before (benefit from) provision for income taxes | (9,968) | (34,332) | 95,271 | (50,497)
+(Benefit from) provision for income taxes | (4,804) | 3,526 | 5,671 | 10,647
+Net (loss) income | $ (5,164) | $ (37,858) | $ 89,600 | $ (61,144)
+(Loss) earnings per share:
+Basic | $ (0.04) | $ (0.31) | $ 0.75 | $ (0.51)
+Diluted | $ (0.04) | $ (0.31) | $ 0.73 | $ (0.51)
+Weighted-average shares used in computing (loss) earnings per share:
+Basic | 118,312,116 | 120,598,219 | 119,475,988 | 120,753,102
+Diluted | 118,312,116 | 120,598,219 | 122,305,404 | 120,753,102
+Total comprehensive (loss) income
+Net (loss) income | (5,164) | (37,858) | 89,600 | (61,144)
+Change in foreign currency translation adjustment | 227 | 583 | (217) | 3,619
+Net unrealized (loss) gain on marketable securities | (52) | 43 | (123) | (98)
+Comprehensive (loss) income | $ (4,989) | $ (37,232) | $ 89,260 | $ (57,623)
+3
+Consolidated Balance Sheets
+(unaudited, in thousands, except par values)
+As of
+October 3, 2026 | September 27, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ 178,075 | $ 174,668
+Marketable securities | 49,063 | 52,858
+Accounts receivable, net | 102,132 | 65,847
+Inventories | 272,972 | 171,020
+Prepaids and other current assets | 52,139 | 39,642
+Total current assets | 654,381 | 504,035
+Property and equipment, net | 55,081 | 72,277
+Operating lease right-of-use assets | 45,141 | 45,297
+Goodwill | 82,854 | 82,854
+Intangible assets, net | 61,766 | 75,356
+Deferred tax assets | 10,288 | 10,509
+Other noncurrent assets | 27,779 | 32,950
+Total assets | $ 937,290 | $ 823,278
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable | $ 255,344 | $ 184,109
+Accrued expenses | 87,305 | 79,094
+Accrued compensation | 28,534 | 21,331
+Deferred revenue, current | 21,916 | 21,771
+Other current liabilities | 44,262 | 46,107
+Total current liabilities | 437,361 | 352,412
+Operating lease liabilities, noncurrent | 51,803 | 53,288
+Deferred revenue, noncurrent | 57,417 | 59,453
+Deferred tax liabilities | 118 | 126
+Other noncurrent liabilities | 3,009 | 2,774
+Total liabilities | 549,708 | 468,053
+Commitments and contingencies
+Stockholders’ equity:
+Common stock, $0.001 par value | 121 | 123
+Treasury stock | (53,091) | (37,398)
+Additional paid-in capital | 461,567 | 502,775
+Accumulated deficit | (22,478) | (112,078)
+Accumulated other comprehensive income | 1,463 | 1,803
+Total stockholders’ equity | 387,582 | 355,225
+Total liabilities and stockholders’ equity | $ 937,290 | $ 823,278
+4
+Consolidated Statements of Cash Flows
+(unaudited, dollars in thousands)
+Twelve Months Ended
+October 3, 2026 | September 27, 2025
+Cash flows from operating activities
+Net income (loss) | $ 89,600 | $ (61,144)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Stock-based compensation expense | 64,890 | 81,564
+Depreciation and amortization | 47,380 | 62,321
+Foreign currency transaction loss (gain) | 2,785 | 2,352
+Provision for excess and obsolete inventory | 2,052 | 8,143
+Restructuring and other charges | 1,088 | 11,920
+Deferred income taxes | 112 | 8
+Other | 5,406 | 3,769
+Changes in operating assets and liabilities:
+Accounts receivable | (38,999) | (21,873)
+Inventories | (104,005) | 51,729
+Other assets | (11,617) | 10,483
+Accounts payable and accrued expenses | 83,036 | (14,439)
+Accrued compensation | 7,530 | 5,232
+Deferred revenue | (1,067) | (2,737)
+Other liabilities | (3,525) | (459)
+Net cash provided by operating activities | 144,666 | 136,869
+Cash flows from investing activities
+Purchases of marketable securities | (57,597) | (57,944)
+Purchases of property and equipment | (21,766) | (28,676)
+Maturities of marketable securities | 61,440 | 57,100
+Net cash used in investing activities | (17,923) | (29,520)
+Cash flows from financing activities
+Payments for repurchase of common stock | (129,975) | (80,984)
+Payments for repurchase of common stock related to shares withheld for tax in connection with vesting of RSUs | (26,831) | (25,861)
+Payments for debt issuance costs | (780) | —
+Proceeds from exercise of stock options | 34,843 | 4,503
+Net cash used in financing activities | (122,743) | (102,342)
+Effect of exchange rate changes on cash and cash equivalents | (593) | (71)
+Net increase in cash and cash equivalents | 3,407 | 4,936
+Cash and cash equivalents
+5
+Beginning of period | 174,668 | 169,732
+End of period | $ 178,075 | $ 174,668
+Supplemental disclosure
+Cash paid for interest | $ 234 | $ 279
+Cash paid for taxes, net of refunds | $ 5,608 | $ 23,945
+Cash paid for amounts included in the measurement of lease liabilities, net of tenant improvement reimbursements received | $ 10,620 | $ 6,629
+Supplemental disclosure of non-cash investing and financing activities
+Purchases of property and equipment in accounts payable and accrued expenses | $ 1,376 | $ 5,055
+Right-of-use assets obtained in exchange for new operating lease liabilities | $ 5,404 | $ 1,491
+Excise tax on share repurchases, accrued but not paid | $ 351 | $ 281
+Reconciliation of GAAP to Non-GAAP Cost of Revenue and Gross Profit
+(unaudited, in thousands, except percentages)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Reconciliation of GAAP cost of revenue
+GAAP cost of revenue | $ 185,716 | $ 162,109 | $ 820,745 | $ 812,746
+Stock-based compensation expense | 1,527 | 1,560 | 5,236 | 6,148
+Amortization of intangibles | 2,608 | 2,608 | 13,410 | 12,360
+Restructuring and other charges(1)(2) | — | — | 795 | 3,420
+IEEPA tariff refund benefit(3) | (18,014) | — | (41,168) | —
+Non-GAAP cost of revenue | $ 199,595 | $ 157,941 | $ 842,472 | $ 790,818
+Reconciliation of GAAP gross profit
+GAAP gross profit | $ 158,725 | $ 125,791 | $ 726,145 | $ 630,530
+Stock-based compensation expense | 1,527 | 1,560 | 5,236 | 6,148
+Amortization of intangibles | 2,608 | 2,608 | 13,410 | 12,360
+Restructuring and other charges(1)(2) | — | — | 795 | 3,420
+IEEPA tariff refund benefit(3) | (18,014) | — | (41,168) | —
+Non-GAAP gross profit | $ 144,846 | $ 129,959 | $ 704,418 | $ 652,458
+GAAP gross margin | 46.1% | 43.7% | 46.9% | 43.7%
+Non-GAAP gross margin | 42.1% | 45.1% | 45.5% | 45.2%
+(1) Restructuring and other charges for fiscal 2026, include employee-related costs resulting from a reorganization of certain functions and organizational changes driven by new leadership, costs related to exiting a contract manufacturing partnership, and exit costs associated with the partial abandonment of office space.
+6
+(2) Restructuring and other charges for fiscal 2025 primarily reflect costs associated with our previous cost transformation initiatives.
+(3) Tariff refunds relate to non-recurring cash received during the second half of fiscal 2026 following a U.S. Supreme Court ruling invalidating certain IEEPA tariffs, excluding associated interest.
+Reconciliation of Selected Non-GAAP Financial Measures
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Research and Development (GAAP) | $ 66,006 | $ 61,958 | $ 257,777 | $ 279,969
+Stock-based compensation | 5,911 | 7,134 | 23,780 | 36,414
+Amortization of intangibles | 20 | 20 | 81 | 236
+Restructuring and other charges (2)(3) | - | 673 | 4,871 | 12,555
+Research and Development (Non-GAAP) | $ 60,075 | $ 54,131 | $ 229,045 | $ 230,764
+Sales and Marketing (GAAP) | $ 69,116 | $ 67,762 | $ 256,389 | $ 281,192
+Stock-based compensation | 3,428 | 2,705 | 11,920 | 15,783
+Restructuring and other charges (2)(3) | - | 5,949 | 1,499 | 9,779
+Sales and Marketing (Non-GAAP) | $ 65,688 | $ 59,108 | $ 242,970 | $ 255,630
+General and Administrative (GAAP) | 34,348 | 30,480 | 122,351 | 119,837
+Stock-based compensation | 7,638 | 5,377 | 23,954 | 23,219
+Legal and transaction related costs(1) | 5,785 | 2,454 | 15,609 | 5,384
+Amortization of intangibles | 24 | 24 | 94 | 95
+Restructuring and other charges (2)(3) | - | 1,247 | 304 | 7,736
+General and Administrative (Non-GAAP) | $ 20,901 | $ 21,378 | $ 82,390 | $ 83,403
+Total Operating Expenses (GAAP) | $ 169,470 | $ 160,200 | $ 636,517 | $ 680,998
+Stock-based compensation | 16,977 | 15,216 | 59,654 | 75,416
+Legal and transaction related costs (1) | 5,785 | 2,454 | 15,609 | 5,384
+Amortization of intangibles | 44 | 44 | 175 | 331
+Restructuring and other charges (2)(3) | - | 7,869 | 6,674 | 30,070
+Operating Expenses (Non-GAAP) | $ 146,664 | $ 134,617 | $ 554,405 | $ 569,797
+Total Operating (Loss) Income (GAAP) | $ (10,745) | $ (34,409) | $ 89,628 | $ (50,468)
+Stock-based compensation | 18,504 | 16,776 | 64,890 | 81,564
+Legal and transaction related costs (1) | 5,785 | 2,454 | 15,609 | 5,384
+Amortization of intangibles | 2,652 | 2,652 | 13,585 | 12,691
+Restructuring and other charges (2)(3) | - | 7,869 | 7,469 | 33,490
+IEEPA tariff refund benefit (4) | (18,014) | - | (41,168) | -
+Operating (Loss) Income (Non-GAAP) | $ (1,818) | $ (4,658) | $ 150,013 | $ 82,661
+Depreciation | 7,804 | 11,013 | 33,795 | 49,630
+7
+Adjusted EBITDA (Non-GAAP) | $ 5,986 | $ 6,355 | $ 183,808 | $ 132,291
+Total Operating (Loss) Income (GAAP) | $ (10,745) | $ (34,409) | $ 89,628 | $ (50,468)
+Stock-based compensation expense | 18,504 | 16,776 | 64,890 | 81,564
+Legal and transaction related costs (1) | 5,785 | 2,454 | 15,609 | 5,384
+Amortization of intangibles | 2,652 | 2,652 | 13,585 | 12,691
+Restructuring and other charges (2)(3) | - | 7,869 | 7,469 | 33,490
+IEEPA tariff refund benefit (4) | (18,014) | - | (41,168) | -
+Operating (Loss) Income (Non-GAAP) | $ (1,818) | $ (4,658) | $ 150,013 | $ 82,661
+Interest income | 2,508 | 1,528 | 7,950 | 6,934
+Interest expense | (97) | (129) | (427) | (465)
+Interest attributable to IEEPA tariff refunds | (640) | - | (1,418) | -
+Pre-tax (Loss) Income (Non-GAAP) | $ (47) | $ (3,259) | $ 156,118 | $ 89,130
+(Benefit from) provision for income taxes | (4,804) | 3,526 | 5,671 | 10,647
+Net income (loss) (Non-GAAP) | $ | 4,757 | $ | (6,785) | $ | 150,446 | $ | 78,483
+Weighted-average shares non-GAAP, diluted | 121,005,043 | 120,598,219 | 122,305,404 | 122,944,942
+Non-GAAP earnings (loss) per share, diluted | $ 0.04 | $ | (0.06) | $ | 1.23 | $ | 0.64
+(1) Legal and transaction-related costs consist of expenses related to our intellectual property ("IP") litigation against Alphabet and Google, which we do not consider representative of our underlying operating performance.
+(2) Restructuring and other charges for fiscal 2026, include employee-related costs resulting from a reorganization of certain functions and organizational changes driven by new leadership, costs related to exiting a contract manufacturing partnership, and exit costs associated with the partial abandonment of office space.
+(3) Restructuring and other charges for fiscal 2025 primarily reflect costs associated with our previous cost transformation initiatives.
+(4) Tariff refunds relate to non-recurring cash received during the period following a U.S. Supreme Court ruling invalidating certain IEEPA tariffs, excluding associated interest.
+8
+Reconciliation of Net (Loss) Income to Adjusted EBITDA
+(unaudited, dollars in thousands except percentages)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+(In thousands, except percentages)
+Net (loss) income | $ (5,164) | $ (37,858) | $ 89,600 | $ (61,144)
+Add (deduct):
+Depreciation and amortization | 10,456 | 13,665 | 47,380 | 62,321
+Stock-based compensation expense | 18,504 | 16,776 | 64,890 | 81,564
+Interest income | (2,508) | (1,528) | (7,950) | (6,934)
+Interest expense | 97 | 129 | 427 | 465
+Other expense, net | 1,634 | 1,322 | 1,880 | 6,498
+(Benefit from) provision for income taxes | (4,804) | 3,526 | 5,671 | 10,647
+Legal and transaction related costs (1) | 5,785 | 2,454 | 15,609 | 5,384
+IEEPA tariff refund benefit (2) | (18,014) | - | (41,168) | -
+Restructuring and other charges (3)(4) | — | 7,869 | 7,469 | 33,490
+Adjusted EBITDA | $ 5,986 | $ 6,355 | $ 183,808 | $ 132,291
+Revenue | $ 344,441 | $ 287,900 | $ 1,546,890 | $ 1,443,276
+Net (loss) income margin | (1.5)% | (13.1)% | 5.8% | (4.2)%
+Adjusted EBITDA margin | 1.7% | 2.2% | 11.9% | 9.2%
+(1) Legal and transaction-related costs consist of expenses related to our IP litigation against Alphabet and Google, which we do not consider representative of our underlying operating performance.
+(2) Tariff refunds relate to non-recurring cash received during the period following a U.S. Supreme Court ruling invalidating certain IEEPA tariffs, excluding associated interest.
+(3) Restructuring and other charges for fiscal 2026, include employee-related costs resulting from a reorganization of certain functions and organizational changes driven by new leadership, costs related to exiting a contract manufacturing partnership, and exit costs associated with the partial abandonment of office space.
+(4) Restructuring and other charges for fiscal 2025 primarily reflect costs associated with our previous cost transformation initiatives.
+9
+Reconciliation of GAAP Net (Loss) Income to Non-GAAP Net Income (Loss)
+(unaudited, in thousands, except share and per share amounts)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+GAAP net (loss) income | $ (5,164) | $ (37,858) | $ 89,600 | $ (61,144)
+Stock-based compensation expense | 18,504 | 16,776 | 64,890 | 81,564
+Legal and transaction related costs (1) | 5,785 | 2,454 | 15,609 | 5,384
+Amortization of intangibles | 2,652 | 2,652 | 13,585 | 12,691
+Restructuring and other charges (2)(3) | - | 7,869 | 7,469 | 33,490
+Other expense, net | 1,634 | 1,322 | 1,880 | 6,498
+IEEPA tariff refund benefit, including interest (4) | (18,654) | - | (42,587) | -
+Non-GAAP net income (loss) | $ 4,757 | $ (6,785) | $ 150,446 | $ 78,483
+(Loss) earnings per share
+GAAP (loss) earnings per share, diluted | $ (0.04) | $ (0.31) | $ 0.73 | $ (0.51)
+Non-GAAP earnings (loss) per share, diluted | $ 0.04 | $ (0.06) | $ 1.23 | $ 0.64
+Shares used to calculate (loss) earnings per share
+Weighted-average shares GAAP, diluted | 118,312,116 | 120,598,219 | 122,305,404 | 120,753,102
+Weighted-average shares non-GAAP, diluted | 121,005,043 | 120,598,219 | 122,305,404 | 122,944,942
+(1) Legal and transaction-related costs consist of expenses related to our intellectual property ("IP") litigation against Alphabet and Google, which we do not consider representative of our underlying operating performance.
+(2) Restructuring and other charges for fiscal 2026, include employee-related costs resulting from a reorganization of certain functions and organizational changes driven by new leadership, costs related to exiting a contract manufacturing partnership, and exit costs associated with the partial abandonment of office space.
+(3) Restructuring and other charges for fiscal 2025 primarily reflect costs associated with our previous cost transformation initiatives.
+(4) Tariff refunds relate to non-recurring cash received during the period following a U.S. Supreme Court ruling invalidating certain IEEPA tariffs, including associated interest.
+10
+Reconciliation of Cash Flows Provided by Operating Activities to Free Cash Flow
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Cash flows provided by operating activities | $ 499 | $ 2,921 | $ 144,666 | $ 136,869
+Less: Purchases of property and equipment | (5,085) | (5,258) | (21,766) | (28,676)
+Free cash flow | $ (4,586) | $ (2,337) | $ 122,900 | $ 108,193
+Revenue by Product Category
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+(In thousands)
+Sonos speakers | $ 247,540 | $ 206,478 | $ 1,202,123 | $ 1,121,808
+Sonos system products | 77,049 | 65,244 | 263,770 | 249,237
+Partner products and other revenue | 19,852 | 16,178 | 80,997 | 72,231
+Total revenue | $ 344,441 | $ 287,900 | $ 1,546,890 | $ 1,443,276
+Revenue by Geographical Region
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Americas | $ 224,759 | $ 191,900 | $ 972,617 | $ 922,941
+Europe, Middle East and Africa | 95,856 | 77,534 | 482,631 | 441,177
+Asia Pacific | 23,826 | 18,466 | 91,642 | 79,158
+Total revenue | $ 344,441 | $ 287,900 | $ 1,546,890 | $ 1,443,276
+11
+Stock-based Compensation
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+(In thousands)
+Cost of revenue | $ 1,527 | $ 1,560 | $ 5,236 | $ 6,148
+Research and development | 5,911 | 7,244 | 23,963 | 37,060
+Sales and marketing | 3,428 | 2,705 | 11,920 | 15,932
+General and administrative | 7,638 | 5,377 | 24,011 | 27,110
+Total stock-based compensation expense | $ 18,504 | $ 16,886 | $ 65,130 | $ 86,250
+Amortization of Intangibles
+(unaudited, dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Cost of revenue | $ 2,608 | $ 2,608 | $ 13,410 | $ 12,360
+Research and development | 20 | 20 | 81 | 236
+Sales and marketing | - | - | - | -
+General and administrative | 24 | 24 | 94 | 95
+Total amortization of intangibles | $ 2,652 | $ 2,652 | $ 13,585 | $ 12,691
+Use of Non-GAAP Measures
+We have provided in this press release financial information that has not been prepared in accordance with generally accepted accounting principles (“U.S. GAAP”), including Adjusted EBITDA, Adjusted EBITDA margin, non-GAAP operating income (loss), free cash flow, non-GAAP gross margin, non-GAAP net income (loss), non-GAAP cost of revenue, non-GAAP gross profit and non-GAAP diluted earnings (loss) per share. These non-GAAP financial measures are not based on any standardized methodology prescribed by U.S. GAAP and are not necessarily comparable to similarly titled measures presented by other companies. We use these non-GAAP financial measures to evaluate our operating performance and trends. We believe that these non-GAAP financial measures help identify underlying trends in our business that could otherwise be masked by the effect of the expenses and other items that we exclude in these non-GAAP financial measures. Accordingly, we believe that these non-GAAP financial measures provide useful information to investors and others in understanding and evaluating our operating results, enhancing the overall understanding of our past performance and future prospects and allowing for greater transparency with respect to a key financial metric used by
+12
+our management in its financial and operational decision-making. Non-GAAP financial measures should not be considered in isolation of, or as an alternative to, measures prepared in accordance with U.S. GAAP. Investors are encouraged to review the reconciliation of these financial measures to their nearest U.S. GAAP financial equivalents provided in the financial statement tables above. We define Adjusted EBITDA as net income (loss) adjusted to exclude the impact of depreciation and amortization, stock-based compensation expense, interest income, interest expense, other expense (income), income taxes, restructuring and other charges, legal and transaction related fees and other items that we do not consider representative of our underlying operating performance, including, for the second half of fiscal 2026, IEEPA tariff refund benefit. We define Adjusted EBITDA margin as Adjusted EBITDA divided by revenue. We define non-GAAP operating income (loss) as total operating loss adjusted to exclude stock-based compensation expense, legal and transaction related costs, amortization of intangibles and restructuring and other charges and, for the second half of fiscal 2026, IEEPA tariff refund benefit. We define free cash flow as net cash from operations less purchases of property and equipment. We define non-GAAP gross margin as GAAP gross margin, excluding stock-based compensation, amortization of intangible assets and restructuring and other charges and, for the second half of fiscal 2026, IEEPA tariff refund benefit. We define non-GAAP cost of revenue as GAAP cost of revenue less stock-based compensation and amortization of intangibles and restructuring and other charges and, for the second half of fiscal 2026, IEEPA tariff refund benefit. We define non-GAAP gross profit as GAAP gross profit less stock-based compensation, amortization of intangibles, and restructuring and other charges and, for the second half of fiscal 2026, IEEPA tariff refund benefit. We calculate non-GAAP net income (loss) as GAAP net income (loss) less stock-based compensation, legal and transaction related fees, amortization of intangibles, other expense (income) and restructuring and other charges and, for the second half of fiscal 2026, IEEPA tariff refund benefit and interest attributable to IEEPA tariff refund benefit. We calculate non-GAAP diluted income (loss) per share as non-GAAP net income (loss) divided by non-GAAP weighted average diluted shares outstanding during the period. We do not provide a reconciliation of forward-looking non-GAAP financial measures to their comparable GAAP financial measures because we cannot do so without unreasonable effort due to unavailability of information needed to calculate reconciling items and due to the variability, complexity and limited visibility of the adjusting items that would be excluded from the non-GAAP financial measures in future periods. When planning, forecasting and analyzing future periods, we do so primarily on a non-GAAP basis without preparing a GAAP analysis as that would require estimates for items such as stock-based compensation, which is inherently difficult to predict with reasonable accuracy. Stock-based compensation expense is difficult to estimate because it depends on our future hiring and retention needs, as well as the future fair market value of our common stock, all of which are difficult to predict and subject to constant change. In addition, for purposes of setting annual guidance, it would be difficult to quantify stock-based compensation expense for the year with reasonable accuracy in the current quarter. As a result, we do not believe that a GAAP reconciliation would provide meaningful supplemental information about our outlook.
+Forward Looking Statements
+This press release contains forward-looking statements that involve risks and uncertainties. These forward-looking statements include statements regarding our long-term outlook, financial, growth and business strategies and opportunities, market growth and our market share, our operating model and cost structure, and other factors affecting variability in our financial results. These forward-looking statements are only predictions and may differ materially from actual results due to a variety of factors, including, but not limited to: difficulties in and effect of implementing improvements to our operating model and cost structure; the risk that restructuring and related charges may be greater than anticipated or not occur in the expected time frame;
+13
+local law requirements in various jurisdictions regarding elimination of positions; our ability to accurately forecast product demand and effectively forecast and manage owned and channel inventory levels; our ability to successfully introduce software updates; our ability to maintain, enhance and protect our brand image; the impact of global economic, market and political events, including tariffs, global trade tensions, continued inflationary pressures, high interest rates and, in certain markets, foreign currency exchange rate fluctuations; changes in consumer income and overall consumer spending as a result of economic or political uncertainty or conditions, including tariffs; changes in consumer spending patterns; our ability to successfully introduce new products and services and maintain or expand the success of our existing products; the success of our efforts to expand our direct-to-consumer channel; the success of our financial, growth and business strategies; our ability to compete in the market and maintain or expand market share; our ability to maintain relationships with our channel, distribution and technology partners; our ability to meet product demand and manage any product availability delays; supply chain challenges, including shipping and logistics challenges and component supply-related challenges, particularly industry-wide increases in demand for semiconductors and other components necessary for our products primarily related to the build out of new AI technologies and data centers; our ability to protect our brand and intellectual property; our use of artificial intelligence; and the other risk factors identified in our filings with the Securities and Exchange Commission (the “SEC”), including our most recent Annual Report on Form 10-K and subsequent filings. Copies of our SEC filings are available free of charge at the SEC’s website at www.sec.gov, on our investor relations website at https://investors.sonos.com/reports-and-filings/default.aspx or upon request from our investor relations department. All forward-looking statements herein reflect our opinions only as of the date of this press release, and we undertake no obligation, and expressly disclaim any obligation, to update forward-looking statements herein in light of new information or future events. Sonos and Sonos product names are trademarks or registered trademarks of Sonos, Inc. All other product names and services may be trademarks or service marks of their respective owners.
+About Sonos
+Sonos (Nasdaq: SONO) is a leading audio company dedicated to elevating life through sound. Sonos has built a connected system that brings together all the sounds people love, from music and movies to stories and conversations. Its portfolio of home theater speakers, components, plug-in and portable speakers, and headphones grows more powerful with every room and device added. Trusted by more than 17 million households in over 60 countries, Sonos is headquartered in Santa Barbara, California. Learn more at www.sonos.com.
+Investor Contact
+James Baglanis
+IR@sonos.com
+Press Contact
+Tanya Elm
+PR@sonos.com
+Source: Sonos
+14
