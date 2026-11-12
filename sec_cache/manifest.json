@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T10:14:27+08:00",
+  "fetched_at": "2026-11-12T10:29:36+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,118 +16,118 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 360 ms"
+      "detail": "HTTP 200, 60 KB in 247 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 302 ms"
+      "detail": "HTTP 200, 60 KB in 40 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 214 ms"
+      "detail": "HTTP 200, 60 KB in 37 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 53 KB in 210 ms"
+      "detail": "HTTP 200, 53 KB in 77 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 23 ms"
+      "detail": "HTTP 200, 148 KB in 181 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 27 ms"
+      "detail": "HTTP 200, 156 KB in 97 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 19 ms"
+      "detail": "HTTP 200, 153 KB in 39 ms"
     },
     {
-      "name": "Sono Group N.V. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326007302/index.json",
+      "name": "EVOLUTION PETROLEUM CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926125263/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 57 ms"
+      "detail": "HTTP 200, 1 KB in 256 ms"
     },
     {
-      "name": "Sono Group N.V. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326007302/0001171843-26-007302-index.htm",
+      "name": "EVOLUTION PETROLEUM CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926125263/epm-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 35 ms"
+      "detail": "HTTP 200, 923 KB in 132 ms"
     },
     {
-      "name": "Sono Group N.V. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326007302/exh_991.htm",
+      "name": "Sonos Inc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/index.json",
       "ok": true,
-      "detail": "HTTP 200, 88 KB in 171 ms"
+      "detail": "HTTP 200, 1 KB in 96 ms"
     },
     {
-      "name": "PETMED EXPRESS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1040130/000104013026000068/index.json",
+      "name": "Sonos Inc filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/0001314727-26-000105-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 31 ms"
+      "detail": "HTTP 200, 10 KB in 162 ms"
     },
     {
-      "name": "PETMED EXPRESS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1040130/000104013026000068/pets-q22027xex991.htm",
+      "name": "Sonos Inc press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/final4q26earningspressrele.htm",
       "ok": true,
-      "detail": "HTTP 200, 195 KB in 29 ms"
+      "detail": "HTTP 200, 582 KB in 158 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 56 ms"
+      "detail": "HTTP 200, 3,174 KB in 122 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 25 ms"
+      "detail": "HTTP 200, 4,447 KB in 163 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 24 ms"
+      "detail": "HTTP 200, 2,745 KB in 145 ms"
     },
     {
-      "name": "Sono Group N.V. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840416.json",
+      "name": "EVOLUTION PETROLEUM CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006655.json",
       "ok": true,
-      "detail": "HTTP 200, 569 KB in 198 ms"
+      "detail": "HTTP 200, 2,457 KB in 72 ms"
     },
     {
-      "name": "PETMED EXPRESS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001040130.json",
+      "name": "Sonos Inc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001314727.json",
       "ok": true,
-      "detail": "HTTP 200, 2,102 KB in 304 ms"
+      "detail": "HTTP 200, 1,748 KB in 156 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,470 KB in 523 ms"
+      "detail": "HTTP 200, 2,470 KB in 283 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001006655.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001040130.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001314727.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001840416.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -135,10 +135,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1040130_000104013026000068_index.json",
-    "www.sec.gov_Archives_edgar_data_1040130_000104013026000068_pets-q22027xex991.htm",
-    "www.sec.gov_Archives_edgar_data_1840416_000117184326007302_0001171843-26-007302-index.htm",
-    "www.sec.gov_Archives_edgar_data_1840416_000117184326007302_exh_991.htm",
-    "www.sec.gov_Archives_edgar_data_1840416_000117184326007302_index.json"
+    "www.sec.gov_Archives_edgar_data_1006655_000110465926125263_epm-ex99d1.htm",
+    "www.sec.gov_Archives_edgar_data_1006655_000110465926125263_index.json",
+    "www.sec.gov_Archives_edgar_data_1314727_000131472726000105_0001314727-26-000105-index.htm",
+    "www.sec.gov_Archives_edgar_data_1314727_000131472726000105_final4q26earningspressrele.htm",
+    "www.sec.gov_Archives_edgar_data_1314727_000131472726000105_index.json"
   ]
 }
