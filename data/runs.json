@@ -3979,5 +3979,99 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-14T06:38:02+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-14-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 3,
+      "failures": [
+        {
+          "name": "Rhinebeck Bancorp, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "EVOLUTION PETROLEUM CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Sonos Inc company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 3,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1006655",
+        "company": "EVOLUTION PETROLEUM CORP",
+        "accession": "0001104659-26-125263",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1314727",
+        "company": "Sonos Inc",
+        "accession": "0001314727-26-000105",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 0 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-14T06:08:48+08:00",
+      "watch_brief": "briefs/2026-11-14-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
