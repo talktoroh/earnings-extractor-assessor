@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:25:50+08:00",
+  "fetched_at": "2026-11-14T09:43:35+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,132 +16,132 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 39 ms"
+      "detail": "HTTP 200, 60 KB in 61 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 20 ms"
+      "detail": "HTTP 200, 60 KB in 15 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 22 ms"
+      "detail": "HTTP 200, 60 KB in 21 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 20 ms"
+      "detail": "HTTP 200, 55 KB in 16 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 29 ms"
+      "detail": "HTTP 200, 148 KB in 51 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 20 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 21 ms"
+      "detail": "HTTP 200, 154 KB in 15 ms"
     },
     {
-      "name": "MEXCO ENERGY CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/66418/000149315226051498/index.json",
+      "name": "Silence Therapeutics plc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 161 ms"
+      "detail": "HTTP 200, 1 KB in 110 ms"
     },
     {
-      "name": "MEXCO ENERGY CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/66418/000149315226051498/ex99-1.htm",
+      "name": "Silence Therapeutics plc press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/d101909dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 32 ms"
+      "detail": "HTTP 200, 76 KB in 94 ms"
     },
     {
-      "name": "Cyngn Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/index.json",
+      "name": "Digimarc Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 71 ms"
+      "detail": "HTTP 200, 3 KB in 51 ms"
     },
     {
-      "name": "Cyngn Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/0001437749-26-036339-index.htm",
+      "name": "Digimarc Corp filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/0001437749-26-036556-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 56 ms"
+      "detail": "HTTP 200, 15 KB in 92 ms"
     },
     {
-      "name": "Cyngn Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/ex_1008032.htm",
+      "name": "Digimarc Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/ex_1037346.htm",
       "ok": true,
-      "detail": "HTTP 200, 258 KB in 50 ms"
+      "detail": "HTTP 200, 323 KB in 64 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 39 ms"
+      "detail": "HTTP 200, 3,174 KB in 30 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 27 ms"
+      "detail": "HTTP 200, 4,447 KB in 20 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 29 ms"
+      "detail": "HTTP 200, 2,745 KB in 23 ms"
     },
     {
-      "name": "MEXCO ENERGY CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000066418.json",
+      "name": "Silence Therapeutics plc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001479615.json",
       "ok": true,
-      "detail": "HTTP 200, 2,198 KB in 571 ms"
+      "detail": "HTTP 200, 519 KB in 135 ms"
     },
     {
-      "name": "Cyngn Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001874097.json",
+      "name": "Digimarc Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002119322.json",
       "ok": true,
-      "detail": "HTTP 200, 942 KB in 146 ms"
+      "detail": "HTTP 200, 160 KB in 56 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,554 KB in 230 ms"
+      "detail": "HTTP 200, 2,554 KB in 50 ms"
     },
     {
       "name": "EVOLUTION PETROLEUM CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006655.json",
       "ok": true,
-      "detail": "HTTP 200, 2,457 KB in 220 ms"
+      "detail": "HTTP 200, 2,457 KB in 513 ms"
     },
     {
       "name": "Sonos Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001314727.json",
       "ok": true,
-      "detail": "HTTP 200, 1,748 KB in 223 ms"
+      "detail": "HTTP 200, 1,748 KB in 305 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000066418.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001006655.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001314727.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001479615.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001751783.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001874097.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002119322.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -149,10 +149,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_0001437749-26-036339-index.htm",
-    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_ex_1008032.htm",
-    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_index.json",
-    "www.sec.gov_Archives_edgar_data_66418_000149315226051498_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_66418_000149315226051498_index.json"
+    "www.sec.gov_Archives_edgar_data_1479615_000119312526457060_d101909dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1479615_000119312526457060_index.json",
+    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_0001437749-26-036556-index.htm",
+    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_ex_1037346.htm",
+    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_index.json"
   ]
 }
