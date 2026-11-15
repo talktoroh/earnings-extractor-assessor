@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T08:59:49+08:00",
+  "fetched_at": "2026-11-15T09:16:38+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,115 +16,115 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 288 ms"
+      "detail": "HTTP 200, 60 KB in 165 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 264 ms"
+      "detail": "HTTP 200, 60 KB in 134 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 319 ms"
+      "detail": "HTTP 200, 60 KB in 86 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 381 ms"
+      "detail": "HTTP 200, 55 KB in 89 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 46 ms"
+      "detail": "HTTP 200, 148 KB in 52 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 47 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 47 ms"
+      "detail": "HTTP 200, 154 KB in 35 ms"
     },
     {
       "name": "Immix Biopharma, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051402/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 45 ms"
+      "detail": "HTTP 200, 1 KB in 52 ms"
     },
     {
       "name": "Immix Biopharma, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051402/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 59 ms"
+      "detail": "HTTP 200, 45 KB in 96 ms"
     },
     {
       "name": "SUTRO BIOPHARMA, INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1382101/000119312526458641/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 50 ms"
+      "detail": "HTTP 200, 1 KB in 197 ms"
     },
     {
       "name": "SUTRO BIOPHARMA, INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1382101/000119312526458641/stro-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 169 KB in 137 ms"
+      "detail": "HTTP 200, 169 KB in 49 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 74 ms"
+      "detail": "HTTP 200, 3,174 KB in 104 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 69 ms"
+      "detail": "HTTP 200, 4,447 KB in 138 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 64 ms"
+      "detail": "HTTP 200, 2,745 KB in 100 ms"
     },
     {
       "name": "Immix Biopharma, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873835.json",
       "ok": true,
-      "detail": "HTTP 200, 724 KB in 90 ms"
+      "detail": "HTTP 200, 724 KB in 168 ms"
     },
     {
       "name": "SUTRO BIOPHARMA, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001382101.json",
       "ok": true,
-      "detail": "HTTP 200, 1,369 KB in 185 ms"
+      "detail": "HTTP 200, 1,369 KB in 91 ms"
     },
     {
       "name": "Rhinebeck Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
       "ok": true,
-      "detail": "HTTP 200, 2,554 KB in 61 ms"
+      "detail": "HTTP 200, 2,554 KB in 265 ms"
     },
     {
       "name": "EVOLUTION PETROLEUM CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006655.json",
       "ok": true,
-      "detail": "HTTP 200, 2,457 KB in 411 ms"
+      "detail": "HTTP 200, 2,457 KB in 276 ms"
     },
     {
       "name": "Sonos Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001314727.json",
       "ok": true,
-      "detail": "HTTP 200, 1,748 KB in 101 ms"
+      "detail": "HTTP 200, 1,748 KB in 192 ms"
     }
   ],
   "files": [
