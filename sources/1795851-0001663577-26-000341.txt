@@ -1,0 +1,84 @@
+Company: Stewards, Inc. (CIK 1795851)
+Accession: 0001663577-26-000341
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/1795851/000166357726000341/ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1795851/000166357726000341/0001663577-26-000341-index.htm
+Saved: 2026-11-18T06:08:02+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99_1.htm PRESS RELEASE OF STEWARDS, INC., DATED NOVEMBER 16, 2026
+Stewards Reports Third Quarter 2026 Results and Provides Business Update
+• Total assets increased 49% from year-end to $265.3 million; stockholders’ equity totaled $40.8 million
+• Completed the $79 million refinancing of 1818 Park and acquired Envy Pompano Beach, expanding the company’s South Florida real assets portfolio
+• Digital customer portal launched, and the Plaid integration is operating within the underwriting workflow
+• Stewards Business Card development underway with Rain; initial availability to qualified customers targeted for early in the first quarter of 2027
+FORT LAUDERDALE, Fla., Nov. 16, 2026 (GLOBE NEWSWIRE) -- Stewards, Inc. (Nasdaq: SWRD) ("Stewards" or the "company") today reported financial results for the third quarter ended Sept. 30, 2026, and provided an update on its operating and capital priorities. The company expects to file its Quarterly Report on Form 10-Q after the market closes today.
+“The third quarter marked a major step forward for Stewards. We began trading on Nasdaq, completed the $79 million refinancing of 1818 Park, acquired Envy and grew total assets to $265.3 million. We also launched our digital customer portal, put the Plaid integration into operation and advanced the Stewards Business Card with Rain. We have moved quickly to expand the platform across real assets, private credit and technology. Our focus now is turning that expansion into results by improving property performance, increasing private credit deployment as funding capacity expands and moving the Business Card toward initial availability for qualified customers,” said Shaun Quin, chief executive officer.
+Third Quarter and Recent Business Highlights
+Unless otherwise stated, comparisons are against the prior-year period. Financial information is unaudited and presented in U.S. dollars.
+• Began trading on the Nasdaq Capital Market under the ticker SWRD on Sept. 10, 2026.
+• Completed the $79.0 million refinancing of 1818 Park on July 24, 2026, and acquired Envy Pompano Beach on Sept. 23. Envy contributed results from its closing through quarter-end.
+• Total assets increased 49% to $265.3 million as of Sept. 30, 2026, from $178.4 million at Dec. 31, 2025. Total liabilities were $216.0 million, mezzanine equity was $8.5 million and stockholders' equity was $40.8 million.
+• Income from rental property increased 5% to $2.4 million. Total third-quarter revenue was $3.4 million, compared with $5.3 million a year earlier, reflecting lower private credit deployment, partially offset by higher income from rental property.
+• Reported a third-quarter net loss of $19.4 million, compared with $6.4 million a year earlier. The quarter included an $8.5 million noncash change in the fair value of warrant liabilities, $1.6 million of noncash depreciation and amortization and $4.4 million of interest expense.
+Business Update
+Private Credit
+Since 2020, Stewards has originated more than $153 million in funding and supported more than 10,000 businesses. Private credit deployment was lower during the quarter as the company managed available capital and directed capital toward expanding its real estate portfolio.
+Real Assets
+Income from rental property increased to $2.4 million in the third quarter from $2.3 million a year earlier. Envy closed on Sept. 23, and its third-quarter results reflect the period from closing through quarter-end. As of Sept. 30, 1818 Park was 93.0% occupied and 94.9% leased, while Envy was 90.2% occupied and 93.0% leased.
+Larry Botel, president of Stewards Realty, leads the recently integrated JOSS Realty Partners team in overseeing asset management across the portfolio. Botel and the JOSS team bring experience spanning 32 acquisitions totaling approximately 3.4 million square feet and more than $1.2 billion in value. Crown Residential has been engaged to manage both 1818 Park and Envy. The operating focus is improving occupancy and collections, managing concessions, reducing costs, leasing available retail space and evaluating applicable property tax incentives.
+This work supports Stewards’ broader real estate strategy of generating recurring rental income and establishing an equity base that may support future financing while retaining the underlying properties. Any future financing would depend on eligible equity, property values, lender consent, terms and required approvals.
+Technology and the Stewards Business Card
+Stewards launched its digital customer portal during the quarter, giving business owners one place to submit information, upload documents and review funding opportunities. The Plaid integration is operating within the underwriting workflow and supports bank data review. Together, the portal and Plaid integration support a single digital application and underwriting process.
+Following quarter-end, Stewards announced a partnership with Rain to develop the Stewards Business Card, which is intended to provide qualified customers with recurring access to approved capital for business purchases. Stewards expects to manage the customer relationship, underwriting and financing decisions, while Rain is expected to provide card issuance, payment infrastructure and settlement. Initial availability to qualified customers is targeted for early in the first quarter of 2027, subject to integration, testing, compliance and required approvals. After launch, the company intends to report account activations and transaction activity.
+Financial Summary
+Unaudited dollars in thousands except per-share data | Q3 2026 | Q3 2025 | 9M 2026 | 9M 2025
+Total revenues | $3,420 | $5,334 | $10,741 | $12,014
+Gross profit | 1,794 | 3,390 | 5,861 | 8,694
+Loss from operations | (5,691) | (3,460) | (13,861) | (4,712)
+Net loss | (19,355) | (6,412) | (32,301) | (10,395)
+Net loss applicable to common stockholders | $(20,058) | $(7,731) | $(34,346) | $(12,063)
+Basic and diluted loss per share | $(0.09) | $(0.04) | $(0.16) | $(0.09)
+2
+Third-quarter revenue was $3.4 million, compared with $5.3 million in the prior-year quarter. Gross profit was $1.8 million, compared with $3.4 million. Loss from operations was $5.7 million, compared with $3.5 million, and net loss was $19.4 million, compared with $6.4 million. Net loss applicable to common stockholders was $20.1 million, or $0.09 per basic and diluted share, compared with $7.7 million, or $0.04 per basic and diluted share.
+For the first nine months of 2026, revenue was $10.7 million, compared with $12.0 million in the prior-year period. Net loss was $32.3 million, compared with $10.4 million, and net loss applicable to common stockholders was $34.3 million, compared with $12.1 million. Net cash used in operating activities was $12.9 million, including $7.9 million of cash interest payments.
+The $8.5 million noncash charge resulted primarily from the remeasurement of warrants issued under the affiliated debt facility before their reclassification to equity. The charge did not use cash during the quarter.
+“Third-quarter results reflect the costs of expanding and financing the real estate portfolio, lower private credit deployment and the additional infrastructure required of a Nasdaq-listed company,” said Katy Murless, CFA, chief financial officer. “Our priorities are improving property performance, increasing private credit deployment as funding capacity expands and strengthening the capital structure. We took several capital actions after quarter-end and are completing the remaining documentation and conditions.”
+Capital Structure and Liquidity
+At Sept. 30, 2026, Stewards had $2.0 million in cash and cash equivalents. An additional $7.4 million was held in restricted, lender-required reserve accounts. Current liabilities exceeded current assets by $25.8 million, including the $20.1 million carrying amount of the Envy required-redemption liability that Stewards agreed to restructure after quarter-end, as described below. Because the September Nasdaq listing was a direct uplisting, the company did not receive primary capital proceeds in connection with the listing.
+Selected unaudited dollars in thousands | Sept. 30, 2026 | Dec. 31, 2025
+Cash and cash equivalents | $1,952 | $4,904
+Restricted cash | 7,441 | 3,274
+Current assets | 17,020 | 23,447
+Total assets | 265,274 | 178,363
+Current liabilities | 42,806 | 97,586
+Total liabilities | 215,986 | 132,700
+Mezzanine equity | 8,462 | 8,462
+Stockholders' equity | 40,826 | 37,201
+Stewards has used company resources, affiliated capital and third-party financing to expand its real estate portfolio, private credit platform, technology and public company infrastructure. Management is focused on supporting operations and strengthening the capital structure.
+On Aug. 13, 2026, Stewards entered into a binding written commitment with a related-party fund for at least $24.0 million of funding over 12 months through existing and new debt-financing arrangements. The company had received $1.4 million as of the date of filing, leaving $22.6 million under the commitment. The timing and availability of additional funding depend on the funding source’s capacity and restrictions in existing debt agreements.
+As described in Note 2 to the condensed consolidated financial statements in the Form 10-Q, conditions existed that, before consideration of management’s plans, raised substantial doubt about the company’s ability to continue as a going concern. These conditions included the Envy required-redemption payments due Oct. 5 and Nov. 5, 2026, which were not made; unpaid interest on the company’s 15% notes for periods after Aug. 31, 2026; and obligations due within one year, including a $2.0 million note due Nov. 30, 2026, a $1.6 million installment due Jan. 15, 2027, $443,000 of unpaid interest due Sept. 1, 2026, to Stewards International Funds PCC and $5.0 million of secured convertible notes maturing Jan. 23, 2027. Management’s plans were approved by the board of directors on Nov. 15, 2026. Management concluded that implementation of these plans is probable and, when implemented, will mitigate the conditions that raised substantial doubt. Accordingly, substantial doubt has been alleviated.
+3
+Capital and Liability Actions After Quarter-End
+• Noteholder standstill and interest deferral: On Oct. 30, 2026, holders of approximately $31.8 million of Stewards’ 15% secured promissory notes confirmed their approval of a waiver of defaults arising from the timing of interest payments, a standstill with respect to unpaid interest through Dec. 31, 2027, and the deferral of cash interest payments. The company is drafting formal agreements to document these terms.
+• Envy amendment: After quarter-end, Stewards entered into an amendment to the Envy acquisition terms under which, upon effectiveness, the related $21.0 million contractual cash-redemption obligation will be satisfied by exchanging 7.0 million escrowed common shares for 7.0 million shares of Series D convertible preferred stock. Stewards will also issue a $1.4 million unsecured note for late-payment damages and the late charge on the $2.0 million Envy note. The amendment will become effective upon satisfaction of the remaining conditions, including receipt of a required lender consent, the filing and acceptance of the Series D certificate of designation and release of the escrowed common shares for cancellation. Because the amendment was entered into after quarter-end, it is not reflected in the Sept. 30, 2026, balance sheet. The Series D shares are convertible one-for-one into common stock.
+• October financing: On Oct. 28, 2026, Stewards issued a $6.05 million convertible note for a $5.5 million purchase price and received approximately $4.9 million in net proceeds. Because the financing closed after quarter-end, the proceeds are not included in the Sept. 30 cash balance. The note includes conversion, commitment-share and mandatory-prepayment provisions. Any additional notes require mutual agreement.
+The warrants, Series D preferred shares, convertible note and related commitment shares may result in dilution to existing shareholders.
+The Form 10-Q expected to be filed after the market closes today will include additional information about the company's liquidity, financing obligations and the actions described above.
+Near-Term Execution Priorities
+• Private Credit: Advance the current product pipeline, expand partner and direct-to-merchant origination, and increase deployment in line with funding capacity while maintaining underwriting discipline.
+• Real Assets: Improve occupancy, collections and operating efficiency at 1818 Park and Envy while pursuing retail leasing and evaluating applicable property tax incentives.
+• Stewards Business Card: Advance integration, testing and compliance work toward targeted initial availability to qualified customers early in the first quarter of 2027, subject to required approvals.
+• Capital Structure: Complete formal documentation of the noteholder waiver, standstill and cash interest deferral, and advance other capital structure initiatives.
+Quarterly Earnings and Business Update
+A recorded third-quarter 2026 earnings and business update featuring Shaun Quin and Katy Murless will be available at 5 p.m. Eastern time today in the Investor Relations section of stewards.com. The update will remain available on the same site.
+About Stewards
+Stewards, Inc. (Nasdaq: SWRD) is a diversified financial platform operating across private credit, real assets and technology-enabled operations. Through Stewards Business Capital, the company provides revenue-based financing to small and midsize businesses through an established origination, underwriting and servicing platform. Stewards' Real Assets business owns and operates a portfolio of multifamily, mixed-use and commercial real estate assets, while the company continues to develop technology designed to improve operating efficiency and connectivity across its businesses. Stewards is headquartered in Fort Lauderdale, Florida. For more information, visit stewards.com.
+4
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of the federal securities laws. These statements include statements regarding the development, functionality, integration and targeted initial availability of the Stewards Business Card to qualified customers early in the first quarter of 2027; the expected benefits of the digital customer portal and Plaid-enabled underwriting workflow; customer acquisition, underwriting, private credit deployment and direct origination; real estate stabilization and operating performance; the availability of capital; the formal documentation, implementation and expected liquidity effects of the noteholder waiver, standstill and cash interest deferral; the effectiveness and expected effects of the Envy amendment; and Stewards’ ability to address near-term obligations, improve liquidity and execute its financing and liability management plans. Words such as "expects," "intends," "plans," "targets," "believes," "may," "will," "should" and similar expressions identify forward-looking statements. These statements are based on current expectations and involve risks and uncertainties that could cause actual results to differ materially, including product delays or required approvals; the availability and cost of capital; failure to satisfy remaining conditions or complete planned amendments; lender and counterparty performance; credit losses; real estate operating performance; the company’s ability to fund its obligations as they become due, including through the related-party funding commitment; dilution from warrants, convertible securities or other financings; and the risks described in Stewards’ filings with the Securities and Exchange Commission. Forward-looking statements speak only as of the date made, and Stewards undertakes no obligation to update them except as required by law.
+Investor and Media Contact
+Scott McGowan
+Investor Relations
+ir@stewards.com
+5

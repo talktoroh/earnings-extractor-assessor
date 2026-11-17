@@ -1364,5 +1364,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/final4q26earningspressrele.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472726000105/0001314727-26-000105-index.htm",
     "saved_at": "2026-11-13T06:08:13+08:00"
+  },
+  {
+    "cik": "1795851",
+    "company": "Stewards, Inc.",
+    "accession": "0001663577-26-000341",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3.42,
+        "unit": "USD millions",
+        "quote": "Total revenues | $3,420 | $5,334"
+      },
+      "operating_income": {
+        "value": -5.691,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (5,691) | (3,460)"
+      },
+      "net_income": {
+        "value": -19.355,
+        "unit": "USD millions",
+        "quote": "Net loss | (19,355) | (6,412)"
+      },
+      "diluted_eps": {
+        "value": -0.09,
+        "unit": "USD per share",
+        "quote": "Basic and diluted loss per share | $(0.09) | $(0.04)"
+      }
+    },
+    "guidance": {
+      "text": "The company targets initial availability of the Stewards Business Card to qualified customers early in the first quarter of 2027, subject to approvals.",
+      "quote": "Initial availability to qualified customers is targeted for early in the first quarter of 2027, subject to integration, testing, compliance and required approvals."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says third-quarter revenue fell, reflecting lower private credit deployment, partly offset by higher rental income.",
+        "quote": "Total third-quarter revenue was $3.4 million, compared with $5.3 million a year earlier, reflecting lower private credit deployment, partially offset by higher income from rental property."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says results reflect the costs of expanding and financing the real estate portfolio and of being Nasdaq-listed.",
+        "quote": "Third-quarter results reflect the costs of expanding and financing the real estate portfolio, lower private credit deployment and the additional infrastructure required of a Nasdaq-listed company"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the focus is on improving property performance and increasing private credit deployment.",
+        "quote": "Our focus now is turning that expansion into results by improving property performance, increasing private credit deployment as funding capacity expands and moving the Business Card toward initial availability for qualified customers."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the quarter a major step forward, while the CFO cites costs, lower deployment and financing actions."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1795851-0001663577-26-000341.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000341/ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000341/0001663577-26-000341-index.htm",
+    "saved_at": "2026-11-18T06:08:02+08:00"
+  },
+  {
+    "cik": "1162896",
+    "company": "Prairie Operating Co.",
+    "accession": "0001162896-26-000013",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 129.502,
+        "unit": "USD millions",
+        "quote": "Total revenue | $ | 129,502 | $ | 98,859"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -48.934,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to Prairie Operating Co. | (48,934 | ) | 1,287"
+      },
+      "diluted_eps": {
+        "value": -0.28,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.28 | ) | $ | (0.44"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says sales volumes rose 21% and revenue rose 31% from the prior quarter to $129.5 million.",
+        "quote": "Average daily sales volumes increased 21% from the prior quarter to 2.4 MMboe or 26,117 Boe per day, driving revenue growth of 31% from the prior quarter to $129.5 million."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says lease operating expense per Boe fell 17% from the prior quarter.",
+        "quote": "We achieved that growth while reducing lease operating expense per Boe by 17% from the prior quarter"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO says the company is evaluating ways to refinance the remaining Series F preferred stock.",
+        "quote": "We continue to evaluate opportunities to refinance the remaining Series F preferred stock as part of our broader effort to strengthen Prairie’s balance sheet"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management stresses growth in volumes and revenue, lower unit costs and strong well results."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1162896-0001162896-26-000013.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/ef20084670_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/0001162896-26-000013-index.htm",
+    "saved_at": "2026-11-18T06:08:02+08:00"
   }
 ]

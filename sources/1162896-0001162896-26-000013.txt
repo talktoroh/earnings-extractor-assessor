@@ -1,0 +1,353 @@
+Company: Prairie Operating Co. (CIK 1162896)
+Accession: 0001162896-26-000013
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/ef20084670_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/0001162896-26-000013-index.htm
+Saved: 2026-11-18T06:08:02+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ef20084670_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+Prairie Operating Co. Announces Third Quarter 2026 Results
+Houston, Texas, November 12, 2026 (GLOBE NEWSWIRE) — Prairie Operating Co. (Nasdaq: PROP) (the “Company,” “Prairie,” “we,” “our,” or “us”) – an independent energy company engaged in the development and acquisition of oil, natural gas, and natural gas liquids (“NGL”) resources in the Denver-Julesburg (DJ) Basin – today announced its financial and operational results for the quarter ended September 30, 2026.
+Third Quarter 2026 Results Summary
+•
+Sales volumes of 2.4 MMBoe, or 26,117 Boe/d, a total volume increase of 21% from the prior quarter, with 77% liquids (56% oil).
+•
+Revenue of $129.5 million, an increase of 31% from the prior quarter.
+•
+Net loss attributable to Prairie Operating Co. common stockholders of $34.0 million, or $0.26 per basic and $0.28 per diluted share.
+•
+Generated Adjusted EBITDA(1) of $65.3 million, an increase of 92% from the prior quarter.
+•
+Lease operating expense per Boe of $5.71, a decrease of 17% from the prior quarter.
+•
+Exit rate production of approximately 30,229 Boe/d.
+•
+General and administrative expenses decreased 24% from the prior quarter to $4.56 per Boe.
+Key Highlights for Year-to-Date 2026
+•
+Sales volumes of 6.5 MMBoe, or approximately 23,730 Boe/d, with 74% liquids (52% oil).
+•
+All 27 wells drilled across four pads were online at September 30, 2026.
+•
+Total revenue of $311.8 million, an increase of approximately 97% year-over-year.
+•
+Adjusted EBITDA(1) of $136.4 million, an increase of approximately 37% year-over-year.
+•
+Brought Burnett online at the end of August and Castor online at the end of September.
+•
+During the third quarter, extended the issuance date of the Series F Preferred Stock anniversary warrants to December 1, 2026.
+•
+Subsequent to quarter-end, production reached approximately 32,287 Boe/d.
+(1) Adjusted EBITDA is a non-GAAP financial measure. See “Non-GAAP Financial Measures” for the definition and a reconciliation of GAAP to non-GAAP financial measures used in this press release.
+Greg Patton, Chief Executive Officer, commented:
+“Prairie’s third-quarter results demonstrate the strength of our assets and the excellent work our team continues to deliver across our development program. Average daily sales volumes increased 21% from the prior quarter to 2.4 MMboe or 26,117 Boe per day, driving revenue growth of 31% from the prior quarter to $129.5 million. We achieved that growth while reducing lease operating expense per Boe by 17% from the prior quarter, reflecting our continued focus on improving well performance and operating efficiency.”
+“Our Burnett development is a significant step forward in demonstrating the value of Prairie’s acreage. Its production results supported the conversion of 30 gross possible locations to proved undeveloped locations within Genesis OGDP I, expanding our proved inventory and reducing uncertainty around nearby development. By bringing 37 wells across five pads online by the quarter-end, we have a stronger production base and even greater confidence in the opportunities ahead.”
+Michael Shelly, Executive Vice President and Chief Financial Officer, added:
+“Prairie generated $65.3 million of Adjusted EBITDA in the third quarter, an increase of 92% from the prior quarter, as sales volumes increased and unit operating costs declined. With Burnett and Castor now producing, our focus is on realizing the cash returns from the capital invested this year and carefully managing the spending required to sustain that production.”
+“We continue to evaluate opportunities to refinance the remaining Series F preferred stock as part of our broader effort to strengthen Prairie’s balance sheet, improve financial flexibility and better align our capital structure with the scale of our operations. Our objective is to support Prairie’s operating momentum through disciplined financial management and capital allocation that creates sustainable, long-term shareholder value.”
+1
+Operations Update
+During the third quarter of 2026, Prairie recorded sales volumes of 2,403 MBoe, an increase of 21% from the prior quarter, which equates to average daily sales volumes of 26,117 Boe/d. Oil represented approximately 56% of sales volumes, and liquids represented approximately 77%.
+Operated and non-operated production reached a third-quarter peak of approximately 30,229 Boe/d at the end of September. As a result of the wells being turned in line during the third quarter, production continued to increase following quarter-end, with production reaching approximately 32,287 Boe/d by early October.
+Year to date, Prairie has drilled 27 wells across four pads, with 19 wells drilled in a single run. Year-to-date wells averaged approximately 18,700 feet in measured depth, an average rate of penetration of 380 feet per hour and an average spud-to-rig-release time of 6.2 days.
+The four-well Burnett pad came online at the end of August, delivering successful initial production results that validate the quality and future development potential of Prairie’s acreage. Maximum initial production averaged approximately 722 Boe/d per well, with 81% oil on a two-stream basis, and cumulative gross production reached 131,490 Boe through October 20, 2026.
+Completion activities on the six-well Castor pad were finalized in September, with the wells coming online at the end of September. The late-quarter start limited Castor’s contribution to third-quarter average production.
+The strong drilling, completion and early production performance supported the conversion of 30 gross possible locations to proved undeveloped locations within the 5,700-acre Genesis OGDP I. These results reinforce the commercial viability of nearby undeveloped locations, de-risk Prairie’s near-term development inventory and provide greater confidence in future development across the project area. The Company remains focused on well performance, operating efficiency and disciplined capital allocation.
+2
+Summary Financial Highlights
+Three Months Ended | % Change | Three Months Ended | % Change | Nine Months Ended | % Change
+September 30, | June 30, | Q326 to | September 30, | Q326 to | September 30, | YTD 2026 to
+2026 | 2026 | Q226 | 2025 | Q325 | 2026 | 2025 (1) | YTD 2025
+(In thousands)
+Total revenue | $ | 129,502 | $ | 98,859 | 31 | % | $ | 77,721 | 67 | % | $ | 311,778 | $ | 158,638 | 97 | %
+Net (loss) income attributable to Prairie Operating Co. common stockholders | $ | (33,994 | ) | $ | 193,794 | NM | $ | (22,508 | ) | (51) | % | $ | (14,597 | ) | $ | (67,478 | ) | 78 | %
+Adjusted EBITDA (2) | $ | 65,304 | $ | 34,010 | 92 | % | $ | 56,315 | 16 | % | $ | 136,446 | $ | 99,518 | 37 | %
+NM
+Percent not meaningful
+(1)
+Total revenue and net loss attributable to Prairie Operating Co. common stockholders for the nine months ended September 30, 2025, includes revenues and related expenses attributable to the assets acquired from Bayswater Resources, LLC, Bayswater Fund III-A, LLC, Bayswater Fund III-B, LLC, Bayswater Fund IV-A, LP, Bayswater Fund IV-B, LP, Bayswater Fund IV-Annex, LP, and Bayswater Exploration & Production, LLC (collectively, “Bayswater”) beginning on March 26, 2025, the closing date of the Bayswater acquisition, through September 30, 2025.
+(2)
+Adjusted EBITDA is a non-GAAP financial measure. See "Non-GAAP Financial Measures" for the definition and a reconciliation of GAAP to non-GAAP financial measures used in this press release.
+3
+Revenues, Sales Volumes, and Operational Metrics
+Revenue for the third quarter of 2026 was $129.5 million, including $114.0 million related to oil, an increase in total revenue of 31% from the prior quarter. Sales volumes totaled 2,403 MBoe, or 26,117 Boe/d, and were comprised of approximately 56% oil and 77% liquids.
+For the third quarter of 2026, lease operating expenses were $13.7 million, or $5.71 per Boe, a decline of 17% from the prior quarter on a per-Boe basis. Transportation and processing expenses were $2.4 million, or $1.00 per Boe; ad valorem and production taxes were $11.9 million, or $4.96 per Boe; and general and administrative expenses were $11.0 million, or $4.56 per Boe.
+Three Months Ended | % Change | Three Months Ended | % Change | Nine Months Ended | % Change
+September 30, | June 30, | Q326 to | September 30, | Q326 to | September 30, | YTD 2026
+2026 | 2026 | Q226 | 2025 | Q325 | 2026 | 2025 (1) | to 2025
+Revenues (in thousands)
+Oil revenue | $ | 113,969 | $ | 93,458 | 22 | % | $ | 64,906 | 76 | % | $ | 275,265 | $ | 133,635 | 106 | %
+Natural gas revenue (2) (3) | 3,537 | (4,292 | ) | 182 | % | 5,099 | (31 | )% | 8,201 | 7,645 | 7 | %
+NGL revenue (3) | 11,996 | 9,693 | 24 | % | 7,716 | 55 | % | 28,312 | 17,358 | 63 | %
+Total revenues | $ | 129,502 | $ | 98,859 | 31 | % | $ | 77,721 | 67 | % | $ | 311,778 | $ | 158,638 | 97 | %
+Sales volumes
+Oil (MBbls) | 1,349 | 992 | 36 | % | 1,106 | 22 | % | 3,340 | 2,149 | 55 | %
+Natural gas (MMcf) | 3,359 | 3,299 | 2 | % | 3,513 | (4 | )% | 10,196 | 7,338 | 39 | %
+NGL (MBbls) | 494 | 448 | 10 | % | 428 | 15 | % | 1,439 | 957 | 50 | %
+Total sales volumes (MBoe) (4) | 2,403 | 1,990 | 21 | % | 2,120 | 13 | % | 6,478 | 4,329 | 50 | %
+% oil | 56 | % | 50 | % | 52 | % | 52 | % | 50 | %
+% liquids | 77 | % | 72 | % | 72 | % | 74 | % | 72 | %
+Average sales volumes per day (Boe/d) | 26,117 | 21,866 | 19 | % | 23,029 | 13 | % | 23,730 | 15,917 | 49 | %
+Average realized price (excluding effects of derivatives)
+Oil (per Bbl) | $ | 84.48 | $ | 94.21 | (10 | )% | $ | 58.70 | 44 | % | $ | 82.41 | $ | 62.18 | 33 | %
+Natural gas (per Mcf) (2) (3) | $ | 1.05 | $ | (1.30 | ) | 181 | % | $ | 1.45 | (28 | )% | $ | 0.80 | $ | 1.04 | (23 | )%
+NGL (per Bbl) (3) | $ | 24.28 | $ | 21.64 | 12 | % | $ | 18.03 | 35 | % | $ | 19.67 | $ | 18.14 | 8 | %
+Average realized price (per Boe) | $ | 53.90 | $ | 49.68 | 8 | % | $ | 36.68 | 47 | % | $ | 48.13 | $ | 36.64 | 31 | %
+Average sales price (including effects of derivatives)
+Oil (per Bbl) | $ | 62.24 | $ | 59.79 | 4 | % | $ | 61.39 | 1 | % | $ | 59.80 | $ | 65.25 | (8 | )%
+Natural gas (per Mcf) (2) (3) | $ | 2.14 | $ | (0.20 | ) | NM | $ | 2.97 | (28 | )% | $ | 1.27 | $ | 1.90 | (33 | )%
+NGL (per Bbl) (3) | $ | 19.98 | $ | 16.72 | 19 | % | $ | 17.32 | 15 | % | $ | 16.48 | $ | 17.37 | (5 | )%
+Average price (per Boe) | $ | 42.04 | $ | 33.25 | 26 | % | $ | 40.47 | 4 | % | $ | 36.49 | $ | 39.45 | (8 | )%
+Operating expense per BOE
+Lease operating expenses | $ | 5.71 | $ | 6.85 | (17 | )% | $ | 7.25 | (21 | )% | $ | 6.51 | $ | 6.64 | (2 | )%
+Transportation and processing | $ | 1.00 | $ | 1.22 | (18 | )% | $ | 1.04 | (4 | )% | $ | 1.13 | $ | 1.05 | 8 | %
+Ad valorem and production taxes | $ | 4.96 | $ | 4.01 | 24 | % | $ | 2.21 | 124 | % | $ | 4.13 | $ | 2.78 | 49 | %
+Depreciation, depletion, and amortization | $ | 10.78 | $ | 8.58 | 26 | % | $ | 7.61 | 42 | % | $ | 9.08 | $ | 7.04 | 29 | %
+General and administrative expenses | $ | 4.56 | $ | 6.01 | (24 | )% | $ | 5.79 | (21 | )% | $ | 6.14 | $ | 7.92 | (22 | )%
+NM
+Percent not meaningful
+(1)
+Total revenues, sales volumes, and operating expenses per Boe for the nine months ended September 30, 2025, include revenues, sales volumes, and operating expenses per Boe from the assets acquired from Bayswater beginning on March 26, 2025, the closing date of the Bayswater Acquisition, through September 30, 2025.
+(2)
+For the three months ended June 30, 2026, we realized negative natural gas revenue and average realized prices (excluding and including the effects of derivatives) due to lower gross sales, driven by decreased pricing during the quarter, compared to gathering and processing fees.
+(3)
+We have reclassified certain gathering and processing fees presented net within natural gas and NGL sales for the three and nine months ended September 30, 2025 to conform with the allocation used during the three months ended June 30, 2026 and the three and nine months ended September 30, 2026. This reallocation has no impact on our total revenues or net (loss) income attributable to Prairie Operating Co. as reported on the condensed consolidated statements of operations.
+(4)
+MBoe is calculated using six MMcf of natural gas equivalent to one MBbl of oil.
+4
+Liquidity and Capital Resources
+As of September 30, 2026, we had cash and cash equivalents of $7.8 million and availability of $3.0 million under the reserve-based credit agreement with Citibank, N.A. (the “Credit Facility”). As of September 30, 2026, the Credit Facility had a borrowing base of $475.0 million and aggregate elected commitments of $475.0 million.
+Commodity Hedges
+As of September 30, 2026, we had the following outstanding crude oil, natural gas, and NGL derivative contracts in place, which settle monthly and are indexed to NYMEX West Texas Intermediate, NYMEX Henry Hub, and Mont Belvieu OPIS, respectively:
+Settling October 1, 2026 through December 31, 2026 | Settling January 1, 2027 through December 31, 2027 | Settling January 1, 2028 through December 31, 2028 | Settling January 1, 2029 through December 31, 2029
+Crude Oil Swaps:
+Notional volume (Bbls) | 1,367,376 | 4,662,503 | 2,862,307 | 210,000
+Weighted average price ($/Bbl) | $ | 63.23 | $ | 62.51 | $ | 62.17 | $ | 61.57
+Natural Gas Swaps:
+Notional volume (MMBtus) | 4,300,655 | 14,082,126 | 5,606,357 | 400,000
+Weighted average price ($/MMBtu) | $ | 4.09 | $ | 4.08 | $ | 4.02 | $ | 4.11
+Ethane Swaps:
+Notional volume (Bbls) | 120,246 | 400,675 | 220,109 | —
+Weighted average price ($/Bbl) | $ | 11.17 | $ | 10.70 | $ | 9.96 | $ | —
+Propane Swaps:
+Notional volume (Bbls) | 152,034 | 522,684 | 199,160 | —
+Weighted average price ($/Bbl) | $ | 28.80 | $ | 26.85 | $ | 25.93 | $ | —
+Iso Butane Swaps:
+Notional volume (Bbls) | 22,142 | 74,572 | 35,088 | —
+Weighted average price ($/Bbl) | $ | 35.84 | $ | 31.77 | $ | 30.77 | $ | —
+Normal Butane Swaps:
+Notional volume (Bbls) | 54,147 | 184,140 | 74,903 | —
+Weighted average price ($/Bbl) | $ | 36.02 | $ | 31.95 | $ | 30.36 | $ | —
+Pentane Plus Swaps:
+Notional volume (Bbls) | 47,452 | 160,242 | 78,806 | —
+Weighted average price ($/Bbl) | $ | 55.76 | $ | 53.31 | $ | 52.81 | $ | —
+5
+Cautionary Statement about Forward-Looking Statements
+The information included in this press release and in any oral statements made in connection herewith include “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements include, without limitation, statements regarding future financial performance, business strategies, expansion plans, future results of operations, estimated revenues, losses, projected costs, prospects, plans and objectives of management. These forward-looking statements are based on our management’s current expectations, estimates, projections and beliefs, as well as a number of assumptions concerning future events, and are not guarantees of performance. Such statements can be identified by the fact that they do not relate strictly to historical or current facts. When used in this press release, words such as “may,” “should,” “could,” “would,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “continue,” “project” or the negative of such terms or other similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. The forward-looking statements contained herein are based on our current expectations and beliefs concerning future developments and their potential effects on us. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements.
+These risks are not exhaustive. Other sections of this press release could include additional factors that could adversely affect our business and financial performance. Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time, and it is not possible for our management to predict all risk factors nor can we assess the effects of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in, or implied by, any forward-looking statements. Our Securities and Exchange Commission (the “SEC”), filings are available publicly on the SEC website at www.sec.gov. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. Accordingly, forward-looking statements in this press release should not be relied upon as representing our views as of any subsequent date, and we undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+All forward-looking statements expressed or implied, included in this press release are expressly qualified in their entirety by this cautionary statement.
+Regulation FD Disclosure
+The Company announces material information to the public through a variety of means, including filings with the SEC, press releases, public conference calls, and the investor relations section of its website at www.prairieopco.com.
+In addition to these traditional channels, the Company also uses its official social media accounts as a means of disclosing information about Prairie and its business, and to comply with its disclosure obligations under Regulation FD. The Company’s official social media accounts currently include @PrairieOpCo on X (formerly Twitter) and linkedin.com/company/prairie-operating-co on LinkedIn. Information the Company posts through these social media channels may be deemed material. Accordingly, investors, the media, and others interested in the Company should monitor these accounts in addition to following the Company’s press releases, SEC filings, and public conference calls and webcasts. The Company may update the list of official social media accounts from time to time, and any such updates will be posted on the investor relations section of its website.
+About Prairie Operating Co.
+Prairie Operating Co. is a Houston-based publicly traded independent energy company engaged in the development and acquisition of oil, natural gas, and natural gas liquid resources in the United States. The Company’s assets and operations are concentrated in the oil and liquids-rich regions of the Denver-Julesburg (DJ) Basin, with a primary focus on the Niobrara and Codell formations. The Company is committed to the responsible development of its oil natural gas, and natural gas liquid resources and is focused on maximizing returns through consistent growth, capital discipline, and sustainable cash flow generation.
+More information about the Company can be found at www.prairieopco.com.
+Investor Relations Contact:
+Wobbe Ploegsma
+info@prairieopco.com
+720-716-5415
+6
+Prairie Operating Co. and Subsidiaries
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In thousands, except share amounts)
+September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 7,751 | $ | 20
+Oil, natural gas, and NGL accrued revenue | 43,857 | 22,728
+Joint interest and other receivables | 7,560 | 23,106
+Derivative assets, net | — | 28,812
+Inventory | 2,672 | 3,604
+Prepaid expenses and other current assets | 2,605 | 1,452
+Total current assets | 64,445 | 79,722
+Property and equipment:
+Oil and natural gas properties, successful efforts method of accounting including $45,787 and $57,897 excluded from depletable base as of September 30, 2026 and December 31, 2025, respectively | 1,072,924 | 852,732
+Other property and equipment | 24,367 | 21,067
+Less: Accumulated depreciation, depletion, and amortization | (107,907 | ) | (49,343 | )
+Total property and equipment, net | 989,384 | 824,456
+Deferred tax asset | 15,342 | —
+Derivative assets, net | — | 24,627
+Debt issuance costs, net | 12,171 | 12,642
+Operating lease assets | 5,168 | 2,966
+Other non–current assets | 167 | 133
+Total assets | $ | 1,086,677 | $ | 944,546
+Liabilities, Mezzanine Equity, and Stockholders’ Equity
+Current liabilities:
+Accounts payable and accrued expenses | $ | 107,096 | $ | 62,792
+Oil, natural gas, and NGL revenue payable | 30,184 | 30,300
+Ad valorem and production taxes payable | 25,517 | 31,385
+Derivative liabilities, net | 90,311 | —
+Operating lease liabilities | 1,565 | 1,300
+Total current liabilities | 254,673 | 125,777
+Long–term liabilities:
+Credit facility | 472,000 | 366,000
+Subordinated note – related party | 1,458 | 1,458
+Series F convertible preferred stock embedded derivatives, at fair value | 8,991 | 15,853
+Series F convertible preferred stock warrants, at fair value | 5,437 | 90,134
+Incremental share right liability, at fair value | 7,243 | —
+Derivative liabilities, net | 47,072 | —
+Oil, natural gas, and NGL revenue payable | 33,238 | 27,402
+Ad valorem and production taxes payable | 25,037 | 22,751
+Deferred tax liability | — | 21,652
+Asset retirement obligation | 3,933 | 4,019
+Operating lease liabilities | 3,785 | 1,792
+Other long-term liabilities | 992 | 1,398
+Total long–term liabilities | 609,186 | 552,459
+Total liabilities | 863,859 | 678,236
+Commitments and contingencies
+Mezzanine equity:
+Series F convertible preferred stock; $0.01 par value; 50,000,000 shares authorized, and 74,506 and 121,050 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 21,337 | 136,146
+Stockholders’ equity:
+Series D convertible preferred stock; $0.01 par value; 50,000 shares authorized, and 44 and 5,982 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | — | —
+Common stock; $0.01 par value; 500,000,000 shares authorized, and 118,681,858 and 62,499,375 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 1,189 | 625
+Treasury stock, at cost; 715,955 and 111,357 shares as of September 30, 2026 and December 31, 2025, respectively | (1,778 | ) | (531 | )
+Additional paid–in capital | 382,375 | 217,785
+Accumulated deficit | (180,305 | ) | (87,715 | )
+Total stockholders’ equity | 201,481 | 130,164
+Total liabilities, mezzanine equity, and stockholders’ equity | $ | 1,086,677 | $ | 944,546
+7
+Prairie Operating Co. and Subsidiaries
+Condensed Consolidated Statements of Operations
+(Unaudited)
+(In thousands, except share amounts)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues:
+Crude oil, natural gas, and NGL revenues | $ | 129,502 | $ | 77,721 | $ | 311,778 | $ | 158,638
+Operating expenses:
+Lease operating expenses | 13,737 | 15,371 | 42,206 | 28,732
+Transportation and processing expenses | 2,395 | 2,200 | 7,317 | 4,567
+Ad valorem and production taxes | 11,916 | 4,676 | 26,691 | 12,049
+Depreciation, depletion, and amortization | 25,900 | 16,113 | 58,819 | 30,500
+Exploration expenses | 2 | 40 | 543 | 785
+Abandonment and impairment of unproved properties | 669 | — | 1,277 | —
+General and administrative expenses | 10,963 | 12,273 | 39,801 | 34,268
+Total operating expenses | 65,582 | 50,673 | 176,654 | 110,901
+Other (expenses) income:
+Interest expense | (10,353 | ) | (9,039 | ) | (28,583 | ) | (19,541 | )
+(Loss) gain on derivatives, net | (134,196 | ) | 8,974 | (266,177 | ) | 36,227
+Gain (loss) on adjustment to fair value – financial instrument liabilities | 13,079 | (25,914 | ) | 29,461 | (30,451 | )
+Interest income and other | 202 | 218 | 591 | 381
+Total other expenses | (131,268 | ) | (25,761 | ) | (264,708 | ) | (13,384 | )
+(Loss) income from operations before income taxes | (67,348 | ) | 1,287 | (129,584 | ) | 34,353
+Income tax benefit | 18,414 | — | 36,994 | —
+Net (loss) income attributable to Prairie Operating Co. | (48,934 | ) | 1,287 | (92,590 | ) | 34,353
+Series F preferred stock declared dividends | (2,426 | ) | (4,252 | ) | (8,694 | ) | (7,540 | )
+Series F preferred stock undeclared dividends | 34 | 443 | (746 | ) | (1,204 | )
+Remeasurement of Series F preferred stock | 17,332 | (19,986 | ) | 87,433 | (93,087 | )
+Net loss attributable to Prairie Operating Co. common stockholders | $ | (33,994 | ) | $ | (22,508 | ) | $ | (14,597 | ) | $ | (67,478 | )
+Loss per common share
+Basic | $ | (0.26 | ) | $ | (0.44 | ) | $ | (0.14 | ) | $ | (1.66 | )
+Diluted | $ | (0.28 | ) | $ | (0.44 | ) | $ | (0.70 | ) | $ | (1.66 | )
+Weighted average common shares outstanding
+Basic | 131,043,270 | 50,624,457 | 102,313,884 | 40,582,092
+Diluted | 205,241,741 | 50,624,457 | 189,099,527 | 40,582,092
+8
+Prairie Operating Co. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+(In thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net (loss) income attributable to Prairie Operating Co. | $ | (92,590 | ) | $ | 34,353
+Adjustments to reconcile net (loss) income attributable to Prairie Operating Co. to net cash provided by operating activities
+Depreciation, depletion, and amortization | 58,819 | 30,500
+Abandonment and impairment of unproved properties | 1,277 | —
+Stock–based compensation | 12,165 | 7,845
+Unrealized loss (gain) on derivatives | 190,821 | (24,052 | )
+(Gain) loss on adjustment to fair value – financial instrument liabilities | (29,461 | ) | 30,451
+Deferred income taxes | (36,994 | ) | —
+Amortization of deferred financing costs | 3,199 | 3,902
+Changes in operating assets and liabilities:
+Oil, natural gas, and NGL accrued revenue | (21,130 | ) | (45,692 | )
+Joint interest and other receivables | 14,922 | (8,470 | )
+Inventory, prepaid expenses, and other current assets | 1,027 | (5,949 | )
+Accounts payable, accrued expenses, and other current liabilities | 19,183 | 22,966
+Revenue, ad valorem, and production taxes payable | 2,139 | 21,530
+Net cash provided by operating activities | 123,377 | 67,384
+Cash flows from investing activities:
+Development of oil and natural gas properties | (185,525 | ) | (126,184 | )
+Other asset and leasehold purchases | (15,031 | ) | (15,724 | )
+Cash paid for Bayswater asset purchase, net of cash received | — | (467,461 | )
+Cash received from payment on note receivable | — | 833
+Net cash used in investing activities | (200,556 | ) | (608,536 | )
+Cash flows from financing activities:
+Borrowings on the Credit Facility | 177,000 | 389,000
+Repayments on the Credit Facility | (71,000 | ) | —
+Debt issuance costs associated with the Credit Facility | (2,728 | ) | (15,670 | )
+Proceeds from the issuance of Common Stock | 2,098 | 43,817
+Financing costs associated with the issuance of Common Stock | (148 | ) | (3,603 | )
+Proceeds from the issuance of Series F Preferred Stock | — | 148,250
+Financing costs associated with the issuance of Series F Preferred Stock | — | (12,171 | )
+Redemption of Series F Preferred Stock | (19,105 | ) | —
+Payments of the Subordinated Note – related party | — | (3,214 | )
+Proceeds from option exercises | 40 | 633
+Treasury stock repurchased | (1,247 | ) | (442 | )
+Net cash provided by financing activities | 84,910 | 546,600
+Net increase in cash and cash equivalents | 7,731 | 5,448
+Cash and cash equivalents, beginning of the period | 20 | 5,192
+Cash and cash equivalents, end of the period | $ | 7,751 | $ | 10,640
+9
+Supplemental Disclosures of Cash Flow Information
+The following table presents non–cash investing and financing activities for the periods presented:
+Nine Months Ended September 30,
+2026 | 2025
+(In thousands)
+Non–cash investing and financing activities:
+Common Stock issued upon conversion of Series F Preferred Stock | $ | 52,452 | $ | 27,148
+Common Stock issued for Series F Preferred Stock dividends (1) | $ | 8,300 | $ | 7,540
+Common Stock issued to Bayswater as part of Bayswater Acquisition purchase price (2) | $ | — | $ | 16,000
+Common Stock issuance costs included in accrued liabilities | $ | — | $ | 254
+Bayswater transaction costs included in accrued liabilities | $ | — | $ | 6,035
+Common Stock issued upon conversion of Series D Preferred Stock | $ | 33 | $ | 8,475
+Common Stock issued upon option exercise | $ | 42 | $ | —
+Common Stock issued upon conversion of Senior Convertible Note (3) | $ | — | $ | 18,164
+(1)
+The Company has elected to issue shares of its common stock, par value $0.01 per share (“Common Stock”) for the quarterly Series F Preferred Stock dividends beginning June 1, 2025.
+(2)
+The Company issued approximately 3.7 million shares of Common Stock to Bayswater as part of the Bayswater acquisition.
+(3)
+During the nine months ended September 30, 2025, YA II PN, LTD. converted the remaining $11.3 million of the initial $15.0 million convertible promissory note in exchange for 2.1 million shares of Common Stock.
+10
+Prairie Operating Co. and Subsidiaries
+Non-GAAP Financial Measures
+Reconciliation of Net (Loss) Income to Adjusted EBITDA
+Adjusted EBITDA is a supplemental non-GAAP financial measure that is used by management to evaluate the performance of our business, make operational decisions, and assess our ability to generate cashflows. Management believes Adjusted EBITDA provides investors with helpful information to better understand the underlying performance trends of our business, facilitate period-to-period comparisons, and assess the company’s operating results.
+Adjusted EBITDA is derived from net (loss) income attributable to Prairie Operating Co. and represents earnings before depreciation, depletion, and amortization, abandonment and impairment of unproved properties, non-cash stock-based compensation, interest expense, net, unrealized loss (gain) on derivatives, non-cash (gain) loss on adjustment to fair value – financial instrument liabilities, litigation and severance settlement expense, and income tax benefit, all as applicable. We present Adjusted EBITDA because the adjustments listed above can vary substantially between periods and companies within our industry depending upon accounting methods, book values of assets, capital structures, and the method by which assets were acquired. Adjusted EBITDA has limitations as an analytical tool, because it excludes certain items that affect our reported financial results. Adjusted EBITDA should not be considered as an alternative to, or more meaningful than, net income calculated in accordance with GAAP or as an indicator of our operating performance or liquidity. Additionally, our calculation of Adjusted EBITDA may not be comparable to similarly titled measures used by other companies.
+The following table presents a reconciliation of the GAAP financial measure of net (loss) income attributable to Prairie Operating Co. to the non-GAAP financial measure of Adjusted EBITDA for the periods indicated:
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025(1)
+(In thousands)
+Net (loss) income attributable to Prairie Operating Co. | $ | (48,934 | ) | $ | 1,287 | $ | (92,590 | ) | $ | 34,353
+Adjustments:
+Depreciation, depletion, and amortization | 25,900 | 16,113 | 58,819 | 30,500
+Abandonment and impairment of unproved properties (2) | 669 | — | 1,277 | —
+Non-cash stock-based compensation | 3,125 | 4,123 | 12,165 | 7,908
+Interest expense, net | 10,103 | 8,613 | 28,038 | 18,952
+Unrealized loss (gain) on derivatives | 105,717 | (962 | ) | 190,821 | (24,052 | )
+Non-cash (gain) loss on adjustment to fair value – financial instrument liabilities (3) | (13,079 | ) | 25,914 | (29,461 | ) | 30,451
+Litigation and severance settlement expense | 217 | 1,227 | 4,371 | 1,406
+Income tax benefit (4) | (18,414 | ) | — | (36,994 | ) | —
+Adjusted EBITDA | $ | 65,304 | $ | 56,315 | $ | 136,446 | $ | 99,518
+(1)
+Net income attributable to Prairie Operating Co. for the nine months ended September 30, 2025 includes revenue and related expenses attributable to the assets acquired from Bayswater beginning on March 26, 2025, the closing date of the Bayswater Acquisition, through September 30, 2025.
+(2)
+Reflects the abandonment of unproved locations which we have deemed non–core and allowed to expire.
+(3)
+Reflects the changes in the fair values of the financial instruments measured at fair value on a recurring basis.
+(4)
+Reflects the deferred income tax benefit recognized for the three and nine months ended September 30, 2026.
