@@ -4646,5 +4646,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:38:02+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 13,
+      "mismatch": 0,
+      "cannot_check": 7
+    },
+    "companies": [
+      {
+        "cik": "1751783",
+        "company": "Rhinebeck Bancorp, Inc.",
+        "accession": "0001751783-26-000042",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1006655",
+        "company": "EVOLUTION PETROLEUM CORP",
+        "accession": "0001104659-26-125263",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1314727",
+        "company": "Sonos Inc",
+        "accession": "0001314727-26-000105",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1795851",
+        "company": "Stewards, Inc.",
+        "accession": "0001663577-26-000341",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1162896",
+        "company": "Prairie Operating Co.",
+        "accession": "0001162896-26-000013",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 13 figures confirmed, 0 mismatches, 7 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:08:02+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 479,
+      "saved_for_run": 479,
+      "match": true
+    },
+    "offline": false
   }
 ]
