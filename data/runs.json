@@ -4833,5 +4833,86 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-19T06:38:09+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-19-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 1,
+      "confirmed": 2,
+      "mismatch": 2,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1314727",
+        "company": "Sonos Inc",
+        "accession": "0001314727-26-000105",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1744489",
+        "company": "Walt Disney Co",
+        "accession": "0001744489-26-000065",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 1,
+        "cannot_check": 2,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 3,
+          "S2": 4,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1080657",
+        "company": "Presidio Property Trust, Inc.",
+        "accession": "0001493152-26-052646",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 1,
+        "cannot_check": 2,
+        "claims_match": 0,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 3,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 2 figures confirmed, 2 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-19T06:08:11+08:00",
+      "watch_brief": "briefs/2026-11-19-watch.md",
+      "brief_says": 47,
+      "saved_for_run": 47,
+      "match": true
+    },
+    "offline": false
   }
 ]
