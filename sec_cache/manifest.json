@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T10:52:26+08:00",
+  "fetched_at": "2026-11-18T11:07:00+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,91 +16,91 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 39 ms"
+      "detail": "HTTP 200, 60 KB in 87 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 87 ms"
+      "detail": "HTTP 200, 44 KB in 18 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 36 ms"
+      "detail": "HTTP 200, 148 KB in 50 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 53 ms"
+      "detail": "HTTP 200, 157 KB in 16 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 14 ms"
     },
     {
       "name": "Walt Disney Co filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 169 ms"
+      "detail": "HTTP 200, 2 KB in 68 ms"
     },
     {
       "name": "Walt Disney Co press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 719 KB in 48 ms"
+      "detail": "HTTP 200, 719 KB in 93 ms"
     },
     {
       "name": "Presidio Property Trust, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1080657/000149315226052646/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 98 ms"
+      "detail": "HTTP 200, 2 KB in 54 ms"
     },
     {
       "name": "Presidio Property Trust, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1080657/000149315226052646/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 39 ms"
+      "detail": "HTTP 200, 154 KB in 169 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 44 ms"
+      "detail": "HTTP 200, 3,174 KB in 34 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 38 ms"
+      "detail": "HTTP 200, 4,447 KB in 16 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 32 ms"
+      "detail": "HTTP 200, 2,745 KB in 19 ms"
     },
     {
       "name": "Walt Disney Co company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json",
       "ok": true,
-      "detail": "HTTP 200, 2,566 KB in 26 ms"
+      "detail": "HTTP 200, 2,566 KB in 280 ms"
     },
     {
       "name": "Presidio Property Trust, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001080657.json",
       "ok": true,
-      "detail": "HTTP 200, 2,192 KB in 513 ms"
+      "detail": "HTTP 200, 2,192 KB in 423 ms"
     },
     {
       "name": "Sonos Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001314727.json",
       "ok": true,
-      "detail": "HTTP 200, 1,748 KB in 702 ms"
+      "detail": "HTTP 200, 1,748 KB in 270 ms"
     }
   ],
   "files": [
