@@ -1592,5 +1592,116 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1080657/000149315226052646/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1080657/000149315226052646/0001493152-26-052646-index.htm",
     "saved_at": "2026-11-19T06:08:11+08:00"
+  },
+  {
+    "cik": "1763950",
+    "company": "Lantern Pharma Inc.",
+    "accession": "0001493152-26-052991",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -5.4,
+        "unit": "USD millions",
+        "quote": "Loss from operations was approximately $5.4 million for the three months ended September 30, 2026"
+      },
+      "net_income": {
+        "value": 0.7,
+        "unit": "USD millions",
+        "quote": "net income was approximately $0.7 million (or $0.05 per basic share) for the three months ended September 30, 2026"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Research and development spending fell year on year.",
+        "quote": "R&D expenses decreased approximately 36% year over year, to approximately $1.6 million for Q3 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The operating loss includes a $2.0 million settlement accrual.",
+        "quote": "Loss from operations for Q3 2026 was approximately $5.4 million, including the $2.0 million proposed settlement accrual; excluding the accrual, loss from operations was approximately $3.4 million."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The company closed a financing and reports its cash position.",
+        "quote": "Cash, cash equivalents, and marketable securities were approximately $7.6 million as of September 30, 2026."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release reports trial progress and a financing, and also a larger operating loss, a settlement accrual and a chief executive's resignation."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1763950-0001493152-26-052991.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/0001493152-26-052991-index.htm",
+    "saved_at": "2026-11-20T06:08:39+08:00"
+  },
+  {
+    "cik": "108312",
+    "company": "Woodward, Inc.",
+    "accession": "0001171843-26-007561",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1160,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,160 | $ | 995"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 166,
+        "unit": "USD millions",
+        "quote": "Net earnings | 166 | 138"
+      },
+      "diluted_eps": {
+        "value": 2.74,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 2.74"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027, Woodward expects sales growth of 6% to 10%.",
+      "quote": "Sales growth | up 6% - 10%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Sales grew 22% for the year, with margin gains in both segments.",
+        "quote": "Woodward delivered another year of record sales and earnings, with 22% sales growth and significant margin expansion across both segments"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects solid growth in 2027 and higher performance from 2028.",
+        "quote": "position Woodward for solid growth in 2027. We expect to reach new levels of financial performance in 2028 and beyond"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Margin expansion is expected to moderate in fiscal 2027.",
+        "quote": "margin rate expansion will moderate in fiscal 2027 due to higher investments in our manufacturing capabilities and capacity"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year record sales and earnings and expects solid growth in 2027, while noting margin gains will moderate."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/108312-0001171843-26-007561.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/exh_991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm",
+    "saved_at": "2026-11-20T06:08:39+08:00"
   }
 ]
