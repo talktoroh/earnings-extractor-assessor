@@ -25573,5 +25573,607 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-11-20T06:38:19+08:00"
+  },
+  {
+    "accession": "0001171843-26-007561",
+    "cik": "108312",
+    "company": "Woodward, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 1,160 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no operating income line."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 166 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 2.74 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Three of four figures present; operating income is not given in the release."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with quotes and three claims. Filed figures should be checked by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,160 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "166 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "2.74 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: net sales 4,357 vs 3,567 (+22%); segment margins 23.6% vs 21.9% (Aerospace), 19.6% vs 14.6% (Industrial). Tested on release tables."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Outlook: consistent with the trend. Sales grew 17% in the quarter (1,160 vs 995) and 22% in the year. Filed trend figures not available."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release guidance: Aerospace segment margin 23.8%-24.3% vs 23.6%, Industrial 18.2%-18.7% vs 19.6%, so expansion slows. Tested on release tables."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Sales +22% and EPS 9.49 vs 7.19 for the year in the release bear out a positive tone; margin moderation is stated."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1160,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 166,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 2.74,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 14.310344827586208,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Sales grew 22% for the year, with margin gains in both segments.",
+        "quote": "Woodward delivered another year of record sales and earnings, with 22% sales growth and significant margin expansion across both segments",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects solid growth in 2027 and higher performance from 2028.",
+        "quote": "position Woodward for solid growth in 2027. We expect to reach new levels of financial performance in 2028 and beyond",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Margin expansion is expected to moderate in fiscal 2027.",
+        "quote": "margin rate expansion will moderate in fiscal 2027 due to higher investments in our manufacturing capabilities and capacity",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year record sales and earnings and expects solid growth in 2027, while noting margin gains will moderate."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-21T06:38:07+08:00"
+  },
+  {
+    "accession": "0001477932-26-007191",
+    "cik": "1682265",
+    "company": "Onar Holding Corp",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 1.06 and is in the letter. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the letter gives no operating income figure."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds (1.36) and is in the letter. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the letter gives no per-share figure."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both quotes are in the letter and hold their numbers. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Two of four figures present; the letter gives no operating income or EPS, so no deduction beyond the layout."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Revenue and net loss are usable, but the claim on 68% growth must be checked by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1.06 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "-1.36 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Pro forma nine-month revenue 13.52 vs 3.13 reported is in the release table. The 68% prior-period base is not in the release or the fundamentals."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Net loss of 1.36 on revenue of 1.06 (net margin -128.3%) fits the going concern doubt. Tested on the release's own figures."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits: revenue 1.06 vs 3.13 pro forma gap and a net loss of 1.36, with going concern doubt stated."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1.06,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -1.36,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -128.30188679245282,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Reported nine-month revenue grew 68%, and pro forma revenue with Advertise Purple would have been far higher.",
+        "quote": "ONAR without the acquisition of Advertise Purple was already improving results: reported revenue grew 68% for the nine months, general and administrative expense fell 55%, and the loss from operations narrowed by 60%.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Management says the company has substantial doubt about its ability to continue as a going concern, and a listing is not assured.",
+        "quote": "our filings continue to say there is substantial doubt about our ability to continue as a going concern, and a listing is not assured.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses improving results and the acquisition, but states the going concern doubt and that a listing is not assured."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-21T06:38:07+08:00"
+  },
+  {
+    "accession": "0000884614-26-000064",
+    "cik": "884614",
+    "company": "UGI CORP /PA/",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 1,157 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives segment operating income, not a consolidated total."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 8 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure to compare. The quote holds 0.04 and is in the release. The 10-Q figures could not be read today (SEC fetch blocked, HTTP 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Three of four figures present; no consolidated operating income is given."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Quarter figures are usable, but M2 uses full-year figures, so the quarter needs a hand check."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,157 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "8 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "0.04 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release: segment EBIT 1,198 vs 1,176 for the year. Revenue 7,256 vs 7,287; adjusted net income fell to 665 from 728. Other parts untestable."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release: GAAP net income 692 vs 678 for the year. Adjusted net income fell, 665 vs 728; the claim is about GAAP, so it holds."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Reported GAAP net income rose (692 vs 678) and EBIT grew (1,198 vs 1,176); adjusted net income fell (665 vs 728)."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1157,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 8,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.04,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 0.6914433880726015,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company grew EBIT year over year, simplified its portfolio and strengthened its balance sheet.",
+        "quote": "We delivered year-over-year growth in EBIT, simplified our portfolio and strengthened our balance sheet",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The release reports fiscal year GAAP net income of $692 million, up from $678 million.",
+        "quote": "GAAP net income of $692 million and adjusted net income of $665 million compared to GAAP net income of $678 million and adjusted net income of $728 million in the prior year.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO describes disciplined execution and progress, and the release reports EBIT growth and a stronger balance sheet."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-21T06:38:07+08:00"
   }
 ]
