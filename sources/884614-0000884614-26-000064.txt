@@ -1,0 +1,186 @@
+Company: UGI CORP /PA/ (CIK 884614)
+Accession: 0000884614-26-000064
+Results released: 2026-11-19
+Press release: https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm
+Saved: 2026-11-21T06:08:29+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ugisept2026ex991.htm EX-99.1
+Press Release
+UGI Reports Fiscal 2026 Results; Issues Fiscal 2027 Guidance
+November 18, 2026
+VALLEY FORGE, PA - UGI Corporation (NYSE: UGI) today reported financial results for the fiscal year ended September 30, 2026 and provided guidance for fiscal year 2027.
+HEADLINES
+•GAAP net income of $692 million and adjusted net income of $665 million compared to GAAP net income of $678 million and adjusted net income of $728 million in the prior year.
+•GAAP diluted earnings per share (“EPS”) of $3.12 and adjusted diluted EPS of $3.00 compared to GAAP diluted EPS of $3.09 and adjusted diluted EPS of $3.32 in the prior year.
+•Delivered adjusted diluted EPS that exceeded our revised guidance range issued on May 6, 2026, inclusive of approximately $0.10 cents of incremental tax benefits associated with the renewable natural gas facilities previously placed in service.
+•Achieved growth in reportable segments earnings before interest expense and income tax1 ("EBIT") of $1,198 million, when compared to $1,176 million in the prior year.
+•Strengthened the balance sheet with available liquidity of approximately $1.8 billion and a leverage ratio of 3.8x at UGI Corporation.
+•Invested approximately $900 million of capital, with 77% directed to our natural gas businesses, including completing the replacement of cast iron main at UGI Utilities nearly a year ahead of our February 2027 commitment.
+•Advanced portfolio optimization through divestiture of the LPG operations in seven countries and the pending sale of the PA Electric Utility for approximately $470 million, subject to customary closing conditions.
+•Subsequent to year-end, successfully concluded the gas base rate case at:
+◦UGI Utilities, which comprised a two-phase, $65 million distribution rate increase ($40 million effective October 2026; $25 million effective October 2027) with a stay-out provision until January 2029.
+◦Mountaineer Gas, a net revenue increase of $17 million effective December 1, 2026, with a stay-out provision until February 2028.
+•Issues Fiscal 2027 adjusted diluted EPS guidance range of $2.90 - $3.202.
+“Fiscal 2026 was a year of disciplined execution and meaningful progress in reshaping UGI," said Robert Flexon, President and Chief Executive Officer of UGI Corporation. "We delivered year-over-year growth in EBIT, simplified our portfolio and strengthened our balance sheet, all while continuing to invest in the safety and reliability of the systems our customers depend on. At AmeriGas, the hard work of transforming the business continues with the team now increasing their focus on profitable volumetric growth. We enter the heating season well prepared to deliver safe, reliable service to our customers. Above all, we remain focused on creating long-term value for our shareholders, and today's announcement is the next step in that commitment."
+2027 OUTLOOK
+UGI provides an adjusted EPS guidance range of $2.90 - $3.202 per diluted share for the fiscal year ending September 30, 2027. This guidance range assumes normal weather and the current tax regime.
+EARNINGS CALL and WEBCAST
+UGI Corporation will hold a live Internet Audio Webcast of its conference call to discuss Fiscal 2026 earnings and other current activities at 8:00 AM ET on Thursday, November 19, 2026. Interested parties may listen to the audio webcast both live and in replay on the Internet at https://www.ugicorp.com/investors/financial-reports/presentations or by visiting the company website https://www.ugicorp.com and clicking on Investors and then Presentations. A replay of the webcast will be available after the event through to 11:59 PM ET November 18, 2027.
+1
+CONTACT INVESTOR RELATIONS
+Tel: +1 610-337-1000
+Tameka Morris, ext. 6297
+Allyse Nehoda, ext. 3845
+ABOUT UGI
+UGI Corporation (NYSE: UGI) is a distributor and marketer of energy products and services in the US and Europe. UGI offers safe, reliable, affordable, and sustainable energy solutions to customers through its subsidiaries, which provide natural gas transmission and distribution, electric generation and distribution, midstream services, propane distribution, renewable natural gas generation, distribution and marketing, and energy marketing services.
+Comprehensive information about UGI Corporation is available on the Internet at https://www.ugicorp.com.
+USE OF NON-GAAP MEASURES
+Management uses “adjusted net income attributable to UGI Corporation” and "adjusted diluted earnings per share," both of which are non-GAAP financial measures, when evaluating UGI's overall performance. Management believes that these non-GAAP measures provide meaningful information to investors about UGI’s performance because they eliminate the impacts of (1) gains and losses on commodity and certain foreign currency derivative instruments not associated with current-period transactions and (2) other significant discrete items that can affect the comparison of period-over-period results. Volatility in net income attributable to UGI can occur as a result of gains and losses on commodity and certain foreign currency derivative instruments not associated with current-period transactions but included in earnings in accordance with U.S. generally accepted accounting principles ("GAAP").
+Non-GAAP financial measures are not in accordance with, or an alternative to, GAAP and should be considered in addition to, and not as a substitute for, the comparable GAAP measures.
+Tables on the last page of this press release reconcile net income attributable to UGI Corporation, the most directly comparable GAAP measure, to adjusted net income attributable to UGI Corporation, and diluted earnings per share, the most comparable GAAP measure, to adjusted diluted earnings per share, to reflect the adjustments referred to above.
+1Reportable segments' EBIT represents an aggregate of our reportable operating segment level EBIT as determined in accordance with GAAP.
+2Because we are unable to predict certain potentially material items affecting diluted earnings per share on a GAAP basis, principally mark-to-market gains and losses on commodity and certain foreign currency derivative instruments, we cannot reconcile the fiscal year 2027 adjusted diluted earnings per share, a non-GAAP measure, to diluted earnings per share, the most directly comparable GAAP measure, in reliance on the “unreasonable efforts” exception set forth in SEC rules.
+USE OF FORWARD-LOOKING STATEMENTS
+This press release contains statements, estimates and projections that are forward-looking statements (as defined in Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended). Such statements use forward-looking words such as “believe,” “plan,” “anticipate,” “continue,” “estimate,” “expect,” “may,” or other similar words and terms of similar meaning, although not all forward-looking statements contain such words. These statements discuss plans, strategies, events or developments that we expect or anticipate will or may occur in the future. Management believes that these are reasonable as of today’s date only. Actual results may differ significantly because of risks and uncertainties that are difficult to predict and many of which are beyond management’s control; accordingly, there is no assurance that results will be realized. You should read UGI’s Annual Report on Form 10-K for a more extensive list of factors that could affect results. We undertake no obligation (and expressly disclaim any obligation) to update publicly any forward-looking statement, whether as a result of new information or future events, except as required by the federal securities laws.
+2
+SEGMENT RESULTS ($ in millions, except where otherwise indicated)
+Utilities
+For the year ended September 30, | 2026 | 2025 | Increase (Decrease)
+Revenues | $ | 2,010 | $ | 1,761 | $ | 249 | 14 | %
+Total margin (a) | $ | 1,035 | $ | 963 | $ | 72 | 7 | %
+Operating and administrative expenses | $ | 398 | $ | 388 | $ | 10 | 3 | %
+Operating income | $ | 450 | $ | 397 | $ | 53 | 13 | %
+Earnings before interest expense and income taxes | $ | 456 | $ | 403 | $ | 53 | 13 | %
+Gas Utility system throughput - billions of cubic feet
+Core market | 107 | 102 | 5 | 5 | %
+Total | 379 | 378 | 1 | — | %
+Gas Utility heating degree days - % colder (warmer) than normal | 9.0 | % | (2.4) | %
+Capital expenditures | $ | 611 | $ | 556 | $ | 55 | 10 | %
+•Temperatures were 10% colder than the prior year.
+•Core market volumes were 5% higher reflecting the impact of colder weather compared to the prior year.
+•Total margin increased $72 million primarily due to the increase in the PA Gas Utility base rates, recoverability under the infrastructure replacement and expansion program ("IREP"), and higher core market volumes, partially offset by the effects of the weather normalization adjustments.
+•Operating and administrative expenses increased $10 million reflecting, among other things, higher personnel expenses and higher uncollectible accounts expenses.
+•Operating income increased $53 million due to the higher total margin largely offset by higher operating and administrative expenses and higher depreciation expense ($11 million) from continued distribution system capital expenditure activity.
+Midstream & Marketing
+For the year ended September 30, | 2026 | 2025 | Increase (Decrease)
+Revenues | $ | 1,625 | $ | 1,483 | $ | 142 | 10 | %
+Total margin (a) | $ | 509 | $ | 494 | $ | 15 | 3 | %
+Operating and administrative expenses | $ | 143 | $ | 129 | $ | 14 | 11 | %
+Operating income | $ | 282 | $ | 288 | $ | (6) | (2) | %
+Earnings before interest expense and income taxes | $ | 285 | $ | 293 | $ | (8) | (3) | %
+Heating degree days - % colder (warmer) than normal | 7.9 | % | (0.4) | %
+Capital expenditures | $ | 57 | $ | 114 | $ | (57) | (50) | %
+•Temperatures were 7% colder than the prior year.
+•Total margin increased $15 million largely due to the higher margins from peaking services and retail commodity marketing activities.
+•Operating and administrative expenses increased $14 million primarily due to Carlisle LNG and additional renewable natural gas facilities placed in service.
+•Operating income decreased $6 million as higher operating and administrative expenses and increased depreciation expenses ($7 million) was partially offset by higher total margin.
+•EBIT decreased $8 million primarily due to the decrease in operating income ($6 million) and lower income from equity investees ($3 million).
+3
+UGI International
+For the year ended September 30, | 2026 | 2025 | Increase (Decrease)
+Revenues | $ | 1,997 | $ | 2,119 | $ | (122) | (6) | %
+Total margin (a) | $ | 930 | $ | 940 | $ | (10) | (1) | %
+Operating and administrative expenses | $ | 517 | $ | 543 | $ | (26) | (5) | %
+Operating income | $ | 326 | $ | 305 | $ | 21 | 7 | %
+Earnings before interest expense and income taxes | $ | 320 | $ | 314 | $ | 6 | 2 | %
+LPG retail gallons sold (millions) | 628 | 698 | (70) | (10) | %
+Heating degree days - % warmer than normal | (8.8) | % | (3.3) | %
+Capital expenditures | $ | 88 | $ | 93 | $ | (5) | (5) | %
+Base-currency results are translated into U.S. dollars based upon exchange rates experienced during the reporting periods. The functional currency of a significant portion of our UGI International results is the euro and, to a much lesser extent, the British pound sterling. During Fiscal 2026 and Fiscal 2025, the average unweighted euro-to-dollar translation rates were $1.16 and $1.11, respectively, and the average unweighted British pound sterling-to-dollar translation rates were $1.34 and $1.31, respectively.
+•Temperatures were 5% warmer than the prior-year.
+•Retail volumes were 10% lower largely due to divesting the LPG businesses in Italy, Austria and Eastern Europe.
+•Total margin decreased $10 million reflecting lower retail gallons sold, partially offset by the translation effects of the stronger foreign currencies ($56 million).
+•Operating and administrative expenses decreased $26 million primarily due to impact of the aforementioned divestitures, substantially offset by the translation effects of the stronger foreign currencies ($30 million).
+•Operating income increased $21 million due to lower operating and administrative expenses ($26 million) and lower depreciation and amortization expenses ($15 million), partially offset by reduced total margin ($10 million) and lower other operating income ($9 million).
+•EBIT increased $6 million reflecting higher operating income substantially offset by higher realized losses on foreign currency exchange contracts ($14 million).
+AmeriGas Propane
+For the year ended September 30, | 2026 | 2025 | (Decrease) increase
+Revenues | $ | 2,074 | $ | 2,276 | $ | (202) | (9) | %
+Total margin (a) | $ | 1,195 | $ | 1,222 | $ | (27) | (2) | %
+Operating and administrative expenses | $ | 933 | $ | 924 | $ | 9 | 1 | %
+Operating income / earnings before interest expense and income taxes | $ | 137 | $ | 166 | $ | (29) | (17) | %
+Retail gallons sold (millions) | 697 | 733 | (36) | (5) | %
+Heating degree days - % warmer than normal | (1.3) | % | (1.3) | %
+Capital expenditures | $ | 116 | $ | 81 | $ | 35 | 43 | %
+•Temperatures were comparable to the prior year.
+•Retail gallons sold decreased 5% reflecting the effect of customer attrition, the Hawaii divestiture and the effects of warmer weather in the West. On a weather-adjusted basis, and excluding the Hawaii divestiture, retail gallons decreased 3% when compared to the prior year.
+•Total margin decreased $27 million reflecting lower retail volumes sold, partially offset by higher average LPG unit margins.
+•Operating and administrative expenses increased $9 million reflecting, among other things, higher marketing and professional services expenses and higher compensation expense.
+•Operating income and EBIT each decreased $29 million largely reflecting lower total margin and higher operating and administrative expenses, partially offset by lower depreciation and amortization expense ($7 million).
+(a) Total margin represents total revenue less total cost of sales. In the case of the Utilities, total margin is also reduced by certain revenue-related taxes.
+4
+REPORT OF EARNINGS - UGI CORPORATION
+(Millions of dollars, except per share) Unaudited | Three Months Ended September 30, | Twelve Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues:
+Utilities | $ | 237 | $ | 216 | $ | 2,010 | $ | 1,761
+Midstream & Marketing | 234 | 251 | 1,625 | 1,483
+UGI International | 365 | 394 | 1,997 | 2,119
+AmeriGas Propane | 343 | 367 | 2,074 | 2,276
+Corporate & Other (a) | (22) | (31) | (450) | (352)
+Total revenues | $ | 1,157 | $ | 1,197 | $ | 7,256 | $ | 7,287
+Earnings before interest expense and income taxes:
+Utilities | $ | 9 | $ | (9) | $ | 456 | $ | 403
+Midstream & Marketing | 17 | 17 | 285 | 293
+UGI International | 23 | 18 | 320 | 314
+AmeriGas Propane | (38) | (34) | 137 | 166
+Total reportable segments | 11 | (8) | 1,198 | 1,176
+Corporate & Other (a) | 64 | 27 | 58 | (69)
+Total earnings before interest expense and income taxes | 75 | 19 | 1,256 | 1,107
+Interest expense:
+Utilities | (31) | (25) | (119) | (100)
+Midstream & Marketing | (14) | (14) | (58) | (49)
+UGI International | (12) | (12) | (45) | (46)
+AmeriGas Propane | (29) | (38) | (139) | (144)
+Corporate & Other, net (a) | (25) | (17) | (81) | (72)
+Total interest expense | (111) | (106) | (442) | (411)
+Income (loss) before income taxes | (36) | (87) | 814 | 696
+Income tax benefit (expense ) | 43 | 74 | (123) | (18)
+Net income (loss) including noncontrolling interests | 7 | (13) | 691 | 678
+Add net loss attributable to noncontrolling interests | 1 | — | 1 | —
+Net income (loss) attributable to UGI Corporation | $ | 8 | $ | (13) | $ | 692 | $ | 678
+Earnings (loss) per share attributable to UGI Corporation shareholders:
+Basic | $ | 0.04 | $ | (0.06) | $ | 3.22 | $ | 3.15
+Diluted | $ | 0.04 | $ | (0.06) | $ | 3.12 | $ | 3.09
+Weighted Average common shares outstanding (thousands):
+Basic | 214,770 | 215,093 | 214,781 | 214,945
+Diluted | 222,155 | 215,093 | 221,876 | 219,160
+Supplemental information:
+Net income (loss) attributable to UGI Corporation:
+Utilities | $ | (12) | $ | (23) | $ | 266 | $ | 237
+Midstream & Marketing | 22 | 11 | 204 | 269
+UGI International | 29 | 13 | 253 | 242
+AmeriGas Propane | (49) | 20 | (2) | 36
+Corporate & Other (a) | 18 | (34) | (29) | (106)
+Total net income (loss) attributable to UGI Corporation | $ | 8 | $ | (13) | $ | 692 | $ | 678
+(a)Corporate & Other includes specific items attributable to our reportable segments that are not included in profit measures used by our chief operating decision maker in assessing our reportable segments' performance or allocating resources. These specific items are shown in the section titled "Non-GAAP Financial Measures - Adjusted Net Income Attributable to UGI and Adjusted Diluted Earnings Per Share" below. Corporate & Other also includes the elimination of certain intercompany transactions.
+5
+Non-GAAP Financial Measures - Adjusted Net Income Attributable to UGI and Adjusted Diluted Earnings Per Share
+(unaudited)
+The following tables reconcile net income attributable to UGI Corporation, the most directly comparable GAAP measure, to adjusted net income attributable to UGI Corporation, and reconcile diluted earnings per share, the most comparable GAAP measure, to adjusted diluted earnings per share, to reflect the adjustments referred to previously:
+Fiscal Year Ended September 30, | 2026 | 2025
+Adjusted net income attributable to UGI Corporation (millions):
+Net income attributable to UGI Corporation | $ | 692 | $ | 678
+Net losses (gains) on commodity derivative instruments not associated with current-period transactions (net of tax of $29 and $(2), respectively) | (70) | 7
+Unrealized losses (gains) on foreign currency derivative instruments (net of tax of $8 and $(3), respectively) | (20) | 7
+Loss on extinguishments of debt (net of tax of $(4) and $(2), respectively) | 11 | 8
+Restructuring costs (net of tax of $(2) and $0, respectively) | 5 | —
+Net loss (gain) on disposals of businesses (net of tax of $(2) and $2, respectively) | 47 | 38
+Release of valuation allowance on certain deferred tax assets | — | (10)
+Total adjustments (1) (2) | (27) | 50
+Adjusted net income attributable to UGI Corporation | $ | 665 | $ | 728
+Adjusted diluted earnings per share:
+UGI Corporation earnings per share — diluted | $ | 3.12 | $ | 3.09
+Net losses (gains) on commodity derivative instruments not associated with current-period transactions | (0.31) | 0.03
+Unrealized losses (gains) on foreign currency derivative instruments | (0.09) | 0.04
+Loss on extinguishments of debt | 0.05 | 0.04
+Restructuring costs | 0.02 | —
+Net loss (gain) on disposals of businesses | 0.21 | 0.17
+Release of valuation allowance on certain deferred tax assets | — | (0.05)
+Total adjustments (1) | (0.12) | 0.23
+Adjusted diluted earnings per share | $ | 3.00 | $ | 3.32
+(1)Corporate & Other includes certain adjustments made to our reporting segments in arriving at net income attributable to UGI Corporation. These adjustments have been excluded from the segment results to align with the measure used by our chief operating decision maker in assessing segment performance and allocating resources.
+(2)Income taxes associated with pre-tax adjustments determined using statutory business unit tax rates.
+6

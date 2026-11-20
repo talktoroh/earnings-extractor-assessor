@@ -1703,5 +1703,104 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/exh_991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm",
     "saved_at": "2026-11-20T06:08:39+08:00"
+  },
+  {
+    "cik": "1682265",
+    "company": "Onar Holding Corp",
+    "accession": "0001477932-26-007191",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.06,
+        "unit": "USD millions",
+        "quote": "Revenue, as reported | $1.06 million | $3.13 million"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -1.36,
+        "unit": "USD millions",
+        "quote": "Net loss, as reported | $(1.36) million | $(3.61) million"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Reported nine-month revenue grew 68%, and pro forma revenue with Advertise Purple would have been far higher.",
+        "quote": "ONAR without the acquisition of Advertise Purple was already improving results: reported revenue grew 68% for the nine months, general and administrative expense fell 55%, and the loss from operations narrowed by 60%."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Management says the company has substantial doubt about its ability to continue as a going concern, and a listing is not assured.",
+        "quote": "our filings continue to say there is substantial doubt about our ability to continue as a going concern, and a listing is not assured."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses improving results and the acquisition, but states the going concern doubt and that a listing is not assured."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1682265-0001477932-26-007191.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1682265/000147793226007191/onar_ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1682265/000147793226007191/0001477932-26-007191-index.htm",
+    "saved_at": "2026-11-21T06:08:29+08:00"
+  },
+  {
+    "cik": "884614",
+    "company": "UGI CORP /PA/",
+    "accession": "0000884614-26-000064",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1157,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 1,157 | $ | 1,197"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 8,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to UGI Corporation | $ | 8 | $ | (13)"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.04 | $ | (0.06)"
+      }
+    },
+    "guidance": {
+      "text": "UGI gives adjusted diluted EPS guidance of $2.90 - $3.20 for the fiscal year ending 30 September 2027.",
+      "quote": "UGI provides an adjusted EPS guidance range of $2.90 - $3.202 per diluted share for the fiscal year ending September 30, 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company grew EBIT year over year, simplified its portfolio and strengthened its balance sheet.",
+        "quote": "We delivered year-over-year growth in EBIT, simplified our portfolio and strengthened our balance sheet"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The release reports fiscal year GAAP net income of $692 million, up from $678 million.",
+        "quote": "GAAP net income of $692 million and adjusted net income of $665 million compared to GAAP net income of $678 million and adjusted net income of $728 million in the prior year."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes disciplined execution and progress, and the release reports EBIT growth and a stronger balance sheet."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/884614-0000884614-26-000064.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm",
+    "saved_at": "2026-11-21T06:08:29+08:00"
   }
 ]
