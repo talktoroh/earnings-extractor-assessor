@@ -1802,5 +1802,128 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm",
     "saved_at": "2026-11-21T06:08:29+08:00"
+  },
+  {
+    "cik": "1531152",
+    "company": "BJ's Wholesale Club Holdings, Inc.",
+    "accession": "0001531152-26-000083",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 6283.491,
+        "unit": "USD millions",
+        "quote": "Total revenues | 6,283,491"
+      },
+      "operating_income": {
+        "value": 313.804,
+        "unit": "USD millions",
+        "quote": "Operating income | 313,804"
+      },
+      "net_income": {
+        "value": 219.509,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 219,509"
+      },
+      "diluted_eps": {
+        "value": 1.73,
+        "unit": "USD per share",
+        "quote": "Income per share attributable to common stockholders—diluted: | $ | 1.73"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2026 the company expects comparable club sales excluding gasoline to rise 2.5% to 3.0% and adjusted EPS of $5.10 to $5.30.",
+      "quote": "Comparable club sales, excluding the impact of gasoline sales, to increase 2.5% to 3.0% year-over-year"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the third quarter was strong, driven by traffic growth and record membership.",
+        "quote": "We delivered a strong third quarter driven by robust traffic growth and record membership."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says full-year guidance for comparable sales and adjusted EPS is being raised.",
+        "quote": "we are raising our full-year guidance for both comparable sales and adjusted EPS"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release says merchandise gross margin rate fell by about 170 basis points because of promotions.",
+        "quote": "Merchandise gross margin rate, which excludes gasoline sales and membership fee income, decreased by approximately 170 basis points compared to the third quarter of fiscal 2025 primarily driven by promotional activities"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO call the quarter strong and say they are raising full-year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1531152-0001531152-26-000083.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/bj-2026103126x8kex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm",
+    "saved_at": "2026-11-22T06:07:44+08:00"
+  },
+  {
+    "cik": "22701",
+    "company": "SUNation Energy, Inc.",
+    "accession": "0001213900-26-122794",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 11.201,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 11,201"
+      },
+      "operating_income": {
+        "value": -11.708,
+        "unit": "USD millions",
+        "quote": "Operating loss | (11,708"
+      },
+      "net_income": {
+        "value": -11.82,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (11,820"
+      },
+      "diluted_eps": {
+        "value": -1.81,
+        "unit": "USD per share",
+        "quote": "Basic and diluted net loss per share | $ | (1.81"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue and gross margin improved from the second quarter and commercial revenue grew 20%.",
+        "quote": "Third-quarter revenue and gross margin improved from the second quarter as activity increased across our New York and Hawaii businesses,"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says SG&A expense fell 37% year over year and the results include $9.8 million of non-cash impairment.",
+        "quote": "year-over-year SG&A expense declined 37% following reductions in selling, marketing and personnel costs."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO says cash preservation and access to additional capital remain essential.",
+        "quote": "Cash preservation, working capital management and access to additional capital remain essential."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "Management stresses liquidity, a need for more capital and weak residential demand, alongside sequential gains."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/22701-0001213900-26-122794.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/ea031315501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
+    "saved_at": "2026-11-22T06:07:44+08:00"
   }
 ]
