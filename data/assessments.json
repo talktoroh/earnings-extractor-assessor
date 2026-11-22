@@ -27193,5 +27193,421 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-11-22T06:37:55+08:00"
+  },
+  {
+    "accession": "0001531152-26-000083",
+    "cik": "1531152",
+    "company": "BJ's Wholesale Club Holdings, Inc.",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Total revenues | 6,283,491' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Operating income | 313,804' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Net income | $ | 219,509' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Quote holds 1.73 and is in the release. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present, and the full-year guidance (comparable sales 2.5% to 3.0%, adjusted EPS $5.10 to $5.30) is given with a quote."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with exact quotes and claims. The figures still await the 10-Q check, so an analyst should confirm them later."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "6,283.491 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "313.804 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "219.509 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "1.73 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: revenue 6,283,491 vs 5,348,163 a year ago (+17.5%); net income +44.4%. Tested on the release's own table, as the SEC year-ago figures were unavailable."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Outlook: consistent with the trend. Release shows Q3 comparable sales ex gasoline +4.1% (nine months +2.9%) against guidance of 2.5% to 3.0%, and adjusted EPS 1.73 vs 1.16. The earlier guidance is not in the saved text."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The release gives no merchandise gross margin rate figure to test. Operating margin rose (4.99% vs 4.08% a year ago, from the release's table), so the fundamentals do not test the 170 basis point fall."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables show revenue +17.5%, operating income +43.7% and net income +44.4% on a year ago, and the guidance is raised."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 6283.491,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 313.804,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 219.509,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.73,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 4.994102800497367,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 3.4934242764094035,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the third quarter was strong, driven by traffic growth and record membership.",
+        "quote": "We delivered a strong third quarter driven by robust traffic growth and record membership.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says full-year guidance for comparable sales and adjusted EPS is being raised.",
+        "quote": "we are raising our full-year guidance for both comparable sales and adjusted EPS",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release says merchandise gross margin rate fell by about 170 basis points because of promotions.",
+        "quote": "Merchandise gross margin rate, which excludes gasoline sales and membership fee income, decreased by approximately 170 basis points compared to the third quarter of fiscal 2025 primarily driven by promotional activities",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO call the quarter strong and say they are raising full-year guidance."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-23T06:38:22+08:00"
+  },
+  {
+    "accession": "0001213900-26-122794",
+    "cik": "22701",
+    "company": "SUNation Energy, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Sales | $ | 11,201' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Operating loss | (11,708' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Quote 'Net loss | $ | (11,820' is in the release and holds the number. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Quote holds (1.81) and is in the release. The 10-Q figures could not be read today (SEC answered 403), so no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present. The release gives no guidance, so none is missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with clear quotes and claims. The figures still await the 10-Q check."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "11.201 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "-11.708 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "-11.82 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-1.81 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release says revenue rose to $11.2 million from $8.2 million in Q2 and gross margin to 30.8% from 26.1%; commercial revenue $2.66 million vs $2.23 million (+19%, about 20%). Tested on the release's text and tables."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: SG&A 4,327 vs 6,898 a year ago (-37.3%); goodwill impairment 4,918 plus intangible 4,901 gives about $9.8 million. Tested on the release's own tables."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "This is a statement of priorities. Operating loss -11.708 and net loss -11.82 (USD millions) fit a need for cash, but no filed figure tests it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue fell 41% on a year ago (11,201 vs 18,994) and the net loss was 11,820 vs 393 (USD thousands), per the release tables; the sequential gains are noted. Cautious fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 11.201,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -11.708,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -11.82,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -1.81,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -104.52638157307383,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -105.52629229533078,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue and gross margin improved from the second quarter and commercial revenue grew 20%.",
+        "quote": "Third-quarter revenue and gross margin improved from the second quarter as activity increased across our New York and Hawaii businesses,",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says SG&A expense fell 37% year over year and the results include $9.8 million of non-cash impairment.",
+        "quote": "year-over-year SG&A expense declined 37% following reductions in selling, marketing and personnel costs.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO says cash preservation and access to additional capital remain essential.",
+        "quote": "Cash preservation, working capital management and access to additional capital remain essential.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "Management stresses liquidity, a need for more capital and weak residential demand, alongside sequential gains."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-23T06:38:22+08:00"
   }
 ]
