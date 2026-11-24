@@ -1925,5 +1925,112 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/ea031315501ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
     "saved_at": "2026-11-22T06:07:44+08:00"
+  },
+  {
+    "cik": "1734005",
+    "company": "Niki BioSolutions, Inc.",
+    "accession": "0001213900-26-122933",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.002015,
+        "unit": "USD millions",
+        "quote": "Revenue for the three months ended September 30, 2026 was $2,015, compared to no revenue for the three months ended September 30, 2025."
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -2.777566,
+        "unit": "USD millions",
+        "quote": "Net loss attributable to Niki BioSolutions increased to $2,777,566 for the three months ended September 30, 2026"
+      },
+      "diluted_eps": {
+        "value": -0.49,
+        "unit": "USD per share",
+        "quote": "Net loss per common share was $(0.49) for the three months ended September 30, 2026"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management aims to build a revenue-generating testing services business alongside its diagnostics work.",
+        "quote": "Our strategy is to build a revenue-generating testing services business in our clinical laboratory while advancing proprietary diagnostics that could create a larger growth opportunity over time."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects clinical validation of CogniMIR to start in the first half of 2027.",
+        "quote": "We anticipate beginning clinical validation in the first half of 2027 and are targeting top-line results in the fourth quarter of 2027."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management stresses its strategy and 2027 milestones, and says the test is still in development."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1734005-0001213900-26-122933.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/0001213900-26-122933-index.htm",
+    "saved_at": "2026-11-25T06:07:51+08:00"
+  },
+  {
+    "cik": "2143850",
+    "company": "CITY THERAPEUTICS, INC.",
+    "accession": "0001104659-26-130823",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 7.669,
+        "unit": "USD millions",
+        "quote": "Collaboration revenue | $ | 7,669 | $ | 6,620"
+      },
+      "operating_income": {
+        "value": -23.65,
+        "unit": "USD millions",
+        "quote": "LOSS FROM OPERATIONS | (23,650 | ) | (13,699"
+      },
+      "net_income": {
+        "value": -23.906,
+        "unit": "USD millions",
+        "quote": "Net loss and comprehensive loss | $ | (23,906 | ) | (13,980"
+      },
+      "diluted_eps": {
+        "value": -3.03,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (3.03 | ) | $ | (2.63"
+      }
+    },
+    "guidance": {
+      "text": "City expects its cash, together with IPO net proceeds, to fund planned operations into 2029.",
+      "quote": "City expects its cash and cash equivalents as of September 30, 2026, together with the net proceeds from the offering, to fund its currently planned operations into 2029."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says data readouts are expected from each of the three lead programs over the coming year.",
+        "quote": "City is entering a milestone-rich period, with data readouts anticipated from each of our three lead programs over the coming year,"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Research and development spending rose against the same quarter last year.",
+        "quote": "Research and development (R&D) expenses were $25.5 million for the third quarter of 2026, compared with $17.0 million for the same period in 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a milestone-rich period and excellent progress across the clinical pipeline."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2143850-0001104659-26-130823.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/tm2630160d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/0001104659-26-130823-index.htm",
+    "saved_at": "2026-11-25T06:07:51+08:00"
   }
 ]

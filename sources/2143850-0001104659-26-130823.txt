@@ -1,0 +1,118 @@
+Company: CITY THERAPEUTICS, INC. (CIK 2143850)
+Accession: 0001104659-26-130823
+Results released: 2026-11-23
+Press release: https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/tm2630160d1_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/0001104659-26-130823-index.htm
+Saved: 2026-11-25T06:07:51+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tm2630160d1_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+City Therapeutics Reports Third Quarter 2026 Financial Results and Business Highlights
+Phase 1 data for CITY-FXI selected for oral presentation at ASH 2026; nonclinical data supporting advancement of CITY-TFR2 into clinical development to be presented in poster session
+First participant dosed in Phase 1 trial of CITY-RBP4 for treatment of Stargardt disease
+Clinical data expected from all three lead programs in 2027
+Completed upsized $230 million IPO, extending expected cash runway into 2029
+CAMBRIDGE, Mass., November 23, 2026 – City Therapeutics, Inc. (Nasdaq: CTY), a clinical-stage biotechnology company developing the next generation of RNA interference (RNAi) therapeutics, today reported financial results for the third quarter ended September 30, 2026, and provided business updates.
+“City is entering a milestone-rich period, with data readouts anticipated from each of our three lead programs over the coming year,” said Andy Orth, President and Chief Executive Officer of City Therapeutics. “That momentum begins at ASH in December, with an oral presentation highlighting data from our ongoing Phase 1 trial of CITY-FXI for thromboembolic diseases, alongside nonclinical data supporting the advancement of CITY-TFR2 for anemia of chronic disease into clinical development. With the Phase 1 trial of CITY-RBP4 for Stargardt disease now underway, we are making excellent progress across our clinical pipeline. We believe our successful IPO positions us to build on this progress and harness the potential of our City Platform to expand the reach of RNAi therapeutics.”
+Recent Business and Pipeline Highlights
+· | Completed upsized initial public offering. In October 2026, City completed its upsized initial public offering, including the full exercise of the underwriters’ option to purchase additional shares, raising gross proceeds of approximately $230.0 million, before deducting underwriting discounts and commissions and other offering expenses. City’s common stock began trading on the Nasdaq Global Market on October 16, 2026, under the ticker symbol “CTY.”
+· | Initiated Phase 1 clinical trial of CITY-RBP4. Earlier this month, City announced dosing of the first participant in its Phase 1 clinical trial evaluating single and multiple subcutaneous doses of CITY-RBP4 in healthy volunteers and people with Stargardt disease type 1 (Stargardt disease).
+Anticipated Milestones
+City remains on track to achieve its previously disclosed development milestones, with clinical data expected in 2027 from all three lead programs.
+CITY-FXI: Phase 1 program for the prevention of thromboembolic diseases
+· | Present data from the ongoing Phase 1 trial of CITY-FXI, including additional data from single ascending dose (SAD) cohorts of healthy volunteers and initial data from the first SAD cohort of adults with inherited risk factors for thrombosis, in an oral presentation at the 68th American Society of Hematology (ASH) Annual Meeting on December 12, 2026.
+· | Report additional data from Phase 1 SAD cohorts in healthy volunteers and adults with inherited prothrombotic risk factors in mid-2027.
+· | Initiate Phase 2 proof-of-concept trial in patients undergoing total knee arthroplasty in mid-2027, with data expected in early 2028.
+· | Report data from the multiple ascending dose (MAD) portion of Phase 1 trial in adults with history of provoked venous thromboembolism with enduring risk factors in late 2027.
+CITY-RBP4: Phase 1 program for treatment of Stargardt disease
+· | Report initial data from Phase 1 trial in mid-2027.
+· | Report SAD data in healthy volunteers and people with Stargardt disease and multiple dose data in people with Stargardt disease from the Phase 1 trial in early 2028.
+· | Initiate a Phase 2 clinical trial in geographic atrophy in late 2027.
+CITY-TFR2: RNAi therapeutic candidate for the treatment of anemia of chronic disease
+· | Present nonclinical data supporting the clinical development of CITY-TFR2 at ASH.
+· | Initiate investigator-initiated trial (IIT) in China in patients with anemia associated with myelofibrosis in late 2026, with data expected in mid-2027.
+· | File investigational new drug application or equivalent in late 2026 and initiate a Phase 1/2 trial in early 2027, with data expected in late 2027.
+· | Initiate a Phase 2 trial in an additional indication of anemia of chronic disease in early 2028, subject to results from the IIT and Phase 1/2 trial.
+Third Quarter 2026 Financial Results
+Cash position: Cash and cash equivalents were $142.0 million as of September 30, 2026, compared with $112.8 million as of December 31, 2025. Following the completion of its upsized IPO in October 2026, City expects its cash and cash equivalents as of September 30, 2026, together with the net proceeds from the offering, to fund its currently planned operations into 2029.
+Collaboration revenue: Collaboration revenue was $7.7 million for the third quarter of 2026, compared with $6.6 million for the same period in 2025. The increase of $1.0 million was primarily due to higher revenue recognized under City’s research collaboration and license agreement with Biogen, partially offset by lower revenue recognized under its research collaboration and license agreement with Bausch + Lomb.
+Research and development expenses: Research and development (R&D) expenses were $25.5 million for the third quarter of 2026, compared with $17.0 million for the same period in 2025. The increase of $8.5 million was primarily due to increased costs to support the advancement of CITY-TFR2, investment in the City Platform and discovery stage assets, and increased personnel and facilities costs, partially offset by decreased costs in the quarter for CITY-FXI, CITY-RBP4 and City’s collaboration programs.
+General and administrative expenses: General and administrative (G&A) expenses were $5.8 million for the third quarter of 2026, compared with $3.3 million for the same period in 2025. The increase of $2.5 million was primarily due to an increase in professional fees, personnel costs, and other general and administrative costs to support City’s organizational growth.
+Net loss: Net loss was $23.9 million, or $3.03 per share, for the third quarter of 2026, compared with a net loss of $14.0 million, or $2.63 per share, for the same period in 2025. The increase of $9.9 million was primarily due to higher R&D and G&A expenses, partially offset by higher collaboration revenue.
+All share and per share amounts for all periods presented have been retroactively adjusted to give effect to the 1.0983-for-1 stock split of the City Therapeutics common stock effected on October 8, 2026.
+About City Therapeutics
+City Therapeutics is a clinical-stage biotechnology company engineering the next generation of RNA interference (RNAi) therapeutics, with the aim of delivering meaningful and durable benefits for patients in need. City’s lead development programs are CITY-FXI for thromboembolic diseases, CITY-RBP4 for Stargardt disease and other retinal diseases, and CITY-TFR2 for anemia associated with chronic diseases. The City Platform is the engine behind every therapeutic the company develops and integrates deep expertise in trigger engineering, including proprietary cityRNA triggers designed to address limitations of conventional RNAi approaches, tissue-selective delivery, and genetics-driven target selection. For more information, visit www.citytx.com and follow us on LinkedIn, X, and Bluesky.
+Website and Social Media Disclosure
+From time to time, we may use our website as well as social media, including our accounts on LinkedIn at www.linkedin.com/company/city-therapeutics, X at @CityTx_, and Bluesky at @citytx.bsky.social, to distribute material information about us and for complying with our disclosure obligations under Regulation FD. Our financial and other material information is routinely posted to and accessible on the Investors section of our website, available at www.citytx.com. Investors are encouraged to review the Investors section of our website because we may post material information on that site that is not otherwise disseminated by us. Information that is contained in and can be accessed through our website or our social media is not incorporated into, and does not form a part of, this press release.
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. All statements contained in this press release other than statements of historical facts are forward-looking statements, including, without limitation, statements regarding: the design, conduct, progress and timing of City’s ongoing and planned clinical trials of CITY-FXI, CITY-RBP4 and CITY-TFR2, including the expected timing of data from each of its three lead programs; the planned Phase 2 trial of CITY-FXI in patients undergoing total knee arthroplasty; the planned Phase 2 trial of CITY-RBP4 in geographic atrophy; the planned investigator-initiated trial of CITY-TFR2 in China, the planned submission of an investigational new drug application or equivalent for CITY-TFR2, and the planned Phase 1/2 trial and potential Phase 2 trial of CITY-TFR2; City’s ability to achieve its anticipated development milestones; the therapeutic potential of CITY-FXI, CITY-RBP4 and CITY-TFR2; the potential of the City Platform; the sufficiency of City’s cash and cash equivalents as of September 30, 2026, together with the net proceeds from its initial public offering, to fund its currently planned operations into 2029; and City’s strategy, plans and objectives. In some cases, you can identify forward-looking statements by terms such as “aim,” “anticipate,” “believe,” “continue,” “could,” “designed to,” “estimate,” “expect,” “intend,” “may,” “on track,” “plan,” “potential,” “predict,” “should,” “target,” “will” or the negative of these terms or other similar expressions, although not all forward-looking statements contain these identifying words.
+Forward-looking statements are based on City’s current beliefs and expectations and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements, including, without limitation: City’s limited operating history and the early stage of its development programs; uncertainties inherent in the development of product candidates, including the initiation, timing, enrollment and completion of clinical trials; the risk that results of nonclinical studies or earlier clinical trials may not be predictive of future results; the risk that initial or interim data may change as more data become available; the risk that City’s product candidates may cause adverse side effects or fail to demonstrate sufficient safety or efficacy to obtain regulatory approval; risks related to clinical trials conducted outside the United States, including the planned investigator-initiated trial of CITY-TFR2 in China; City’s ability to obtain and maintain regulatory approvals; risks associated with City’s RNAi approach and the City Platform; competition, including from other therapies for thromboembolic diseases, Stargardt disease and anemia of chronic disease; City’s reliance on third parties, including clinical research organizations and manufacturers; City’s collaboration and license arrangements; City’s ability to obtain, maintain and enforce intellectual property protection; City’s need for substantial additional funding, and the risk that its cash resources may not be sufficient to fund its operations for the period it currently expects; and general economic, industry and market conditions. These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in City’s final prospectus relating to its initial public offering filed with the Securities and Exchange Commission (the “SEC”) pursuant to Rule 424(b)(4) under the Securities Act of 1933, as amended, on October 16, 2026, in City’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, to be filed with the SEC on or about the date hereof, and in City’s subsequent filings with the SEC.
+Any forward-looking statements contained in this press release speak only as of the date hereof, and City expressly disclaims any obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+References in this press release to the expected timing of program milestones as occurring in “early,” “mid-” or “late” in a given year refer to the first and second quarters, the second and third quarters, and the third and fourth quarters, respectively, of the applicable calendar year.
+Media Contact:
+Katie Engleman, 1AB
+katie@1abmedia.com
+Investor Contact:
+Stephanie Ascher, Precision AQ
+Stephanie.Ascher@precisionaq.com
+CITY THERAPEUTICS, INC.
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+(In thousands, except share and per share data)
+(Unaudited)
+THREE MONTHS ENDED SEPTEMBER 30, | NINE MONTHS ENDED SEPTEMBER 30,
+2026 | 2025 | 2026 | 2025
+REVENUE:
+Collaboration revenue | $ | 7,669 | $ | 6,620 | $ | 14,027 | $ | 12,197
+OPERATING EXPENSES:
+Research and development | 25,500 | 16,991 | 71,819 | 41,366
+General and administrative | 5,819 | 3,328 | 16,988 | 11,125
+Total operating expenses | 31,319 | 20,319 | 88,807 | 52,491
+LOSS FROM OPERATIONS | (23,650 | ) | (13,699 | ) | (74,780 | ) | (40,294 | )
+OTHER INCOME (EXPENSE), NET:
+Interest income | 1,057 | 1,205 | 2,653 | 3,269
+Interest expense | (605 | ) | (805 | ) | (2,101 | ) | (1,450 | )
+Other (expense) income, net | (708 | ) | (681 | ) | (3,121 | ) | 213
+Total other (expense) income, net | (256 | ) | (281 | ) | (2,569 | ) | 2,032
+Net loss and comprehensive loss | $ | (23,906 | ) | $ | (13,980 | ) | $ | (77,349 | ) | $ | (38,262 | )
+Weighted-average common shares outstanding, basic and diluted | 7,902,801 | 5,316,369 | 7,368,269 | 4,995,814
+Net loss per share, basic and diluted | $ | (3.03 | ) | $ | (2.63 | ) | $ | (10.50 | ) | $ | (7.66 | )
+CITY THERAPEUTICS, INC.
+Condensed Consolidated Balance Sheets
+(In thousands, except share and per share data)
+(Unaudited)
+SEPTEMBER 30, 2026 | DECEMBER 31, 2025
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents | $ | 141,992 | $ | 112,793
+Accounts receivable | 854 | 1,209
+Prepaid expenses and other current assets | 3,733 | 2,871
+Total current assets | 146,579 | 116,873
+Property and equipment, net | 6,633 | 5,489
+Operating lease right-of-use asset | 22,530 | 24,857
+Restricted cash | 2,504 | 2,504
+Deferred offering costs | 3,321 | —
+Other non-current assets | 19 | 45
+TOTAL ASSETS | $ | 181,586 | $ | 149,768
+LIABILITIES, CONVERTIBLE PREFERRED STOCK AND STOCKHOLDERS’ DEFICIT
+CURRENT LIABILITIES:
+Accounts payable | $ | 5,832 | $ | 2,695
+Convertible notes, current | 33,775 | 10,805
+Operating lease liability, current | 5,155 | 5,075
+Deferred revenue, current | 3,976 | 11,255
+Accrued interest | 3,252 | 2,642
+Accrued expenses and other current liabilities | 9,005 | 5,570
+Total current liabilities | 60,995 | 38,042
+Operating lease liability, non-current | 18,035 | 20,341
+Convertible notes, non-current, net | — | 31,063
+Other liabilities, non-current | 576 | 463
+Total liabilities | $ | 79,606 | $ | 89,909
+Series Seed convertible preferred stock, $0.0001 par value; 4,544,990 and 4,544,990 shares authorized as of September 30, 2026 and December 31, 2025; 4,544,990 and 4,544,990 shares issued and outstanding as of September 30, 2026 and December 31, 2025; aggregate liquidation preference of $4,545 and $4,545 as of September 30, 2026 and December 31, 2025 | 4,475 | 4,475
+Series A convertible preferred stock, $0.0001 par value; 13,996,318 and 14,295,436 shares authorized as of September 30, 2026 and December 31, 2025; 13,996,318 and 13,996,318 shares issued and outstanding as of September 30, 2026 and December 31, 2025; aggregate liquidation preference of $140,376 and $140,376 as of September 30, 2026 and December 31, 2025 | 140,039 | 140,039
+Series B and B-1 convertible preferred stock, $0.0001 par value; 7,725,348 shares authorized, issued, and outstanding as of September 30, 2026; no shares authorized, issued, or outstanding as of December 31, 2025; aggregate liquidation preference of $110,990 and $0 as of September 30, 2026 and December 31, 2025 | 111,542 | —
+STOCKHOLDERS’ DEFICIT:
+Common stock, $0.0001 par value; 42,350,000 and 30,000,000 shares authorized as of September 30, 2026 and December 31, 2025; 9,826,571 and 7,772,189 shares issued as of September 30, 2026 and December 31, 2025; 8,090,267 and 5,690,551 shares outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Additional paid-in capital | 12,377 | 4,449
+Accumulated deficit | (166,453 | ) | (89,104 | )
+Total stockholders’ deficit | (154,076 | ) | (84,655 | )
+TOTAL LIABILITIES, CONVERTIBLE PREFERRED STOCK AND STOCKHOLDERS’ DEFICIT | $ | 181,586 | $ | 149,768
