@@ -5809,5 +5809,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-25T06:38:01+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-25-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 9,
+      "mismatch": 2,
+      "cannot_check": 5
+    },
+    "companies": [
+      {
+        "cik": "1531152",
+        "company": "BJ's Wholesale Club Holdings, Inc.",
+        "accession": "0001531152-26-000083",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "22701",
+        "company": "SUNation Energy, Inc.",
+        "accession": "0001213900-26-122794",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1734005",
+        "company": "Niki BioSolutions, Inc.",
+        "accession": "0001213900-26-122933",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 2,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 2,
+          "S2": 5,
+          "S3": 2
+        }
+      },
+      {
+        "cik": "2143850",
+        "company": "CITY THERAPEUTICS, INC.",
+        "accession": "0001104659-26-130823",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 9 figures confirmed, 2 mismatches, 5 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-25T06:07:51+08:00",
+      "watch_brief": "briefs/2026-11-25-watch.md",
+      "brief_says": 26,
+      "saved_for_run": 26,
+      "match": true
+    },
+    "offline": false
   }
 ]
