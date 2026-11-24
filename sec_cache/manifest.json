@@ -1,70 +1,130 @@
 {
-  "fetched_at": "2026-11-23T09:56:58+08:00",
+  "fetched_at": "2026-11-24T13:17:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-20",
-    "end": "2026-11-22",
+    "end": "2026-11-24",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 9,
-  "answered": 9,
+  "requests": 19,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-22",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 150 ms"
+      "detail": "HTTP 200, 26 KB in 138 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 31 ms"
+      "detail": "HTTP 200, 149 KB in 24 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 157 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 20 ms"
+      "detail": "HTTP 200, 154 KB in 16 ms"
+    },
+    {
+      "name": "AGILENT TECHNOLOGIES, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "JACOBS SOLUTIONS INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "Niki BioSolutions, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 47 ms"
+    },
+    {
+      "name": "Niki BioSolutions, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 33 KB in 93 ms"
+    },
+    {
+      "name": "Local Bounti Corporation/DE filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075497/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "Hewlett Packard Enterprise Co filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "CITY THERAPEUTICS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 31 ms"
+    },
+    {
+      "name": "CITY THERAPEUTICS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/tm2630160d1_ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 84 KB in 71 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 29 ms"
+      "detail": "HTTP 200, 3,175 KB in 27 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 80 ms"
+      "detail": "HTTP 200, 4,447 KB in 50 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 61 ms"
+      "detail": "HTTP 200, 2,745 KB in 22 ms"
+    },
+    {
+      "name": "Niki BioSolutions, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001734005.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,019 KB in 18 ms"
+    },
+    {
+      "name": "CITY THERAPEUTICS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002143850.json",
+      "ok": true,
+      "detail": "HTTP 200, 80 KB in 130 ms"
     },
     {
       "name": "BJ's Wholesale Club Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001531152.json",
       "ok": true,
-      "detail": "HTTP 200, 1,940 KB in 23 ms"
+      "detail": "HTTP 200, 1,940 KB in 248 ms"
     },
     {
       "name": "SUNation Energy, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000022701.json",
       "ok": true,
-      "detail": "HTTP 200, 3,024 KB in 205 ms"
+      "detail": "HTTP 200, 3,062 KB in 431 ms"
     }
   ],
   "files": [
@@ -73,9 +133,15 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001531152.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001734005.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002143850.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "www.sec.gov_Archives_edgar_data_1734005_000121390026122933_ea031301501ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1734005_000121390026122933_index.json",
+    "www.sec.gov_Archives_edgar_data_2143850_000110465926130823_index.json",
+    "www.sec.gov_Archives_edgar_data_2143850_000110465926130823_tm2630160d1_ex99-1.htm"
   ]
 }
