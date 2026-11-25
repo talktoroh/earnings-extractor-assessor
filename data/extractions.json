@@ -2032,5 +2032,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/tm2630160d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/0001104659-26-130823-index.htm",
     "saved_at": "2026-11-25T06:07:51+08:00"
+  },
+  {
+    "cik": "1618732",
+    "company": "Nutanix, Inc.",
+    "accession": "0001171843-26-007693",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 772.4,
+        "unit": "USD millions",
+        "quote": "Total revenue | 670,576 | 772,400"
+      },
+      "operating_income": {
+        "value": 142.585,
+        "unit": "USD millions",
+        "quote": "Income from operations | 49,335 | 142,585"
+      },
+      "net_income": {
+        "value": 143.649,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 62,096 | $ | 143,649"
+      },
+      "diluted_eps": {
+        "value": 0.49,
+        "unit": "USD per share",
+        "quote": "Net income per share attributable to Class A common stockholders, diluted | $ | 0.21 | $ | 0.49"
+      }
+    },
+    "guidance": {
+      "text": "Nutanix expects second quarter fiscal 2027 revenue of $820 to $830 million.",
+      "quote": "Revenue | $820 - $830 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says results exceeded all of the company's guided metrics.",
+        "quote": "In the first quarter we delivered results that exceeded all of our guided metrics"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CFO cites 15% year-over-year ARR growth and solid free cash flow.",
+        "quote": "15% year-over-year ARR growth and solid free cash flow generation"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO says the focus is on sustainable growth and better profitability.",
+        "quote": "We remain focused on delivering sustainable growth and improving profitability."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says results beat all guided metrics, and the CFO cites growth and cash flow."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1618732-0001171843-26-007693.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1618732/000117184326007693/exh_991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1618732/000117184326007693/0001171843-26-007693-index.htm",
+    "saved_at": "2026-11-26T06:08:10+08:00"
+  },
+  {
+    "cik": "769397",
+    "company": "Autodesk, Inc.",
+    "accession": "0000769397-26-000069",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 2160,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 2,160 | 1,853"
+      },
+      "operating_income": {
+        "value": 551,
+        "unit": "USD millions",
+        "quote": "Income from operations | 551 | 470"
+      },
+      "net_income": {
+        "value": 563,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 563 | $ | 343"
+      },
+      "diluted_eps": {
+        "value": 2.68,
+        "unit": "USD per share",
+        "quote": "Diluted net income per share | $ | 2.68 | $ | 1.60"
+      }
+    },
+    "guidance": {
+      "text": "Autodesk expects fourth quarter fiscal 2027 revenue of $2,220 to $2,235 million.",
+      "quote": "Revenue (in millions) | $2,220 - $2,235"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO describes consistent underlying momentum, with strength in AEC and strong renewal rates.",
+        "quote": "Our third-quarter results reflect the consistent underlying momentum of our business, with continued strength in AEC, particularly construction and emerging markets, alongside strong renewal rates"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says the mid-points of the full-year billings and revenue outlook were raised.",
+        "quote": "we’ve raised the mid-points of our full-year billings and revenue outlook to reflect the third-quarter outperformance"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO notes incremental headwinds from dollar appreciation.",
+        "quote": "Despite incremental headwinds from dollar appreciation"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CFO cites momentum and a raised outlook, and notes currency headwinds."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/769397-0000769397-26-000069.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/q327pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/0000769397-26-000069-index.htm",
+    "saved_at": "2026-11-26T06:08:10+08:00"
   }
 ]
