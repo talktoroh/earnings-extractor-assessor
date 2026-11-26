@@ -2158,5 +2158,99 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/q327pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/0000769397-26-000069-index.htm",
     "saved_at": "2026-11-26T06:08:10+08:00"
+  },
+  {
+    "cik": "315189",
+    "company": "DEERE & CO",
+    "accession": "0001104659-26-131741",
+    "release_date": "2026-11-25",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 12115,
+        "unit": "USD millions",
+        "quote": "Net sales and revenues | $ | 12,115"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1051,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 1,051"
+      },
+      "diluted_eps": {
+        "value": 3.89,
+        "unit": "USD per share",
+        "quote": "Fully diluted EPS | $ | 3.89"
+      }
+    },
+    "guidance": {
+      "text": "Deere forecasts fiscal 2027 net income attributable to the company of $4.50 to $5.25 billion, including a one-time pension settlement charge.",
+      "quote": "Net income attributable to Deere & Company for fiscal 2027 is forecasted to be in a range of $4.50 to $5.25 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says results were disciplined and structurally stronger than at the same point in the last cycle.",
+        "quote": "Even at cyclical lows, we executed with discipline. Our results are structurally stronger compared with the same point in the last cycle"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO sees early signs of improvement in large agriculture, led by North America, but a wider range of outcomes.",
+        "quote": "we’re seeing early signs of improvement in large agriculture, led by North America"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites early improvement and strong execution, but also continued uncertainty and a wider outlook range."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/315189-0001104659-26-131741.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+    "saved_at": "2026-11-27T06:08:15+08:00"
+  },
+  {
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "accession": "0000927089-26-000198",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company expects the repositioning to add about $0.03 of EPS over the next four quarters.",
+      "quote": "result in approximately $0.03 of estimated EPS accretion over the next four quarters"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the sale is a step towards stronger recurring earnings and a better net interest margin.",
+        "quote": "This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The release expects a one-time after-tax loss from the sale in the fourth quarter of 2026.",
+        "quote": "The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax)"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management expects the repositioning to lift recurring earnings and describes the company as well positioned."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1901637-0000927089-26-000198.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+    "saved_at": "2026-11-27T06:08:15+08:00"
   }
 ]

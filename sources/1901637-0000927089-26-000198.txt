@@ -1,0 +1,50 @@
+Company: USCB FINANCIAL HOLDINGS, INC. (CIK 1901637)
+Accession: 0000927089-26-000198
+Results released: 2026-11-25
+Press release: https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm
+Saved: 2026-11-27T06:08:15+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1051057.htm EXHIBIT 99.1
+Exhibit 99.1
+USCB Financial Holdings, Inc. Announces Securities Portfolio Repositioning
+Press Release
+MIAMI, FL – November 25, 2026 – USCB Financial Holdings, Inc. (the “Company”) (NASDAQ: USCB), the holding company for U.S. Century Bank (the “Bank”), announced today that it sold approximately $22.4 million of available-for-sale (“AFS”) securities as part of a targeted balance sheet repositioning designed to improve recurring earnings, drive earnings per share (“EPS”) growth, and further strengthen profitability.
+“Our strong capital position continues to give us the flexibility to proactively reshape the balance sheet and put our capital to work where it earns the most. This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin, which we believe will deliver greater value for the Company and our shareholders,” said Luis de la Aguilera, Chairman, President and CEO of the Company.
+The AFS securities sold, consisting primarily of agency collateralized mortgage obligations and fixed-rate SBA securities, represented approximately 5.7% of the AFS portfolio, based on amortized cost as of September 30, 2026, and had a weighted average book yield of 1.56% and a weighted average life of approximately 6.6 years. The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax) that will be recorded in the fourth quarter of 2026. Assuming a 6.50% average yield on reinvestment of the approximately $17.5 million in sale proceeds, the repositioning is expected to increase net interest income by approximately $0.8 million in the first year, contribute approximately 3 basis points to annualized net interest margin beginning with the first quarter of 2027, and result in approximately $0.03 of estimated EPS accretion over the next four quarters.
+In addition to improving yield, the repositioning shortens the expected average life of the redeployed assets to approximately 3.9 years, enhancing cash flow and reinvestment flexibility. Management believes that the execution of this strategy will position the Company well for continued profitable growth and will further enhance the value of the enterprise.
+About USCB Financial Holdings, Inc.
+USCB Financial Holdings, Inc. is the bank holding company for U.S. Century Bank. Established in 2002, U.S. Century Bank is one of the largest community banks headquartered in Miami, and one of the largest community banks in the State of Florida. U.S. Century Bank is rated 5-Stars by BauerFinancial, the nation’s leading independent bank rating firm. U.S. Century Bank offers customers a wide range of financial products and services and supports numerous community organizations, including the Greater Miami Chamber of Commerce, the South Florida Hispanic Chamber of Commerce, and ChamberSouth. For more information or to find a U.S. Century Bank banking center near you, please call (305) 715-5200 or visit www.uscentury.com.
+Forward-Looking Statements
+This press release may contain statements that are not historical in nature and are intended to be, and are hereby identified as, forward-looking statements for purposes of the safe harbor provided by Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are those that are not historical facts. The words “may,” “will,” “anticipate,” “could,” “should,” “would,” “believe,” “contemplate,” “expect,” “aim,” “plan,” “estimate,” “seek,” “continue,” and “intend,” the negative of these terms, as well as other similar words and expressions of the future, are intended to identify forward-looking statements. These forward-looking statements include, but are not limited to, statements related to our projected growth, anticipated future financial performance, and management’s long-term performance goals, as well as statements relating to the anticipated effects on our results of operations and financial condition from expected or potential developments or events, or business and growth strategies, including anticipated internal growth and potential balance sheet restructuring.
+These forward-looking statements involve significant risks and uncertainties that could cause our actual results to differ materially from those anticipated in such statements. Potential risks and uncertainties include, but are not limited to:
+● | the strength of the United States economy in general and the strength of the local economies in which we conduct operations;
+● | our ability to successfully manage interest rate risk, credit risk, liquidity risk, and other risks inherent to our industry;
+● | the ability to promptly redeploy the proceeds of balance sheet restructuring at yields consistent with our estimates;
+● | the accuracy of our financial statement estimates and assumptions, including the estimates used for our credit loss reserve and deferred tax asset valuation allowance;
+● | the efficiency and effectiveness of our internal control procedures and processes;
+● | our ability to comply with the extensive laws and regulations to which we are subject, including the laws for each jurisdiction where we operate;
+● | adverse changes or conditions in capital and financial markets, including actual or potential stresses in the banking industry;
+● | deposit attrition and the level of our uninsured deposits;
+● | legislative or regulatory changes, including the enactment of the One Big Beautiful Bill and changes in accounting principles, policies, practices or guidelines, including the on-going effects of the Current Expected Credit Losses (“CECL”) standard;
+● | the lack of a significantly diversified loan portfolio and our concentration in the South Florida market, including the risks of geographic, depositor, and industry concentrations, including our concentration in loans secured by real estate, in particular, commercial real estate;
+● | the effects of climate change;
+● | the concentration of ownership of our common stock;
+● | fluctuations in the price of our common stock;
+● | our ability to fund or access the capital markets at attractive rates and terms and manage our growth, both organic growth as well as growth through other means, such as future acquisitions;
+● | inflation, interest rate, unemployment rate, and market and monetary fluctuations;
+● | the effects of potential new or increased tariffs, retaliatory tariffs and trade restrictions;
+● | the impact of international hostilities and geopolitical events;
+● | increased competition and its effect on the pricing of our products and services as well as our interest rate spread and net interest margin;
+● | the loss of key employees;
+● | the effectiveness of our risk management strategies, including operational risks, including, but not limited to, client, employee, or third-party fraud and security breaches; and
+● | other risks described in this press release and other filings we make with the Securities and Exchange Commission (“SEC”).
+All forward-looking statements are necessarily only estimates of future results, and there can be no assurance that actual results will not differ materially from expectations. Therefore, you are cautioned not to place undue reliance on any forward-looking statements. Further, forward-looking statements included in this press release are made only as of the date hereof, and we undertake no obligation to update or revise any forward-looking statement to reflect events or circumstances after the date on which the statements are made or to reflect the occurrence of unanticipated events, unless required to do so under the federal securities laws. You should also review the risk factors described in the reports the Company has filed or will file with the SEC.
+Contacts:
+Investor Relations
+InvestorRelations@uscentury.com
+Media Relations
+Martha Guerra-Kattou
+(305) 715-5141
+MGuerra@uscentury.com
