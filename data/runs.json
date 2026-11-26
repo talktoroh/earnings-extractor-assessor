@@ -6132,5 +6132,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-27T06:37:50+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 8,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1531152",
+        "company": "BJ's Wholesale Club Holdings, Inc.",
+        "accession": "0001531152-26-000083",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1618732",
+        "company": "Nutanix, Inc.",
+        "accession": "0001171843-26-007693",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "769397",
+        "company": "Autodesk, Inc.",
+        "accession": "0000769397-26-000069",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "315189",
+        "company": "DEERE & CO",
+        "accession": "0001104659-26-131741",
+        "period_label": "quarter ended 1 November 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1901637",
+        "company": "USCB FINANCIAL HOLDINGS, INC.",
+        "accession": "0000927089-26-000198",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 4,
+          "S2": 5,
+          "S3": 3
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 8 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-27T06:08:15+08:00",
+      "watch_brief": "briefs/2026-11-27-watch.md",
+      "brief_says": 7,
+      "saved_for_run": 7,
+      "match": true
+    },
+    "offline": false
   }
 ]
